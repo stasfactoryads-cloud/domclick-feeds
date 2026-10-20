@@ -56,6 +56,10 @@ NS_PLANS = "http://webmaster.yandex.ru/schemas/feed/realty/2010-06"
 MSK_TZ = timezone(timedelta(hours=3))
 OUTPUT_DIR = os.path.dirname(os.path.abspath(__file__))
 PLACEHOLDERS = Counter()
+# Картинки, которые нельзя передавать в фиде (по указанию заказчика)
+EXCLUDED_IMAGES = {
+    "https://storage.yandexcloud.net/psk-media/media/p/ea/p/38b72252ea66715a55bd24bc012c59a761ad38a2.jpg",
+}
 
 
 def fetch_json(url):
@@ -252,7 +256,7 @@ def add_complex(root, key, flats, info, plan_images, ids):
         profit = ET.SubElement(profits, "profit_main")
         add(profit, "title", adv["title"])
         add(profit, "text", adv["text"])
-        if adv["image"]:
+        if adv["image"] and adv["image"] not in EXCLUDED_IMAGES:
             add(profit, "image", adv["image"])
 
     buildings_el = ET.SubElement(cx, "buildings")
@@ -290,7 +294,10 @@ def add_complex(root, key, flats, info, plan_images, ids):
             add(f_el, "floor", flat.get("floor") or 0)
             add(f_el, "room", get_room(flat))
 
-            plans = [url for tag, url in plan_images.get(flat_id, []) if tag == "plan"]
+            plans = [
+                url for tag, url in plan_images.get(flat_id, [])
+                if tag == "plan" and url not in EXCLUDED_IMAGES
+            ]
             if not plans:
                 PLACEHOLDERS["планировка квартиры"] += 1
             plans_el = ET.SubElement(f_el, "plans")
