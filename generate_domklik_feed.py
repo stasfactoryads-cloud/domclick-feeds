@@ -1,18 +1,20 @@
 #!/usr/bin/env python3
 """
-Генератор XML-фидов для площадки Домклик (новостройки).
+Генератор единого XML-фида для площадки Домклик (новостройки) по всем проектам застройщика.
 
-Проекты: АКВАТОРИЯ (ID 44), АССАМБЛЕЯ (ID 41).
-Данные о проектах (адрес, метро, класс, сдача, преимущества) и планировки
-берутся из API сайта psk-info.ru:
+Формат: требования Домклик https://domclick.ru/validation/requirements
+Корень <complexes> > <complex> (по одному на ЖК) > <buildings> > <building> > <flats> > <flat>.
+
+Данные берутся из API сайта psk-info.ru:
   проекты:  https://psk-info.ru/api/projects/?format=json
   квартиры: https://psk-info.ru/api/flats/?format=json
+Планировки JPG берутся из агентских фидов, которые уже лежат на хостинге.
 
-Структура XML повторяет realty-feed, который уже используется в фидах ПСК.
-Официальная спецификация фида Домклик в открытом доступе не найдена,
-поля нужно сверить с требованиями в кабинете партнера Домклик.
+ID Домклик (ID ЖК, ID корпусов, ID застройщика, domrf_id квартир) в API сайта нет.
+Они лежат в domclick_ids.json рядом со скриптом. Пустые ID заменяются заглушкой "0".
 
 Запуск: python3 generate_domklik_feed.py
+Результат: feeds/domklik_feed.xml
 """
 
 import json
@@ -25,20 +27,35 @@ from collections import Counter
 from datetime import datetime, timedelta, timezone
 from xml.dom import minidom
 
-# === Конфигурация проектов ===
+# ID проектов в API сайта psk-info.ru. Ключ совпадает с именем агентского фида и с domclick_ids.json
 PROJECTS = {
-    44: {"output_file": "akvatoriya_domklik_feed.xml"},
-    41: {"output_file": "assambleya_domklik_feed.xml"},
+    "optimist": 45,
+    "sezony": 43,
+    "akvatoriya": 44,
+    "assambleya": 41,
+    "galernaya-gavan": 42,
+    "plus-pulkovsky": 32,
+    "respect": 39,
+    "industrial-avenir": 40,
+    "ladozhsky-avenir": 2,
+    "bakunina-33": 30,
+    "severnaya-korona": 22,
 }
 
 PROJECTS_API = "https://psk-info.ru/api/projects/?format=json"
 FLATS_API = "https://psk-info.ru/api/flats/?format=json"
+# Агентские фиды с JPG-планировками (plan, floor-plan) по internal-id лота
+PLANS_FEED_TEMPLATE = "https://feedhub.realty/feed-evel/feeds/pan/{key}.xml"
+IDS_FILE = "domclick_ids.json"
+OUTPUT_FILE = "feeds/domklik_feed.xml"
+
 SITE_DOMAIN = "https://psk-info.ru"
 PAGE_SIZE = 100
-AGENT_ORG = "Группа компаний ПСК"
-NS = "http://webmaster.yandex.ru/schemas/feed/realty/2010-06"
+DEVELOPER_NAME = "Петербургская Строительная Компания"
+NS_PLANS = "http://webmaster.yandex.ru/schemas/feed/realty/2010-06"
 MSK_TZ = timezone(timedelta(hours=3))
 OUTPUT_DIR = os.path.dirname(os.path.abspath(__file__))
+PLACEHOLDERS = Counter()
 
 
 def fetch_json(url):
@@ -71,6 +88,35 @@ def fetch_all(base_url):
     return items
 
 
+def load_plan_images(url):
+    """Карта internal-id лота -> [(tag, url)] из опубликованного агентского фида."""
+    with urllib.request.urlopen(url, timeout=120) as resp:
+        root = ET.fromstring(resp.read())
+    plans = {}
+    for offer in root.iter(f"{{{NS_PLANS}}}offer"):
+        images = [
+            (img.get("tag"), img.text.strip())
+            for img in offer.findall(f"{{{NS_PLANS}}}image")
+            if img.get("tag") in ("plan", "floor-plan") and img.text
+        ]
+        plans[offer.get("internal-id")] = images
+    return plans
+
+
+def load_ids():
+    """ID Домклик из domclick_ids.json."""
+    with open(os.path.join(OUTPUT_DIR, IDS_FILE), encoding="utf-8") as f:
+        return json.load(f)
+
+
+def value_or_placeholder(value, kind):
+    """Пустое значение или 0 считается заглушкой и учитывается в счетчике."""
+    if value and str(value) != "0":
+        return str(value)
+    PLACEHOLDERS[kind] += 1
+    return "0"
+
+
 def clean_text(text):
     """Оформление по правилам ПСК: без буквы «ё», без длинного тире, одинарные пробелы."""
     if not text:
@@ -82,23 +128,29 @@ def clean_text(text):
 def short_name(full_name):
     """«Акватория», премиальный дом -> Акватория"""
     match = re.search(r"«([^»]+)»", full_name or "")
-    return match.group(1) if match else (full_name or "")
+    if match:
+        return match.group(1)
+    return re.sub(r"^(Апарт.отель|ЖК)\s+", "", full_name or "")
 
 
 def build_project_info(project):
-    """Собрать данные проекта из ответа API проектов."""
+    """Данные проекта из ответа API проектов."""
     metros = sorted(project.get("projectmetro_set") or [], key=lambda m: m.get("order") or 0)
     advantages = sorted(project.get("about_project_advantages") or [], key=lambda a: a.get("order") or 0)
+    lat, lng = (project.get("coords") or ",").split(",")[:2]
     return {
         "name": clean_text(short_name(project.get("name"))),
-        "slug": project.get("slug", ""),
+        "title": clean_text(project.get("title")),
         "address": clean_text(project.get("address")),
-        "project_class": project.get("project_class") or "",
+        "description": clean_text(project.get("tooltip_project_text"))[:3000],
+        "latitude": lat.strip(),
+        "longitude": lng.strip(),
         "metro": metros[0] if metros else None,
         "completion_year": project.get("completion_year"),
         "completion_quarter": project.get("completion_quarter"),
+        "housing_type": 1 if "апарт" in (project.get("name") or "").lower() else 0,
         "advantages": [
-            {"title": clean_text(a.get("title")), "text": clean_text(a.get("text"))}
+            {"title": clean_text(a.get("title"))[:500], "text": clean_text(a.get("text"))[:500], "image": a.get("image")}
             for a in advantages
             if a.get("title") and a.get("text")
         ],
@@ -131,167 +183,137 @@ def filter_project_flats(all_flats, project_id):
     return filtered
 
 
-def get_rooms_info(flat):
-    """В API количество комнат 0 означает студию."""
+def get_room(flat):
+    """Домклик: 0 студия, 1-5 комнаты. В API 0 комнат означает студию."""
     rooms = flat.get("rooms") or 0
-    if rooms == 0:
-        return 1, True
-    return rooms, False
+    return min(int(rooms), 5)
 
 
-def get_finishing(flat):
+def get_renovation(flat):
     finishing = (flat.get("finishing") or "").lower()
     if "без" in finishing:
         return "без отделки"
     if "предчистов" in finishing:
-        return "предчистовая отделка"
+        return "предчистовая"
     if "чистов" in finishing:
-        return "чистовая отделка"
-    if "под ключ" in finishing:
-        return "под ключ"
+        return "чистовая"
     return None
 
 
-def get_old_price(flat, price):
+def get_discount_pct(flat, price):
+    """Скидка в процентах, если original_price выше текущей цены."""
     original = flat.get("original_price")
     if original and float(original) > price:
-        return float(original)
+        return round((1 - price / float(original)) * 100, 1)
     return None
 
 
-def build_description(flat, info, utp_index):
-    """Уникальное описание объявления: характеристики квартиры и одно УТП проекта."""
-    rooms, is_studio = get_rooms_info(flat)
+def build_flat_description(flat, info):
+    """Описание квартиры с названием ЖК и «ГК «ПСК»»."""
+    room = get_room(flat)
     area = round(flat.get("area") or 0, 2)
-    floor = flat.get("floor")
-    max_floor = flat.get("max_floor")
-    building = flat.get("building")
-
-    type_label = "Студия" if is_studio else f"{rooms}-комнатная квартира"
+    type_label = "Студия" if room == 0 else f"{room}-комнатная квартира"
     head = [f"{type_label}, {area} кв.м"]
-    if floor and max_floor:
-        head.append(f"этаж {floor} из {max_floor}")
-    if building:
-        head.append(f"корпус {building}")
+    if flat.get("floor") and flat.get("max_floor"):
+        head.append(f"этаж {flat['floor']} из {flat['max_floor']}")
     text = ", ".join(head) + f". ЖК «{info['name']}» от ГК «ПСК». "
-
-    if info["advantages"]:
-        utp = info["advantages"][utp_index % len(info["advantages"])]
-        text += f"{utp['title']}: {utp['text'].rstrip('.')}. "
-
     line = metro_line(info["metro"])
     if line:
         text += f"Рядом {line}. "
-
-    if info["completion_quarter"] and info["completion_year"]:
-        text += f"Сдача {info['completion_quarter']} кв. {info['completion_year']} г. "
-
-    price = float(flat.get("price") or 0)
-    old_price = get_old_price(flat, price)
-    if old_price:
-        discount_pct = round((1 - price / old_price) * 100)
-        if discount_pct > 0:
-            text += f"Скидка {discount_pct}% по акции. "
-
     return text.strip()
 
 
-def add_text(parent, tag, text):
+def add(parent, tag, text):
     el = ET.SubElement(parent, tag)
-    el.text = text
+    el.text = str(text)
     return el
 
 
-def build_feed(flats, info):
-    """Собрать XML-фид для одного проекта."""
-    now = datetime.now(MSK_TZ)
-    creation_date = now.strftime("%Y-%m-%dT%H:%M:%S+03:00")
+def add_complex(root, key, flats, info, plan_images, ids):
+    """Добавить в корень один <complex> со всеми его корпусами и квартирами."""
+    cx_ids = ids["complexes"].get(key, {})
+    buildings_ids = cx_ids.get("buildings", {})
+    domrf_ids = ids.get("domrf_ids", {})
 
-    ET.register_namespace("", NS)
-    root = ET.Element(f"{{{NS}}}realty-feed")
-    add_text(root, "generation-date", creation_date)
+    cx = ET.SubElement(root, "complex")
+    add(cx, "id", value_or_placeholder(cx_ids.get("complex_id"), "ID ЖК"))
+    label = "Апарт-отель" if info["housing_type"] else "ЖК"
+    add(cx, "name", f"{label} «{info['name']}»")
+    add(cx, "latitude", info["latitude"])
+    add(cx, "longitude", info["longitude"])
+    add(cx, "address", info["address"])
 
-    agent_url = f"{SITE_DOMAIN}/projects/{info['slug']}"
+    desc = ET.SubElement(cx, "description_main")
+    add(desc, "title", info["title"][:500])
+    add(desc, "text", info["description"])
 
-    for index, flat in enumerate(flats):
-        flat_id = flat.get("id")
-        if not flat_id:
-            continue
+    profits = ET.SubElement(cx, "profits_main")
+    for adv in info["advantages"]:
+        profit = ET.SubElement(profits, "profit_main")
+        add(profit, "title", adv["title"])
+        add(profit, "text", adv["text"])
+        if adv["image"]:
+            add(profit, "image", adv["image"])
 
-        rooms, is_studio = get_rooms_info(flat)
-        price = float(flat.get("price") or 0)
-        old_price = get_old_price(flat, price)
-        area = round(flat.get("area") or 0, 2)
-        floor = flat.get("floor")
-        max_floor = flat.get("max_floor")
-        building = flat.get("building") or ""
+    buildings_el = ET.SubElement(cx, "buildings")
+    by_building = {}
+    for flat in flats:
+        by_building.setdefault(str(flat.get("building") or "1"), []).append(flat)
 
-        offer = ET.SubElement(root, "offer", attrib={"internal-id": str(flat_id)})
-
-        add_text(offer, "type", "продажа")
-        add_text(offer, "property-type", "жилая")
-        add_text(offer, "category", "квартира")
-        add_text(offer, "creation-date", creation_date)
-        add_text(offer, "url", f"{SITE_DOMAIN}/flats/{flat_id}")
-
-        loc = ET.SubElement(offer, "location")
-        add_text(loc, "country", "Россия")
-        add_text(loc, "region", "Санкт-Петербург")
-        add_text(loc, "locality-name", "Санкт-Петербург")
-        add_text(loc, "address", info["address"])
-        if info["metro"]:
-            metro = ET.SubElement(loc, "metro")
-            add_text(metro, "name", info["metro"]["metro_name"])
-
-        price_el = ET.SubElement(offer, "price")
-        add_text(price_el, "value", str(int(price)))
-        add_text(price_el, "currency", "RUR")
-        if old_price:
-            add_text(offer, "old-price", str(int(old_price)))
-
-        area_el = ET.SubElement(offer, "area")
-        add_text(area_el, "value", str(area))
-        add_text(area_el, "unit", "кв.м")
-
-        add_text(offer, "rooms", str(rooms))
-        add_text(offer, "rooms-offered", str(rooms))
-        if is_studio:
-            add_text(offer, "studio", "да")
-
-        if floor:
-            add_text(offer, "floor", str(floor))
-        if max_floor:
-            add_text(offer, "floors-total", str(max_floor))
-
-        bld_label = f"ЖК «{info['name']}»"
-        if building:
-            bld_label += f", корпус {building}"
-        add_text(offer, "building-name", bld_label)
-
+    for number in sorted(by_building, key=lambda n: (len(n), n)):
+        bld_flats = by_building[number]
+        bld = ET.SubElement(buildings_el, "building")
+        add(bld, "id", value_or_placeholder(buildings_ids.get(number), "ID корпуса"))
+        add(bld, "name", f"корпус {number}")
+        add(bld, "latitude", info["latitude"])
+        add(bld, "longitude", info["longitude"])
+        add(bld, "address", info["address"])
+        add(bld, "floors", max(int(f.get("max_floor") or 0) for f in bld_flats))
+        add(bld, "building_state", "unfinished")
         if info["completion_year"]:
-            add_text(offer, "built-year", str(info["completion_year"]))
+            add(bld, "built_year", info["completion_year"])
         if info["completion_quarter"]:
-            add_text(offer, "ready-quarter", str(info["completion_quarter"]))
-        add_text(offer, "new-flat", "да")
+            add(bld, "ready_quarter", info["completion_quarter"])
 
-        finishing = get_finishing(flat)
-        if finishing:
-            add_text(offer, "renovation", finishing)
+        flats_el = ET.SubElement(bld, "flats")
+        for flat in bld_flats:
+            flat_id = str(flat["id"])
 
-        # Планировки из API: квартира и поэтажный план
-        for key in ("plan", "floor_plan"):
-            url = flat.get(key)
-            if url:
-                add_text(offer, "image", url)
+            price = float(flat["price"])
+            discount = get_discount_pct(flat, price)
+            base_price = float(flat["original_price"]) if discount else price
 
-        add_text(offer, "description", build_description(flat, info, index))
+            f_el = ET.SubElement(flats_el, "flat")
+            add(f_el, "flat_id", flat_id)
+            add(f_el, "apartment", flat.get("number") or "")
+            add(f_el, "domrf_id", value_or_placeholder(domrf_ids.get(flat_id), "domrf_id квартиры"))
+            add(f_el, "floor", flat.get("floor") or 0)
+            add(f_el, "room", get_room(flat))
 
-        agent = ET.SubElement(offer, "sales-agent")
-        add_text(agent, "organization", AGENT_ORG)
-        add_text(agent, "category", "застройщик")
-        add_text(agent, "url", agent_url)
+            plans = [url for tag, url in plan_images.get(flat_id, []) if tag == "plan"]
+            if not plans:
+                PLACEHOLDERS["планировка квартиры"] += 1
+            plans_el = ET.SubElement(f_el, "plans")
+            for url in plans:
+                add(plans_el, "plan", url)
 
-    return root
+            renovation = get_renovation(flat)
+            if renovation:
+                add(f_el, "renovation", renovation)
+            add(f_el, "price", int(base_price))
+            if discount:
+                disc_el = ET.SubElement(f_el, "discounts")
+                d = ET.SubElement(disc_el, "discount")
+                add(d, "value", discount)
+                add(d, "description", "Скидка по акции")
+            add(f_el, "area", round(flat.get("area") or 0, 2))
+            add(f_el, "housing_type", info["housing_type"])
+            add(f_el, "description", build_flat_description(flat, info))
+
+    dev = ET.SubElement(cx, "developer")
+    add(dev, "id", value_or_placeholder(ids.get("developer_id"), "ID застройщика"))
+    add(dev, "name", DEVELOPER_NAME)
+    add(dev, "site", SITE_DOMAIN)
 
 
 def prettify_xml(root):
@@ -306,60 +328,42 @@ def prettify_xml(root):
     return declaration + "\n".join(lines)
 
 
-def generate_project_feed(all_flats, projects_by_id, project_id, config):
-    """Сгенерировать фид для одного проекта."""
-    project = projects_by_id.get(project_id)
-    if not project:
-        print(f"  ВНИМАНИЕ: проект ID={project_id} не найден в API, пропускаем", file=sys.stderr)
-        return 0
-
-    info = build_project_info(project)
-    print(f"\n--- ЖК {info['name']} (ID={project_id}) ---", file=sys.stderr)
-
-    flats = filter_project_flats(all_flats, project_id)
-    print(f"  Свободных квартир с ценой: {len(flats)}", file=sys.stderr)
-    if not flats:
-        print("  ВНИМАНИЕ: нет квартир, фид не создан", file=sys.stderr)
-        return 0
-
-    feed = build_feed(flats, info)
-    output_path = os.path.join(OUTPUT_DIR, config["output_file"])
-    with open(output_path, "w", encoding="utf-8") as f:
-        f.write(prettify_xml(feed))
-
-    print(f"  Сохранено: {config['output_file']} ({len(flats)} квартир)", file=sys.stderr)
-
-    rooms_count = Counter()
-    for flat in flats:
-        rooms, is_studio = get_rooms_info(flat)
-        rooms_count["Студии" if is_studio else f"{rooms}-комн."] += 1
-    for label, count in sorted(rooms_count.items()):
-        print(f"    {label}: {count}", file=sys.stderr)
-
-    return len(flats)
-
-
 def main():
-    print("=== Генерация фидов ГК ПСК для Домклик ===", file=sys.stderr)
+    print("=== Генерация единого фида Домклик по всем проектам ===", file=sys.stderr)
 
-    print("\n1. Загрузка проектов и квартир из API...", file=sys.stderr)
-    projects_by_id = {p["id"]: p for p in fetch_all(PROJECTS_API)}
+    print("\n1. Загрузка данных из API и агентских фидов...", file=sys.stderr)
+    projects = {p["id"]: p for p in fetch_all(PROJECTS_API)}
     all_flats = fetch_all(FLATS_API)
-    print(f"   Проектов: {len(projects_by_id)}, квартир: {len(all_flats)}", file=sys.stderr)
+    ids = load_ids()
 
-    print("\n2. Генерация фидов по проектам...", file=sys.stderr)
-    total_flats = 0
-    total_feeds = 0
-    for project_id, config in PROJECTS.items():
-        count = generate_project_feed(all_flats, projects_by_id, project_id, config)
-        if count > 0:
-            total_flats += count
-            total_feeds += 1
+    root = ET.Element("complexes")
+    total = 0
+    print("\n2. Сборка ЖК...", file=sys.stderr)
+    for key, project_id in PROJECTS.items():
+        project = projects.get(project_id)
+        if not project:
+            print(f"   ВНИМАНИЕ: проект {key} (ID {project_id}) не найден в API, пропускаем", file=sys.stderr)
+            continue
+        info = build_project_info(project)
+        flats = filter_project_flats(all_flats, project_id)
+        plan_images = load_plan_images(PLANS_FEED_TEMPLATE.format(key=key))
+        if not flats:
+            print(f"   {info['name']}: свободных квартир нет, пропускаем", file=sys.stderr)
+            continue
+        add_complex(root, key, flats, info, plan_images, ids)
+        total += len(flats)
+        print(f"   {info['name']}: {len(flats)} квартир", file=sys.stderr)
 
-    print(f"\n=== Итого: {total_feeds} фидов, {total_flats} квартир ===", file=sys.stderr)
-    if total_feeds == 0:
-        print("ОШИБКА: ни один фид не сгенерирован", file=sys.stderr)
-        sys.exit(1)
+    output_path = os.path.join(OUTPUT_DIR, OUTPUT_FILE)
+    os.makedirs(os.path.dirname(output_path), exist_ok=True)
+    with open(output_path, "w", encoding="utf-8") as f:
+        f.write(prettify_xml(root))
+    print(f"\n=== Итого: {len(root)} ЖК, {total} квартир. Сохранено: {OUTPUT_FILE} ===", file=sys.stderr)
+
+    if PLACEHOLDERS:
+        print("\nЗАГЛУШКИ 0 (фид не пройдет проверку Домклик, пока не заменено):", file=sys.stderr)
+        for kind, count in PLACEHOLDERS.most_common():
+            print(f"   - {kind}: {count}", file=sys.stderr)
 
 
 if __name__ == "__main__":

@@ -1,3 +1,4 @@
 *.xml
+!feeds/*.xml
 __pycache__/
 venv/
