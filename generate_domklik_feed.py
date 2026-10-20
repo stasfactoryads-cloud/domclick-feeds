@@ -192,12 +192,12 @@ def metro_line(metro):
 
 
 def filter_project_flats(all_flats, project_id):
-    """Свободные квартиры проекта с ценой."""
+    """Квартиры проекта с ценой: свободные и в брони (бронь передается признаком booking)."""
     filtered = []
     for flat in all_flats:
         if flat.get("project") != project_id:
             continue
-        if flat.get("status") != "Свободно":
+        if flat.get("status") not in ("Свободно", "Бронь"):
             continue
         price = flat.get("price")
         if not price or float(price) <= 0:
@@ -309,6 +309,7 @@ def add_complex(root, key, flats, info, plan_images, ids):
             f_el = ET.SubElement(flats_el, "flat")
             add(f_el, "flat_id", flat_id)
             add(f_el, "apartment", flat.get("number") or "")
+            add(f_el, "booking", 1 if flat.get("status") == "Бронь" else 0)
             add(f_el, "domrf_id", value_or_placeholder(domrf_ids.get(flat_id), "domrf_id квартиры"))
             add(f_el, "floor", flat.get("floor") or 0)
             add(f_el, "room", get_room(flat))

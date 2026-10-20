@@ -150,6 +150,8 @@ def audit_file(path):
                 flat_ids[fid] += 1
                 if not fid:
                     error(fwhere, "нет flat_id")
+                if text_of(flat.find("booking")) not in ("0", "1"):
+                    error(fwhere, "booking должен быть 0 или 1")
                 if not apt:
                     error(fwhere, "нет apartment (номер квартиры)")
                 else:
