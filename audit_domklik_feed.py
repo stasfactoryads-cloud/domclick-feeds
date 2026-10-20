@@ -94,6 +94,8 @@ def audit_file(path):
         address = text_of(cx.find("address"))
         if not address:
             error(where, "не задан address (обязательный)")
+        if not re.search(r"\d", address):
+            error(where, f"в адресе нет номера дома: {address}")
         if not (address.startswith("г. Санкт-Петербург") or address.startswith("Санкт-Петербург")):
             error(where, f"адрес должен начинаться с города: {address}")
 

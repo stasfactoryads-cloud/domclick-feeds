@@ -4341,7 +4341,7 @@
     <name>ЖК «Сезоны»</name>
     <latitude>60.05634</latitude>
     <longitude>30.280671</longitude>
-    <address>г. Санкт-Петербург, Суздальское шоссе, уч.26</address>
+    <address>г. Санкт-Петербург, Суздальское шоссе, 26</address>
     <description_main>
       <title>ЖК «Сезоны»</title>
       <text>Жилой комплекс комфорт-класса «Сезоны» в Приморском районе у Новорловского заказника входит в комплексную застройку одноименного жилого массива. Проект квартала разработан испанским архитектором Рикардо Бофиллом. В составе комплекса четыре дома - два 25 – ти этажных и два 7-ми этажных. Все квартиры с высокими потолками до 3-х метров и увеличенными окнами до 2 – х метров. В квартирах предусмотрены остекленные лоджии или балконы. В части квартир в 7 – ми этажных корпусах на первых этажах расположены квартиры с патио. На верхних этажах представлены эксклюзивные квартиры с террасами. Все четыре дома жилого комплекса строятся и будут сданы одновременно.</text>
@@ -4384,7 +4384,7 @@
         <name>корпус 611</name>
         <latitude>60.05634</latitude>
         <longitude>30.280671</longitude>
-        <address>г. Санкт-Петербург, Суздальское шоссе, уч.26</address>
+        <address>г. Санкт-Петербург, Суздальское шоссе, 26</address>
         <floors>7</floors>
         <building_state>unfinished</building_state>
         <built_year>2028</built_year>
@@ -5695,7 +5695,7 @@
         <name>корпус 621</name>
         <latitude>60.05634</latitude>
         <longitude>30.280671</longitude>
-        <address>г. Санкт-Петербург, Суздальское шоссе, уч.26</address>
+        <address>г. Санкт-Петербург, Суздальское шоссе, 26</address>
         <floors>25</floors>
         <building_state>unfinished</building_state>
         <built_year>2028</built_year>
@@ -7512,7 +7512,7 @@
         <name>корпус 622</name>
         <latitude>60.05634</latitude>
         <longitude>30.280671</longitude>
-        <address>г. Санкт-Петербург, Суздальское шоссе, уч.26</address>
+        <address>г. Санкт-Петербург, Суздальское шоссе, 26</address>
         <floors>25</floors>
         <building_state>unfinished</building_state>
         <built_year>2028</built_year>
@@ -9310,7 +9310,7 @@
         <name>корпус 631</name>
         <latitude>60.05634</latitude>
         <longitude>30.280671</longitude>
-        <address>г. Санкт-Петербург, Суздальское шоссе, уч.26</address>
+        <address>г. Санкт-Петербург, Суздальское шоссе, 26</address>
         <floors>7</floors>
         <building_state>unfinished</building_state>
         <built_year>2028</built_year>
@@ -30103,7 +30103,7 @@
     <name>ЖК «ПЛЮС Пулковский, сити-квартал»</name>
     <latitude>59.747475</latitude>
     <longitude>30.310545</longitude>
-    <address>г. Санкт-Петербург, Пулковское шоссе, участок 24</address>
+    <address>г. Санкт-Петербург, Пулковское шоссе, 24</address>
     <description_main>
       <title>Жилой квартал ПЛЮС Пулковский</title>
       <text>Баланс – это основа для гармоничной и счастливой жизни. Философия проекта ПЛЮС Пулковский – баланс плюсов. Мы собрали все составляющие комфортной жизни: функциональные планировки, благоустроенные дворы, безопасную территорию, собственную инфраструктуру, индивидуальные дизайнерские решения. Этот набор преимуществ превращается в сбалансированное, гармоничное пространство для жизни.</text>
@@ -30146,7 +30146,7 @@
         <name>корпус 1</name>
         <latitude>59.747475</latitude>
         <longitude>30.310545</longitude>
-        <address>г. Санкт-Петербург, Пулковское шоссе, участок 24</address>
+        <address>г. Санкт-Петербург, Пулковское шоссе, 24</address>
         <floors>5</floors>
         <building_state>unfinished</building_state>
         <built_year>2025</built_year>
@@ -30369,7 +30369,7 @@
         <name>корпус 2</name>
         <latitude>59.747475</latitude>
         <longitude>30.310545</longitude>
-        <address>г. Санкт-Петербург, Пулковское шоссе, участок 24</address>
+        <address>г. Санкт-Петербург, Пулковское шоссе, 24</address>
         <floors>5</floors>
         <building_state>unfinished</building_state>
         <built_year>2025</built_year>
@@ -30550,7 +30550,7 @@
         <name>корпус 4</name>
         <latitude>59.747475</latitude>
         <longitude>30.310545</longitude>
-        <address>г. Санкт-Петербург, Пулковское шоссе, участок 24</address>
+        <address>г. Санкт-Петербург, Пулковское шоссе, 24</address>
         <floors>5</floors>
         <building_state>unfinished</building_state>
         <built_year>2025</built_year>
@@ -30605,7 +30605,7 @@
         <name>корпус 5</name>
         <latitude>59.747475</latitude>
         <longitude>30.310545</longitude>
-        <address>г. Санкт-Петербург, Пулковское шоссе, участок 24</address>
+        <address>г. Санкт-Петербург, Пулковское шоссе, 24</address>
         <floors>5</floors>
         <building_state>unfinished</building_state>
         <built_year>2025</built_year>
@@ -30639,7 +30639,7 @@
         <name>корпус 6</name>
         <latitude>59.747475</latitude>
         <longitude>30.310545</longitude>
-        <address>г. Санкт-Петербург, Пулковское шоссе, участок 24</address>
+        <address>г. Санкт-Петербург, Пулковское шоссе, 24</address>
         <floors>5</floors>
         <building_state>unfinished</building_state>
         <built_year>2025</built_year>
@@ -30673,7 +30673,7 @@
         <name>корпус 7</name>
         <latitude>59.747475</latitude>
         <longitude>30.310545</longitude>
-        <address>г. Санкт-Петербург, Пулковское шоссе, участок 24</address>
+        <address>г. Санкт-Петербург, Пулковское шоссе, 24</address>
         <floors>5</floors>
         <building_state>unfinished</building_state>
         <built_year>2025</built_year>
@@ -30707,7 +30707,7 @@
         <name>корпус 8</name>
         <latitude>59.747475</latitude>
         <longitude>30.310545</longitude>
-        <address>г. Санкт-Петербург, Пулковское шоссе, участок 24</address>
+        <address>г. Санкт-Петербург, Пулковское шоссе, 24</address>
         <floors>5</floors>
         <building_state>unfinished</building_state>
         <built_year>2025</built_year>
@@ -30930,7 +30930,7 @@
         <name>корпус 9</name>
         <latitude>59.747475</latitude>
         <longitude>30.310545</longitude>
-        <address>г. Санкт-Петербург, Пулковское шоссе, участок 24</address>
+        <address>г. Санкт-Петербург, Пулковское шоссе, 24</address>
         <floors>5</floors>
         <building_state>unfinished</building_state>
         <built_year>2025</built_year>
@@ -31510,7 +31510,7 @@
         <name>корпус 10</name>
         <latitude>59.747475</latitude>
         <longitude>30.310545</longitude>
-        <address>г. Санкт-Петербург, Пулковское шоссе, участок 24</address>
+        <address>г. Санкт-Петербург, Пулковское шоссе, 24</address>
         <floors>5</floors>
         <building_state>unfinished</building_state>
         <built_year>2025</built_year>
@@ -32069,7 +32069,7 @@
         <name>корпус 11</name>
         <latitude>59.747475</latitude>
         <longitude>30.310545</longitude>
-        <address>г. Санкт-Петербург, Пулковское шоссе, участок 24</address>
+        <address>г. Санкт-Петербург, Пулковское шоссе, 24</address>
         <floors>5</floors>
         <building_state>unfinished</building_state>
         <built_year>2025</built_year>
@@ -33405,7 +33405,7 @@
         <name>корпус 12</name>
         <latitude>59.747475</latitude>
         <longitude>30.310545</longitude>
-        <address>г. Санкт-Петербург, Пулковское шоссе, участок 24</address>
+        <address>г. Санкт-Петербург, Пулковское шоссе, 24</address>
         <floors>5</floors>
         <building_state>unfinished</building_state>
         <built_year>2025</built_year>
@@ -33733,7 +33733,7 @@
         <name>корпус 13</name>
         <latitude>59.747475</latitude>
         <longitude>30.310545</longitude>
-        <address>г. Санкт-Петербург, Пулковское шоссе, участок 24</address>
+        <address>г. Санкт-Петербург, Пулковское шоссе, 24</address>
         <floors>5</floors>
         <building_state>unfinished</building_state>
         <built_year>2025</built_year>
@@ -34691,7 +34691,7 @@
         <name>корпус 14</name>
         <latitude>59.747475</latitude>
         <longitude>30.310545</longitude>
-        <address>г. Санкт-Петербург, Пулковское шоссе, участок 24</address>
+        <address>г. Санкт-Петербург, Пулковское шоссе, 24</address>
         <floors>5</floors>
         <building_state>unfinished</building_state>
         <built_year>2025</built_year>

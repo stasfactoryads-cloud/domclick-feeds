@@ -143,6 +143,8 @@ def clean_text(text):
 def with_city(address):
     """Домклик: адрес строкой, начиная с города."""
     address = address.replace("г.Санкт-Петербург", "г. Санкт-Петербург")
+    # Домклик ждет номер дома, а не номер участка: "уч.26" -> "26"
+    address = re.sub(r",\s*(уч\.|участок)\s*(\d+)", r", \2", address)
     if address.startswith("г. Санкт-Петербург") or address.startswith("Санкт-Петербург"):
         return address
     return f"г. Санкт-Петербург, {address}"
