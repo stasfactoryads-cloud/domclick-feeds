@@ -21,6 +21,7 @@ import json
 import os
 import re
 import sys
+import time
 import urllib.request
 import xml.etree.ElementTree as ET
 from collections import Counter
@@ -62,11 +63,22 @@ EXCLUDED_IMAGES = {
 }
 
 
+def open_url(url, timeout, attempts=4):
+    """Запрос с повторами: API и хостинг иногда обрывают соединение."""
+    for attempt in range(1, attempts + 1):
+        try:
+            req = urllib.request.Request(url, headers={"Accept": "application/json"})
+            with urllib.request.urlopen(req, timeout=timeout) as resp:
+                return resp.read()
+        except OSError as e:
+            if attempt == attempts:
+                raise
+            print(f"   повтор {attempt} для {url}: {e}", file=sys.stderr)
+            time.sleep(5 * attempt)
+
+
 def fetch_json(url):
-    req = urllib.request.Request(url)
-    req.add_header("Accept", "application/json")
-    with urllib.request.urlopen(req, timeout=30) as resp:
-        return json.loads(resp.read().decode("utf-8"))
+    return json.loads(open_url(url, timeout=30).decode("utf-8"))
 
 
 def fetch_all(base_url):
@@ -94,8 +106,7 @@ def fetch_all(base_url):
 
 def load_plan_images(url):
     """Карта internal-id лота -> [(tag, url)] из опубликованного агентского фида."""
-    with urllib.request.urlopen(url, timeout=120) as resp:
-        root = ET.fromstring(resp.read())
+    root = ET.fromstring(open_url(url, timeout=120))
     plans = {}
     for offer in root.iter(f"{{{NS_PLANS}}}offer"):
         images = [
@@ -129,6 +140,14 @@ def clean_text(text):
     return re.sub(r"\s+", " ", text).strip()
 
 
+def with_city(address):
+    """Домклик: адрес строкой, начиная с города."""
+    address = address.replace("г.Санкт-Петербург", "г. Санкт-Петербург")
+    if address.startswith("г. Санкт-Петербург") or address.startswith("Санкт-Петербург"):
+        return address
+    return f"г. Санкт-Петербург, {address}"
+
+
 def short_name(full_name):
     """«Акватория», премиальный дом -> Акватория"""
     match = re.search(r"«([^»]+)»", full_name or "")
@@ -145,7 +164,7 @@ def build_project_info(project):
     return {
         "name": clean_text(short_name(project.get("name"))),
         "title": clean_text(project.get("title")),
-        "address": clean_text(project.get("address")),
+        "address": with_city(clean_text(project.get("address"))),
         "description": clean_text(project.get("tooltip_project_text"))[:3000],
         "latitude": lat.strip(),
         "longitude": lng.strip(),

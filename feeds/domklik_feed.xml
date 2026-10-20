@@ -5,7 +5,7 @@
     <name>ЖК «Оптимист»</name>
     <latitude>59.882212</latitude>
     <longitude>30.383664</longitude>
-    <address>г.Санкт-Петербург, ул. Фучика, дом 21</address>
+    <address>г. Санкт-Петербург, ул. Фучика, дом 21</address>
     <description_main>
       <title>Жилой комплекс «Оптимист»</title>
       <text>В новой перспективной локации, в 10 минутах пешком от станции метро «Бухарестская», строится жилой комплекс формата бизнес-лайт ЖК «Оптимист». Облик будущего дома – синтез стилистических приемов неомодернизма и ар-деко, с выразительными композиционными модулями из колонн, полуколонн и арок. В основе дизайн-концепции интерьеров общественных пространств проекта космическое искусство. В лобби площадью 160 кв.м и высотой полотков 6,5 метров, будут расположены реcепшн, лаунж - пространства с гостевыми мягкими зонами, отдельное помещение коворкинга с переговорной и акустической кабиной, кофе-поинт и игровое мультипространство.</text>
@@ -57,7 +57,7 @@
         <name>корпус 1</name>
         <latitude>59.882212</latitude>
         <longitude>30.383664</longitude>
-        <address>г.Санкт-Петербург, ул. Фучика, дом 21</address>
+        <address>г. Санкт-Петербург, ул. Фучика, дом 21</address>
         <floors>12</floors>
         <building_state>unfinished</building_state>
         <built_year>2028</built_year>
@@ -4022,7 +4022,7 @@
     <name>ЖК «Сезоны»</name>
     <latitude>60.05634</latitude>
     <longitude>30.280671</longitude>
-    <address>г.Санкт-Петербург, Суздальское шоссе, уч.26</address>
+    <address>г. Санкт-Петербург, Суздальское шоссе, уч.26</address>
     <description_main>
       <title>ЖК «Сезоны»</title>
       <text>Жилой комплекс комфорт-класса «Сезоны» в Приморском районе у Новорловского заказника входит в комплексную застройку одноименного жилого массива. Проект квартала разработан испанским архитектором Рикардо Бофиллом. В составе комплекса четыре дома - два 25 – ти этажных и два 7-ми этажных. Все квартиры с высокими потолками до 3-х метров и увеличенными окнами до 2 – х метров. В квартирах предусмотрены остекленные лоджии или балконы. В части квартир в 7 – ми этажных корпусах на первых этажах расположены квартиры с патио. На верхних этажах представлены эксклюзивные квартиры с террасами. Все четыре дома жилого комплекса строятся и будут сданы одновременно.</text>
@@ -4065,7 +4065,7 @@
         <name>корпус 611</name>
         <latitude>60.05634</latitude>
         <longitude>30.280671</longitude>
-        <address>г.Санкт-Петербург, Суздальское шоссе, уч.26</address>
+        <address>г. Санкт-Петербург, Суздальское шоссе, уч.26</address>
         <floors>7</floors>
         <building_state>unfinished</building_state>
         <built_year>2028</built_year>
@@ -5254,7 +5254,7 @@
         <name>корпус 621</name>
         <latitude>60.05634</latitude>
         <longitude>30.280671</longitude>
-        <address>г.Санкт-Петербург, Суздальское шоссе, уч.26</address>
+        <address>г. Санкт-Петербург, Суздальское шоссе, уч.26</address>
         <floors>25</floors>
         <building_state>unfinished</building_state>
         <built_year>2028</built_year>
@@ -6947,7 +6947,7 @@
         <name>корпус 622</name>
         <latitude>60.05634</latitude>
         <longitude>30.280671</longitude>
-        <address>г.Санкт-Петербург, Суздальское шоссе, уч.26</address>
+        <address>г. Санкт-Петербург, Суздальское шоссе, уч.26</address>
         <floors>25</floors>
         <building_state>unfinished</building_state>
         <built_year>2028</built_year>
@@ -8480,7 +8480,7 @@
         <name>корпус 631</name>
         <latitude>60.05634</latitude>
         <longitude>30.280671</longitude>
-        <address>г.Санкт-Петербург, Суздальское шоссе, уч.26</address>
+        <address>г. Санкт-Петербург, Суздальское шоссе, уч.26</address>
         <floors>7</floors>
         <building_state>unfinished</building_state>
         <built_year>2028</built_year>
@@ -9540,7 +9540,7 @@
     <name>ЖК «Акватория»</name>
     <latitude>59.980722</latitude>
     <longitude>30.322641</longitude>
-    <address>г.Санкт-Петербург, Выборгская набережная, дом 61</address>
+    <address>г. Санкт-Петербург, Выборгская набережная, дом 61</address>
     <description_main>
       <title>Премиальный дом «Акватория»</title>
       <text>Расположенный на правом берегу реки Большая Невка, премиальный дом «Акватория» сочетает в себе безмятежность жизни у воды с оживленной городской жизнью. Каким бы напряженным ни выдался день, один лишь взгляд на водную гладь наполнит спокойствием и умиротворением Пентхаусы и квартиры - резиденции с террасами, панорамные виды, ландшафтные патио во дворах, каскадный фонтан, изысканная атмосфера гранд - лобби и премиальные сервисы - «Акватория», подарит вам максимальное наслаждение гармонией жизни.</text>
@@ -9583,7 +9583,7 @@
         <name>корпус 1</name>
         <latitude>59.980722</latitude>
         <longitude>30.322641</longitude>
-        <address>г.Санкт-Петербург, Выборгская набережная, дом 61</address>
+        <address>г. Санкт-Петербург, Выборгская набережная, дом 61</address>
         <floors>9</floors>
         <building_state>unfinished</building_state>
         <built_year>2029</built_year>
@@ -10268,7 +10268,7 @@
         <name>корпус 2</name>
         <latitude>59.980722</latitude>
         <longitude>30.322641</longitude>
-        <address>г.Санкт-Петербург, Выборгская набережная, дом 61</address>
+        <address>г. Санкт-Петербург, Выборгская набережная, дом 61</address>
         <floors>9</floors>
         <building_state>unfinished</building_state>
         <built_year>2029</built_year>
@@ -12976,7 +12976,7 @@
     <name>ЖК «Ассамблея»</name>
     <latitude>59.939763</latitude>
     <longitude>30.25347</longitude>
-    <address>г.Санкт-Петербург, Малый проспект Васильевского острова, д. 60</address>
+    <address>г. Санкт-Петербург, Малый проспект Васильевского острова, д. 60</address>
     <description_main>
       <title>Клубный квартал «Ассамблея»</title>
       <text>Диалог прошлого и настоящего. Классиков и современников. Предложение будущего. Клубный квартал «Ассамблея» возводится в исторической части Васильевского острова на пересечении 24-й линии и Малого проспекта. В составе квартала пять зданий: четыре 12-этажных и одно 7-этажное. Дома квартала силуэтно образуют приватное внутреннее пространство. Только для резидентов квартала внутренняя инфраструктура – ландшафтный двор, гранд-лобби, комьюнити клуб с коворкингом и переговорной, детский клуб, фитнес-зал, бьюти-кабинет, кинозал и библиотека.</text>
@@ -13019,7 +13019,7 @@
         <name>корпус 1</name>
         <latitude>59.939763</latitude>
         <longitude>30.25347</longitude>
-        <address>г.Санкт-Петербург, Малый проспект Васильевского острова, д. 60</address>
+        <address>г. Санкт-Петербург, Малый проспект Васильевского острова, д. 60</address>
         <floors>7</floors>
         <building_state>unfinished</building_state>
         <built_year>2028</built_year>
@@ -13557,7 +13557,7 @@
         <name>корпус 2</name>
         <latitude>59.939763</latitude>
         <longitude>30.25347</longitude>
-        <address>г.Санкт-Петербург, Малый проспект Васильевского острова, д. 60</address>
+        <address>г. Санкт-Петербург, Малый проспект Васильевского острова, д. 60</address>
         <floors>12</floors>
         <building_state>unfinished</building_state>
         <built_year>2028</built_year>
@@ -14305,7 +14305,7 @@
         <name>корпус 3</name>
         <latitude>59.939763</latitude>
         <longitude>30.25347</longitude>
-        <address>г.Санкт-Петербург, Малый проспект Васильевского острова, д. 60</address>
+        <address>г. Санкт-Петербург, Малый проспект Васильевского острова, д. 60</address>
         <floors>12</floors>
         <building_state>unfinished</building_state>
         <built_year>2028</built_year>
@@ -16187,7 +16187,7 @@
         <name>корпус 4</name>
         <latitude>59.939763</latitude>
         <longitude>30.25347</longitude>
-        <address>г.Санкт-Петербург, Малый проспект Васильевского острова, д. 60</address>
+        <address>г. Санкт-Петербург, Малый проспект Васильевского острова, д. 60</address>
         <floors>12</floors>
         <building_state>unfinished</building_state>
         <built_year>2028</built_year>
@@ -19140,7 +19140,7 @@
         <name>корпус 5</name>
         <latitude>59.939763</latitude>
         <longitude>30.25347</longitude>
-        <address>г.Санкт-Петербург, Малый проспект Васильевского острова, д. 60</address>
+        <address>г. Санкт-Петербург, Малый проспект Васильевского острова, д. 60</address>
         <floors>12</floors>
         <building_state>unfinished</building_state>
         <built_year>2028</built_year>
@@ -23213,7 +23213,7 @@
     <name>ЖК «Галерная гавань»</name>
     <latitude>59.935438</latitude>
     <longitude>30.220278</longitude>
-    <address>г.Санкт-Петербург, Васильевский остров, ул. Шкиперский проток, 16-18</address>
+    <address>г. Санкт-Петербург, Васильевский остров, ул. Шкиперский проток, 16-18</address>
     <description_main>
       <title>Жилой комплекс «Галерная гавань»</title>
       <text>«Галерная гавань» - первый в Петербурге жилой комплекс бизнес - класса с общественным пространством у воды. Проект Группы компаний «ПСК» символизирует жизнь в стиле XXI века в исторической части Васильевского острова в гармоничном сочетании приватного и уединенного с общественным и событийным. Жилой комплекс «Галерная гавань» - это четыре 12-этажных и два 6-этажных здания, в которых 80% квартир с видами на воду - на заливы Галерная гавань и Финский, а также на Большую Неву. На последних этажах представлены эксклюзивные варианты квартир с террасами и панорамным остеклением. Только для резидентов квартала внутренняя инфраструктура – ландшафтные дворы, комьюнити клуб с кинозалом, библиотекой, коворкингом, детским клубом и фитнес-залом.</text>
@@ -23261,7 +23261,7 @@
         <name>корпус 1</name>
         <latitude>59.935438</latitude>
         <longitude>30.220278</longitude>
-        <address>г.Санкт-Петербург, Васильевский остров, ул. Шкиперский проток, 16-18</address>
+        <address>г. Санкт-Петербург, Васильевский остров, ул. Шкиперский проток, 16-18</address>
         <floors>12</floors>
         <building_state>unfinished</building_state>
         <built_year>2028</built_year>
@@ -25137,7 +25137,7 @@
         <name>корпус 3</name>
         <latitude>59.935438</latitude>
         <longitude>30.220278</longitude>
-        <address>г.Санкт-Петербург, Васильевский остров, ул. Шкиперский проток, 16-18</address>
+        <address>г. Санкт-Петербург, Васильевский остров, ул. Шкиперский проток, 16-18</address>
         <floors>12</floors>
         <building_state>unfinished</building_state>
         <built_year>2028</built_year>
@@ -27349,6 +27349,27 @@
             <description>3-комнатная квартира, 84.85 кв.м, этаж 9 из 12. ЖК «Галерная гавань» от ГК «ПСК». Рядом метро Приморская, 20 мин пешком.</description>
           </flat>
           <flat>
+            <flat_id>401632</flat_id>
+            <apartment>70</apartment>
+            <domrf_id>0</domrf_id>
+            <floor>11</floor>
+            <room>2</room>
+            <plans>
+              <plan>https://feedhub.realty/feed-evel/plans/plan-c1f094b7ddb1d043.jpg</plan>
+            </plans>
+            <renovation>без отделки</renovation>
+            <price>45011594</price>
+            <discounts>
+              <discount>
+                <value>15.0</value>
+                <description>Скидка по акции</description>
+              </discount>
+            </discounts>
+            <area>89.34</area>
+            <housing_type>0</housing_type>
+            <description>2-комнатная квартира, 89.34 кв.м, этаж 11 из 12. ЖК «Галерная гавань» от ГК «ПСК». Рядом метро Приморская, 20 мин пешком.</description>
+          </flat>
+          <flat>
             <flat_id>401643</flat_id>
             <apartment>81</apartment>
             <domrf_id>0</domrf_id>
@@ -27397,7 +27418,7 @@
         <name>корпус 5</name>
         <latitude>59.935438</latitude>
         <longitude>30.220278</longitude>
-        <address>г.Санкт-Петербург, Васильевский остров, ул. Шкиперский проток, 16-18</address>
+        <address>г. Санкт-Петербург, Васильевский остров, ул. Шкиперский проток, 16-18</address>
         <floors>6</floors>
         <building_state>unfinished</building_state>
         <built_year>2028</built_year>
@@ -27732,7 +27753,7 @@
     <name>ЖК «ПЛЮС Пулковский, сити-квартал»</name>
     <latitude>59.747475</latitude>
     <longitude>30.310545</longitude>
-    <address>г.Санкт-Петербург, Пулковское шоссе, участок 24</address>
+    <address>г. Санкт-Петербург, Пулковское шоссе, участок 24</address>
     <description_main>
       <title>Жилой квартал ПЛЮС Пулковский</title>
       <text>Баланс – это основа для гармоничной и счастливой жизни. Философия проекта ПЛЮС Пулковский – баланс плюсов. Мы собрали все составляющие комфортной жизни: функциональные планировки, благоустроенные дворы, безопасную территорию, собственную инфраструктуру, индивидуальные дизайнерские решения. Этот набор преимуществ превращается в сбалансированное, гармоничное пространство для жизни.</text>
@@ -27775,7 +27796,7 @@
         <name>корпус 1</name>
         <latitude>59.747475</latitude>
         <longitude>30.310545</longitude>
-        <address>г.Санкт-Петербург, Пулковское шоссе, участок 24</address>
+        <address>г. Санкт-Петербург, Пулковское шоссе, участок 24</address>
         <floors>5</floors>
         <building_state>unfinished</building_state>
         <built_year>2025</built_year>
@@ -27948,7 +27969,7 @@
         <name>корпус 2</name>
         <latitude>59.747475</latitude>
         <longitude>30.310545</longitude>
-        <address>г.Санкт-Петербург, Пулковское шоссе, участок 24</address>
+        <address>г. Санкт-Петербург, Пулковское шоссе, участок 24</address>
         <floors>5</floors>
         <building_state>unfinished</building_state>
         <built_year>2025</built_year>
@@ -28081,7 +28102,7 @@
         <name>корпус 4</name>
         <latitude>59.747475</latitude>
         <longitude>30.310545</longitude>
-        <address>г.Санкт-Петербург, Пулковское шоссе, участок 24</address>
+        <address>г. Санкт-Петербург, Пулковское шоссе, участок 24</address>
         <floors>5</floors>
         <building_state>unfinished</building_state>
         <built_year>2025</built_year>
@@ -28134,7 +28155,7 @@
         <name>корпус 5</name>
         <latitude>59.747475</latitude>
         <longitude>30.310545</longitude>
-        <address>г.Санкт-Петербург, Пулковское шоссе, участок 24</address>
+        <address>г. Санкт-Петербург, Пулковское шоссе, участок 24</address>
         <floors>5</floors>
         <building_state>unfinished</building_state>
         <built_year>2025</built_year>
@@ -28167,7 +28188,7 @@
         <name>корпус 8</name>
         <latitude>59.747475</latitude>
         <longitude>30.310545</longitude>
-        <address>г.Санкт-Петербург, Пулковское шоссе, участок 24</address>
+        <address>г. Санкт-Петербург, Пулковское шоссе, участок 24</address>
         <floors>5</floors>
         <building_state>unfinished</building_state>
         <built_year>2025</built_year>
@@ -28340,7 +28361,7 @@
         <name>корпус 9</name>
         <latitude>59.747475</latitude>
         <longitude>30.310545</longitude>
-        <address>г.Санкт-Петербург, Пулковское шоссе, участок 24</address>
+        <address>г. Санкт-Петербург, Пулковское шоссе, участок 24</address>
         <floors>5</floors>
         <building_state>unfinished</building_state>
         <built_year>2025</built_year>
@@ -28853,7 +28874,7 @@
         <name>корпус 10</name>
         <latitude>59.747475</latitude>
         <longitude>30.310545</longitude>
-        <address>г.Санкт-Петербург, Пулковское шоссе, участок 24</address>
+        <address>г. Санкт-Петербург, Пулковское шоссе, участок 24</address>
         <floors>5</floors>
         <building_state>unfinished</building_state>
         <built_year>2025</built_year>
@@ -29386,7 +29407,7 @@
         <name>корпус 11</name>
         <latitude>59.747475</latitude>
         <longitude>30.310545</longitude>
-        <address>г.Санкт-Петербург, Пулковское шоссе, участок 24</address>
+        <address>г. Санкт-Петербург, Пулковское шоссе, участок 24</address>
         <floors>5</floors>
         <building_state>unfinished</building_state>
         <built_year>2025</built_year>
@@ -29993,6 +30014,26 @@
             <description>Студия, 27.3 кв.м, этаж 5 из 5. ЖК «ПЛЮС Пулковский, сити-квартал» от ГК «ПСК». Рядом метро Московская, 15 мин на машине.</description>
           </flat>
           <flat>
+            <flat_id>395178</flat_id>
+            <apartment>108</apartment>
+            <domrf_id>0</domrf_id>
+            <floor>2</floor>
+            <room>1</room>
+            <plans>
+              <plan>https://feedhub.realty/feed-evel/plans/plan-c064771e9764845d.jpg</plan>
+            </plans>
+            <price>9875266</price>
+            <discounts>
+              <discount>
+                <value>10.0</value>
+                <description>Скидка по акции</description>
+              </discount>
+            </discounts>
+            <area>33.4</area>
+            <housing_type>0</housing_type>
+            <description>1-комнатная квартира, 33.4 кв.м, этаж 2 из 5. ЖК «ПЛЮС Пулковский, сити-квартал» от ГК «ПСК». Рядом метро Московская, 15 мин на машине.</description>
+          </flat>
+          <flat>
             <flat_id>395187</flat_id>
             <apartment>117</apartment>
             <domrf_id>0</domrf_id>
@@ -30379,7 +30420,7 @@
         <name>корпус 12</name>
         <latitude>59.747475</latitude>
         <longitude>30.310545</longitude>
-        <address>г.Санкт-Петербург, Пулковское шоссе, участок 24</address>
+        <address>г. Санкт-Петербург, Пулковское шоссе, участок 24</address>
         <floors>5</floors>
         <building_state>unfinished</building_state>
         <built_year>2025</built_year>
@@ -30464,6 +30505,26 @@
             <area>51.58</area>
             <housing_type>0</housing_type>
             <description>2-комнатная квартира, 51.58 кв.м, этаж 2 из 5. ЖК «ПЛЮС Пулковский, сити-квартал» от ГК «ПСК». Рядом метро Московская, 15 мин на машине.</description>
+          </flat>
+          <flat>
+            <flat_id>395227</flat_id>
+            <apartment>21</apartment>
+            <domrf_id>0</domrf_id>
+            <floor>3</floor>
+            <room>2</room>
+            <plans>
+              <plan>https://feedhub.realty/feed-evel/plans/plan-0ccdd1581597a44d.jpg</plan>
+            </plans>
+            <price>15302066</price>
+            <discounts>
+              <discount>
+                <value>10.0</value>
+                <description>Скидка по акции</description>
+              </discount>
+            </discounts>
+            <area>51.58</area>
+            <housing_type>0</housing_type>
+            <description>2-комнатная квартира, 51.58 кв.м, этаж 3 из 5. ЖК «ПЛЮС Пулковский, сити-квартал» от ГК «ПСК». Рядом метро Московская, 15 мин на машине.</description>
           </flat>
           <flat>
             <flat_id>395238</flat_id>
@@ -30625,26 +30686,6 @@
             <housing_type>0</housing_type>
             <description>2-комнатная квартира, 67.88 кв.м, этаж 1 из 5. ЖК «ПЛЮС Пулковский, сити-квартал» от ГК «ПСК». Рядом метро Московская, 15 мин на машине.</description>
           </flat>
-          <flat>
-            <flat_id>395208</flat_id>
-            <apartment>2</apartment>
-            <domrf_id>0</domrf_id>
-            <floor>1</floor>
-            <room>2</room>
-            <plans>
-              <plan>https://feedhub.realty/feed-evel/plans/plan-6523e230500d062e.jpg</plan>
-            </plans>
-            <price>18339493</price>
-            <discounts>
-              <discount>
-                <value>10.0</value>
-                <description>Скидка по акции</description>
-              </discount>
-            </discounts>
-            <area>66.77</area>
-            <housing_type>0</housing_type>
-            <description>2-комнатная квартира, 66.77 кв.м, этаж 1 из 5. ЖК «ПЛЮС Пулковский, сити-квартал» от ГК «ПСК». Рядом метро Московская, 15 мин на машине.</description>
-          </flat>
         </flats>
       </building>
       <building>
@@ -30652,7 +30693,7 @@
         <name>корпус 13</name>
         <latitude>59.747475</latitude>
         <longitude>30.310545</longitude>
-        <address>г.Санкт-Петербург, Пулковское шоссе, участок 24</address>
+        <address>г. Санкт-Петербург, Пулковское шоссе, участок 24</address>
         <floors>5</floors>
         <building_state>unfinished</building_state>
         <built_year>2025</built_year>
@@ -31505,7 +31546,7 @@
         <name>корпус 14</name>
         <latitude>59.747475</latitude>
         <longitude>30.310545</longitude>
-        <address>г.Санкт-Петербург, Пулковское шоссе, участок 24</address>
+        <address>г. Санкт-Петербург, Пулковское шоссе, участок 24</address>
         <floors>5</floors>
         <building_state>unfinished</building_state>
         <built_year>2025</built_year>
@@ -33334,6 +33375,27 @@
             <description>1-комнатная квартира, 43.6 кв.м, этаж 2 из 13. ЖК «РЕСПЕКТ» от ГК «ПСК». Рядом метро Лесная, 10 мин пешком.</description>
           </flat>
           <flat>
+            <flat_id>146581</flat_id>
+            <apartment>500</apartment>
+            <domrf_id>0</domrf_id>
+            <floor>2</floor>
+            <room>1</room>
+            <plans>
+              <plan>https://feedhub.realty/feed-evel/plans/plan-05361574087935a6.jpg</plan>
+            </plans>
+            <renovation>предчистовая</renovation>
+            <price>23933929</price>
+            <discounts>
+              <discount>
+                <value>15.0</value>
+                <description>Скидка по акции</description>
+              </discount>
+            </discounts>
+            <area>44.7</area>
+            <housing_type>0</housing_type>
+            <description>1-комнатная квартира, 44.7 кв.м, этаж 2 из 13. ЖК «РЕСПЕКТ» от ГК «ПСК». Рядом метро Лесная, 10 мин пешком.</description>
+          </flat>
+          <flat>
             <flat_id>146084</flat_id>
             <apartment>3</apartment>
             <domrf_id>0</domrf_id>
@@ -33435,6 +33497,26 @@
             <area>45.1</area>
             <housing_type>0</housing_type>
             <description>1-комнатная квартира, 45.1 кв.м, этаж 2 из 13. ЖК «РЕСПЕКТ» от ГК «ПСК». Рядом метро Лесная, 10 мин пешком.</description>
+          </flat>
+          <flat>
+            <flat_id>146478</flat_id>
+            <apartment>397</apartment>
+            <domrf_id>0</domrf_id>
+            <floor>13</floor>
+            <room>1</room>
+            <plans>
+              <plan>https://feedhub.realty/feed-evel/plans/plan-9294fe9ce2532c2c.jpg</plan>
+            </plans>
+            <price>25735826</price>
+            <discounts>
+              <discount>
+                <value>15.0</value>
+                <description>Скидка по акции</description>
+              </discount>
+            </discounts>
+            <area>42.7</area>
+            <housing_type>0</housing_type>
+            <description>1-комнатная квартира, 42.7 кв.м, этаж 13 из 13. ЖК «РЕСПЕКТ» от ГК «ПСК». Рядом метро Лесная, 10 мин пешком.</description>
           </flat>
           <flat>
             <flat_id>146115</flat_id>
@@ -41995,7 +42077,7 @@
     <name>Апарт-отель «Industrial AVENIR»</name>
     <latitude>59.881701</latitude>
     <longitude>30.26488</longitude>
-    <address>г.Санкт-Петербург, пр. Стачек, 62, литера А</address>
+    <address>г. Санкт-Петербург, пр. Стачек, 62, литера А</address>
     <description_main>
       <title>Сервисный апарт-отель у станции метро «Кировский завод»</title>
       <text>Industrial Avenir – пятый апарт-отель сети Avenir. Построен в 300-х метрах от метро «Кировский завод» рядом с крупным производственным кластером и центральной магистралью Кировского района – проспектом Стачек. Номерной фонд насчитывает 739 апартаментов, в том числе юниты с террасами и в формате «евро 2», офисные и коммерческие помещения, оборудованное общественное пространство для переговоров и совместной работы, подземный паркинг. Основа концепции дизайна интерьеров апарт-отеля – эстетика индустриального стиля.</text>
@@ -42033,7 +42115,7 @@
         <name>корпус 1</name>
         <latitude>59.881701</latitude>
         <longitude>30.26488</longitude>
-        <address>г.Санкт-Петербург, пр. Стачек, 62, литера А</address>
+        <address>г. Санкт-Петербург, пр. Стачек, 62, литера А</address>
         <floors>13</floors>
         <building_state>unfinished</building_state>
         <built_year>2026</built_year>
@@ -45674,7 +45756,7 @@
     <name>ЖК «BAKUNINA 33, клубный дом»</name>
     <latitude>59.930899</latitude>
     <longitude>30.385946</longitude>
-    <address>проспект Бакунина, д. 33, лит.А</address>
+    <address>г. Санкт-Петербург, проспект Бакунина, д. 33, лит.А</address>
     <description_main>
       <title>BAKUNINA33, КЛУБНЫЙ ДОМ</title>
       <text>Клубный дом Bakunina 33 возводится в уникальной локации Санкт-Петербурга. Центральный район – это отражение истории возникновения города, его становления и развития. Здесь гармонично соседствуют благородство и красота ушедших эпох и современная динамичная жизнь. Набережная Невы, Невский проспект, уникальные памятники архитектуры, великие музеи и дворцы будут вашим близким окружением. Стиль дома классически сдержанный, со строгими формами, лаконичной внешней отделкой из натуральных материалов и мягкой цветовой гаммой. В проекте всего 113 квартир, среди которых квартиры с террасами, эркерами и мансардами. Общественные пространства, выполненные по авторскому дизайну, внутренний двор в стиле традиционного французского дворика, премиальные сервисы - все исключительно только для жителей дома.</text>
@@ -45712,7 +45794,7 @@
         <name>корпус 1</name>
         <latitude>59.930899</latitude>
         <longitude>30.385946</longitude>
-        <address>проспект Бакунина, д. 33, лит.А</address>
+        <address>г. Санкт-Петербург, проспект Бакунина, д. 33, лит.А</address>
         <floors>9</floors>
         <building_state>unfinished</building_state>
         <built_year>2025</built_year>
@@ -46017,7 +46099,7 @@
     <name>ЖК «Северная корона»</name>
     <latitude>59.970213</latitude>
     <longitude>30.306256</longitude>
-    <address>набережная реки Карповки, д. 31, лит.А</address>
+    <address>г. Санкт-Петербург, набережная реки Карповки, д. 31, лит.А</address>
     <description_main>
       <title>«Северная корона», квартиры - резиденции</title>
       <text>Премиальный жилой комплекс «Северная корона» расположился в имперской части Петроградской стороны и уникален видами на историческую архитектуру, Иоановский монастырь, Каменноостровский проспект и реку Карповку. Фасады дома – продолжение нордической архитектуры Петроградской стороны. Концепция ландшафта – форма островов Петербурга, а вдохновением для интерьеров общественных пространств стал образ Царевны - Лебедь. В проекте 361 квартира-резиденция, 36 премиальных апартаментов в историческом корпусе, 27 коммерческих помещений.</text>
@@ -46055,7 +46137,7 @@
         <name>корпус 72</name>
         <latitude>59.970213</latitude>
         <longitude>30.306256</longitude>
-        <address>набережная реки Карповки, д. 31, лит.А</address>
+        <address>г. Санкт-Петербург, набережная реки Карповки, д. 31, лит.А</address>
         <floors>8</floors>
         <building_state>unfinished</building_state>
         <built_year>2023</built_year>
@@ -46098,7 +46180,7 @@
         <name>корпус 81</name>
         <latitude>59.970213</latitude>
         <longitude>30.306256</longitude>
-        <address>набережная реки Карповки, д. 31, лит.А</address>
+        <address>г. Санкт-Петербург, набережная реки Карповки, д. 31, лит.А</address>
         <floors>8</floors>
         <building_state>unfinished</building_state>
         <built_year>2023</built_year>
@@ -46141,7 +46223,7 @@
         <name>корпус 82</name>
         <latitude>59.970213</latitude>
         <longitude>30.306256</longitude>
-        <address>набережная реки Карповки, д. 31, лит.А</address>
+        <address>г. Санкт-Петербург, набережная реки Карповки, д. 31, лит.А</address>
         <floors>8</floors>
         <building_state>unfinished</building_state>
         <built_year>2023</built_year>

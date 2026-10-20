@@ -1,0 +1,47 @@
+name: Update Domklik feed
+
+on:
+  schedule:
+    # Каждый день в 08:00 UTC = 11:00 МСК
+    - cron: '0 8 * * *'
+  workflow_dispatch: # Ручной запуск
+
+concurrency:
+  group: update-domklik-feed
+  cancel-in-progress: false
+
+jobs:
+  update-feed:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Generate feed
+        run: python3 generate_domklik_feed.py
+
+      - name: Audit feed
+        # Ошибки аудита останавливают запуск, файл в репозитории не меняется
+        run: python3 audit_domklik_feed.py feeds/domklik_feed.xml
+
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add feeds/domklik_feed.xml
+          if git diff --cached --quiet; then
+            echo "Фид не изменился"
+            exit 0
+          fi
+          COUNT=$(grep -c '<flat>' feeds/domklik_feed.xml || echo "0")
+          git commit -m "Update Domklik feed: ${COUNT} flats $(date -u '+%Y-%m-%d %H:%M UTC')"
+          git pull --rebase -q origin main
+          git push -q origin HEAD:main
