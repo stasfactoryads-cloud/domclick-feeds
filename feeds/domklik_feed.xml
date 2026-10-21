@@ -7834,27 +7834,6 @@
             <description>1-комнатная квартира, 41.57 кв.м, этаж 2 из 25. ЖК «Сезоны» от ГК «ПСК». Рядом метро Проспект Просвещения, 15 мин на машине.</description>
           </flat>
           <flat>
-            <flat_id>415633</flat_id>
-            <apartment>48</apartment>
-            <booking>1</booking>
-            <domrf_id>0</domrf_id>
-            <floor>6</floor>
-            <room>1</room>
-            <plans>
-              <plan>https://feedhub.realty/feed-evel/plans/plan-a0da05f9725d4f06.jpg</plan>
-            </plans>
-            <price>14081946</price>
-            <discounts>
-              <discount>
-                <value>15.0</value>
-                <description>Скидка по акции</description>
-              </discount>
-            </discounts>
-            <area>41.83</area>
-            <housing_type>0</housing_type>
-            <description>1-комнатная квартира, 41.83 кв.м, этаж 6 из 25. ЖК «Сезоны» от ГК «ПСК». Рядом метро Проспект Просвещения, 15 мин на машине.</description>
-          </flat>
-          <flat>
             <flat_id>415663</flat_id>
             <apartment>78</apartment>
             <booking>0</booking>
@@ -8025,7 +8004,7 @@
           <flat>
             <flat_id>415753</flat_id>
             <apartment>168</apartment>
-            <booking>1</booking>
+            <booking>0</booking>
             <domrf_id>0</domrf_id>
             <floor>18</floor>
             <room>1</room>
@@ -10029,27 +10008,6 @@
             <area>59.17</area>
             <housing_type>0</housing_type>
             <description>2-комнатная квартира, 59.17 кв.м, этаж 2 из 7. ЖК «Сезоны» от ГК «ПСК». Рядом метро Проспект Просвещения, 15 мин на машине.</description>
-          </flat>
-          <flat>
-            <flat_id>416033</flat_id>
-            <apartment>201</apartment>
-            <booking>1</booking>
-            <domrf_id>0</domrf_id>
-            <floor>4</floor>
-            <room>2</room>
-            <plans>
-              <plan>https://feedhub.realty/feed-evel/plans/plan-56e32c254780bf76.jpg</plan>
-            </plans>
-            <price>21948009</price>
-            <discounts>
-              <discount>
-                <value>15.0</value>
-                <description>Скидка по акции</description>
-              </discount>
-            </discounts>
-            <area>58.97</area>
-            <housing_type>0</housing_type>
-            <description>2-комнатная квартира, 58.97 кв.м, этаж 4 из 7. ЖК «Сезоны» от ГК «ПСК». Рядом метро Проспект Просвещения, 15 мин на машине.</description>
           </flat>
           <flat>
             <flat_id>416041</flat_id>
@@ -12091,7 +12049,7 @@
           <flat>
             <flat_id>432079</flat_id>
             <apartment>272</apartment>
-            <booking>0</booking>
+            <booking>1</booking>
             <domrf_id>0</domrf_id>
             <floor>5</floor>
             <room>2</room>
@@ -12377,7 +12335,7 @@
           <flat>
             <flat_id>432077</flat_id>
             <apartment>270</apartment>
-            <booking>0</booking>
+            <booking>1</booking>
             <domrf_id>0</domrf_id>
             <floor>5</floor>
             <room>2</room>
@@ -23536,7 +23494,7 @@
           <flat>
             <flat_id>374980</flat_id>
             <apartment>896</apartment>
-            <booking>0</booking>
+            <booking>1</booking>
             <domrf_id>0</domrf_id>
             <floor>11</floor>
             <room>1</room>
@@ -26596,7 +26554,7 @@
           <flat>
             <flat_id>401933</flat_id>
             <apartment>371</apartment>
-            <booking>0</booking>
+            <booking>1</booking>
             <domrf_id>0</domrf_id>
             <floor>5</floor>
             <room>2</room>
@@ -30239,7 +30197,7 @@
           <flat>
             <flat_id>139350</flat_id>
             <apartment>123</apartment>
-            <booking>0</booking>
+            <booking>1</booking>
             <domrf_id>0</domrf_id>
             <floor>2</floor>
             <room>1</room>
@@ -30281,7 +30239,7 @@
           <flat>
             <flat_id>139368</flat_id>
             <apartment>141</apartment>
-            <booking>0</booking>
+            <booking>1</booking>
             <domrf_id>0</domrf_id>
             <floor>4</floor>
             <room>1</room>
@@ -30378,7 +30336,7 @@
           <flat>
             <flat_id>139573</flat_id>
             <apartment>123</apartment>
-            <booking>0</booking>
+            <booking>1</booking>
             <domrf_id>0</domrf_id>
             <floor>2</floor>
             <room>1</room>
@@ -30399,7 +30357,7 @@
           <flat>
             <flat_id>139557</flat_id>
             <apartment>107</apartment>
-            <booking>0</booking>
+            <booking>1</booking>
             <domrf_id>0</domrf_id>
             <floor>4</floor>
             <room>1</room>
@@ -30758,7 +30716,7 @@
           <flat>
             <flat_id>335017</flat_id>
             <apartment>33</apartment>
-            <booking>0</booking>
+            <booking>1</booking>
             <domrf_id>0</domrf_id>
             <floor>1</floor>
             <room>1</room>
@@ -32330,7 +32288,7 @@
           <flat>
             <flat_id>395088</flat_id>
             <apartment>18</apartment>
-            <booking>0</booking>
+            <booking>1</booking>
             <domrf_id>0</domrf_id>
             <floor>3</floor>
             <room>0</room>
@@ -32393,7 +32351,7 @@
           <flat>
             <flat_id>395104</flat_id>
             <apartment>34</apartment>
-            <booking>1</booking>
+            <booking>0</booking>
             <domrf_id>0</domrf_id>
             <floor>5</floor>
             <room>0</room>
@@ -33191,7 +33149,7 @@
           <flat>
             <flat_id>395094</flat_id>
             <apartment>24</apartment>
-            <booking>0</booking>
+            <booking>1</booking>
             <domrf_id>0</domrf_id>
             <floor>4</floor>
             <room>2</room>
@@ -33456,7 +33414,7 @@
           <flat>
             <flat_id>395248</flat_id>
             <apartment>42</apartment>
-            <booking>1</booking>
+            <booking>0</booking>
             <domrf_id>0</domrf_id>
             <floor>4</floor>
             <room>0</room>
@@ -34141,7 +34099,7 @@
           <flat>
             <flat_id>395272</flat_id>
             <apartment>12</apartment>
-            <booking>0</booking>
+            <booking>1</booking>
             <domrf_id>0</domrf_id>
             <floor>3</floor>
             <room>1</room>
@@ -37810,7 +37768,7 @@
           <flat>
             <flat_id>146311</flat_id>
             <apartment>230</apartment>
-            <booking>1</booking>
+            <booking>0</booking>
             <domrf_id>0</domrf_id>
             <floor>4</floor>
             <room>2</room>
@@ -38236,7 +38194,7 @@
           <flat>
             <flat_id>146863</flat_id>
             <apartment>782</apartment>
-            <booking>1</booking>
+            <booking>0</booking>
             <domrf_id>0</domrf_id>
             <floor>6</floor>
             <room>3</room>
@@ -42312,7 +42270,7 @@
           <flat>
             <flat_id>397918</flat_id>
             <apartment>118</apartment>
-            <booking>0</booking>
+            <booking>1</booking>
             <domrf_id>0</domrf_id>
             <floor>12</floor>
             <room>2</room>
@@ -42591,7 +42549,7 @@
           <flat>
             <flat_id>397921</flat_id>
             <apartment>121</apartment>
-            <booking>1</booking>
+            <booking>0</booking>
             <domrf_id>0</domrf_id>
             <floor>13</floor>
             <room>2</room>
@@ -46553,21 +46511,6 @@
         <ready_quarter>3</ready_quarter>
         <flats>
           <flat>
-            <flat_id>336203</flat_id>
-            <apartment>254</apartment>
-            <booking>1</booking>
-            <domrf_id>0</domrf_id>
-            <floor>2</floor>
-            <room>0</room>
-            <plans>
-              <plan>https://feedhub.realty/feed-evel/plans/plan-e331f3e396022de5.jpg</plan>
-            </plans>
-            <price>4900000</price>
-            <area>22.0</area>
-            <housing_type>1</housing_type>
-            <description>Студия, 22.0 кв.м, этаж 2 из 13. ЖК «Industrial AVENIR» от ГК «ПСК». Рядом метро Кировский завод, 3 мин пешком.</description>
-          </flat>
-          <flat>
             <flat_id>336318</flat_id>
             <apartment>449</apartment>
             <booking>1</booking>
@@ -48190,7 +48133,7 @@
           <flat>
             <flat_id>336685</flat_id>
             <apartment>1033</apartment>
-            <booking>0</booking>
+            <booking>1</booking>
             <domrf_id>0</domrf_id>
             <floor>10</floor>
             <room>0</room>
@@ -48484,7 +48427,7 @@
           <flat>
             <flat_id>336719</flat_id>
             <apartment>1103</apartment>
-            <booking>1</booking>
+            <booking>0</booking>
             <domrf_id>0</domrf_id>
             <floor>11</floor>
             <room>0</room>
@@ -50983,7 +50926,7 @@
           <flat>
             <flat_id>85990</flat_id>
             <apartment>28</apartment>
-            <booking>0</booking>
+            <booking>1</booking>
             <domrf_id>0</domrf_id>
             <floor>6</floor>
             <room>2</room>
@@ -51589,7 +51532,7 @@
           <flat>
             <flat_id>87414</flat_id>
             <apartment>97</apartment>
-            <booking>0</booking>
+            <booking>1</booking>
             <domrf_id>0</domrf_id>
             <floor>6</floor>
             <room>3</room>
@@ -51634,7 +51577,7 @@
           <flat>
             <flat_id>87632</flat_id>
             <apartment>315</apartment>
-            <booking>0</booking>
+            <booking>1</booking>
             <domrf_id>0</domrf_id>
             <floor>6</floor>
             <room>2</room>
@@ -51679,7 +51622,7 @@
           <flat>
             <flat_id>87543</flat_id>
             <apartment>226</apartment>
-            <booking>0</booking>
+            <booking>1</booking>
             <domrf_id>0</domrf_id>
             <floor>8</floor>
             <room>1</room>
