@@ -2280,7 +2280,7 @@
           <flat>
             <flat_id>451138</flat_id>
             <apartment>158</apartment>
-            <booking>1</booking>
+            <booking>0</booking>
             <domrf_id>0</domrf_id>
             <floor>3</floor>
             <room>1</room>
@@ -7601,27 +7601,6 @@
             <description>Студия, 26.44 кв.м, этаж 18 из 25. ЖК «Сезоны» от ГК «ПСК». Рядом метро Проспект Просвещения, 15 мин на машине.</description>
           </flat>
           <flat>
-            <flat_id>415817</flat_id>
-            <apartment>232</apartment>
-            <booking>1</booking>
-            <domrf_id>0</domrf_id>
-            <floor>24</floor>
-            <room>0</room>
-            <plans>
-              <plan>https://feedhub.realty/feed-evel/plans/plan-5d65c477307a9c42.jpg</plan>
-            </plans>
-            <price>9893225</price>
-            <discounts>
-              <discount>
-                <value>15.0</value>
-                <description>Скидка по акции</description>
-              </discount>
-            </discounts>
-            <area>26.44</area>
-            <housing_type>0</housing_type>
-            <description>Студия, 26.44 кв.м, этаж 24 из 25. ЖК «Сезоны» от ГК «ПСК». Рядом метро Проспект Просвещения, 15 мин на машине.</description>
-          </flat>
-          <flat>
             <flat_id>415596</flat_id>
             <apartment>11</apartment>
             <booking>0</booking>
@@ -11660,7 +11639,7 @@
             <floor>3</floor>
             <room>1</room>
             <plans>
-              <plan>https://feedhub.realty/feed-evel/plans/plan-5dd4ce68b840b937.jpg</plan>
+              <plan>https://feedhub.realty/feed-evel/plans/plan-c2a7958118f57329.jpg</plan>
             </plans>
             <renovation>без отделки</renovation>
             <price>39845000</price>
@@ -11704,7 +11683,7 @@
             <floor>3</floor>
             <room>1</room>
             <plans>
-              <plan>https://feedhub.realty/feed-evel/plans/plan-3bf2647a911a2eb0.jpg</plan>
+              <plan>https://feedhub.realty/feed-evel/plans/plan-121d61cf2ce9ae7c.jpg</plan>
             </plans>
             <renovation>без отделки</renovation>
             <price>40431068</price>
@@ -11726,7 +11705,7 @@
             <floor>5</floor>
             <room>1</room>
             <plans>
-              <plan>https://feedhub.realty/feed-evel/plans/plan-86f9822a9003686b.jpg</plan>
+              <plan>https://feedhub.realty/feed-evel/plans/plan-e163499f865e8b5a.jpg</plan>
             </plans>
             <renovation>без отделки</renovation>
             <price>40829870</price>
@@ -11748,7 +11727,7 @@
             <floor>5</floor>
             <room>1</room>
             <plans>
-              <plan>https://feedhub.realty/feed-evel/plans/plan-7bc83bebdf69a5a0.jpg</plan>
+              <plan>https://feedhub.realty/feed-evel/plans/plan-041dccb9cebeb70e.jpg</plan>
             </plans>
             <renovation>без отделки</renovation>
             <price>41695197</price>
@@ -11770,7 +11749,7 @@
             <floor>7</floor>
             <room>1</room>
             <plans>
-              <plan>https://feedhub.realty/feed-evel/plans/plan-c3f6486ef56658f0.jpg</plan>
+              <plan>https://feedhub.realty/feed-evel/plans/plan-ec7d6f0b05db317e.jpg</plan>
             </plans>
             <renovation>без отделки</renovation>
             <price>41831680</price>
@@ -11814,7 +11793,7 @@
             <floor>6</floor>
             <room>1</room>
             <plans>
-              <plan>https://feedhub.realty/feed-evel/plans/plan-8f4e845c0938dd66.jpg</plan>
+              <plan>https://feedhub.realty/feed-evel/plans/plan-1af8c1b3bff41e09.jpg</plan>
             </plans>
             <renovation>без отделки</renovation>
             <price>44020101</price>
@@ -11858,7 +11837,7 @@
             <floor>3</floor>
             <room>2</room>
             <plans>
-              <plan>https://feedhub.realty/feed-evel/plans/plan-83aa2fcdf12a841a.jpg</plan>
+              <plan>https://feedhub.realty/feed-evel/plans/plan-b092db7528ab5697.jpg</plan>
             </plans>
             <renovation>без отделки</renovation>
             <price>46893645</price>
@@ -11880,7 +11859,7 @@
             <floor>5</floor>
             <room>2</room>
             <plans>
-              <plan>https://feedhub.realty/feed-evel/plans/plan-b5d76963b311b4e7.jpg</plan>
+              <plan>https://feedhub.realty/feed-evel/plans/plan-ef165ebc9fc10b82.jpg</plan>
             </plans>
             <renovation>без отделки</renovation>
             <price>47346990</price>
@@ -12056,7 +12035,7 @@
             <floor>3</floor>
             <room>2</room>
             <plans>
-              <plan>https://feedhub.realty/feed-evel/plans/plan-f283c0ca3d5ed546.jpg</plan>
+              <plan>https://feedhub.realty/feed-evel/plans/plan-7e3c855cdfd36df8.jpg</plan>
             </plans>
             <renovation>без отделки</renovation>
             <price>50850153</price>
@@ -12210,7 +12189,7 @@
             <floor>5</floor>
             <room>2</room>
             <plans>
-              <plan>https://feedhub.realty/feed-evel/plans/plan-1af8c1b3bff41e09.jpg</plan>
+              <plan>https://feedhub.realty/feed-evel/plans/plan-a113fa4682436cd6.jpg</plan>
             </plans>
             <renovation>без отделки</renovation>
             <price>52404944</price>
@@ -12584,7 +12563,7 @@
             <floor>3</floor>
             <room>2</room>
             <plans>
-              <plan>https://feedhub.realty/feed-evel/plans/plan-fdce5a9eae665134.jpg</plan>
+              <plan>https://feedhub.realty/feed-evel/plans/plan-8ccad6d81e6d6a97.jpg</plan>
             </plans>
             <renovation>без отделки</renovation>
             <price>59750364</price>
@@ -12958,7 +12937,7 @@
             <floor>5</floor>
             <room>2</room>
             <plans>
-              <plan>https://feedhub.realty/feed-evel/plans/plan-2ada9ceb003e634a.jpg</plan>
+              <plan>https://feedhub.realty/feed-evel/plans/plan-5736c7447191f1da.jpg</plan>
             </plans>
             <renovation>без отделки</renovation>
             <price>66407026</price>
@@ -13024,7 +13003,7 @@
             <floor>7</floor>
             <room>2</room>
             <plans>
-              <plan>https://feedhub.realty/feed-evel/plans/plan-a858eb5b579ae63c.jpg</plan>
+              <plan>https://feedhub.realty/feed-evel/plans/plan-10df37e3ab0f2aa9.jpg</plan>
             </plans>
             <renovation>без отделки</renovation>
             <price>67908979</price>
@@ -13266,7 +13245,7 @@
             <floor>3</floor>
             <room>3</room>
             <plans>
-              <plan>https://feedhub.realty/feed-evel/plans/plan-81777b4243beb072.jpg</plan>
+              <plan>https://feedhub.realty/feed-evel/plans/plan-fdce5a9eae665134.jpg</plan>
             </plans>
             <renovation>без отделки</renovation>
             <price>78017177</price>
@@ -13288,7 +13267,7 @@
             <floor>5</floor>
             <room>3</room>
             <plans>
-              <plan>https://feedhub.realty/feed-evel/plans/plan-e053727e3c8d0dbd.jpg</plan>
+              <plan>https://feedhub.realty/feed-evel/plans/plan-2ada9ceb003e634a.jpg</plan>
             </plans>
             <renovation>без отделки</renovation>
             <price>79145269</price>
@@ -13310,7 +13289,7 @@
             <floor>7</floor>
             <room>3</room>
             <plans>
-              <plan>https://feedhub.realty/feed-evel/plans/plan-523646ab20306e46.jpg</plan>
+              <plan>https://feedhub.realty/feed-evel/plans/plan-a858eb5b579ae63c.jpg</plan>
             </plans>
             <renovation>без отделки</renovation>
             <price>81485528</price>
@@ -13354,7 +13333,7 @@
             <floor>3</floor>
             <room>3</room>
             <plans>
-              <plan>https://feedhub.realty/feed-evel/plans/plan-279ac48e64759bbd.jpg</plan>
+              <plan>https://feedhub.realty/feed-evel/plans/plan-af67c985b64f2325.jpg</plan>
             </plans>
             <renovation>без отделки</renovation>
             <price>82237500</price>
@@ -13508,7 +13487,7 @@
             <floor>3</floor>
             <room>3</room>
             <plans>
-              <plan>https://feedhub.realty/feed-evel/plans/plan-bd06ad47f55e9e78.jpg</plan>
+              <plan>https://feedhub.realty/feed-evel/plans/plan-e7af6bc0c19c64a7.jpg</plan>
             </plans>
             <renovation>без отделки</renovation>
             <price>84320037</price>
@@ -13552,7 +13531,7 @@
             <floor>3</floor>
             <room>3</room>
             <plans>
-              <plan>https://feedhub.realty/feed-evel/plans/plan-99a8717a681df916.jpg</plan>
+              <plan>https://feedhub.realty/feed-evel/plans/plan-e901848db9bcb4b8.jpg</plan>
             </plans>
             <renovation>без отделки</renovation>
             <price>85645250</price>
@@ -13596,7 +13575,7 @@
             <floor>5</floor>
             <room>3</room>
             <plans>
-              <plan>https://feedhub.realty/feed-evel/plans/plan-ff4913153b43529b.jpg</plan>
+              <plan>https://feedhub.realty/feed-evel/plans/plan-22858463d59f83ac.jpg</plan>
             </plans>
             <renovation>без отделки</renovation>
             <price>87122222</price>
@@ -13640,7 +13619,7 @@
             <floor>5</floor>
             <room>3</room>
             <plans>
-              <plan>https://feedhub.realty/feed-evel/plans/plan-61fb98ec1d387d33.jpg</plan>
+              <plan>https://feedhub.realty/feed-evel/plans/plan-83aa2fcdf12a841a.jpg</plan>
             </plans>
             <renovation>без отделки</renovation>
             <price>88112000</price>
@@ -13794,7 +13773,7 @@
             <floor>7</floor>
             <room>3</room>
             <plans>
-              <plan>https://feedhub.realty/feed-evel/plans/plan-511584c2e8c28421.jpg</plan>
+              <plan>https://feedhub.realty/feed-evel/plans/plan-0b243b83a1dcff67.jpg</plan>
             </plans>
             <renovation>без отделки</renovation>
             <price>90059122</price>
@@ -13816,7 +13795,7 @@
             <floor>5</floor>
             <room>3</room>
             <plans>
-              <plan>https://feedhub.realty/feed-evel/plans/plan-f728ea78f677ac87.jpg</plan>
+              <plan>https://feedhub.realty/feed-evel/plans/plan-94618faa9a8fdda5.jpg</plan>
             </plans>
             <renovation>без отделки</renovation>
             <price>90840750</price>
@@ -13992,7 +13971,7 @@
             <floor>3</floor>
             <room>3</room>
             <plans>
-              <plan>https://feedhub.realty/feed-evel/plans/plan-c2a7958118f57329.jpg</plan>
+              <plan>https://feedhub.realty/feed-evel/plans/plan-992843f7a7d7fbad.jpg</plan>
             </plans>
             <renovation>без отделки</renovation>
             <price>94182570</price>
@@ -14102,7 +14081,7 @@
             <floor>5</floor>
             <room>3</room>
             <plans>
-              <plan>https://feedhub.realty/feed-evel/plans/plan-e163499f865e8b5a.jpg</plan>
+              <plan>https://feedhub.realty/feed-evel/plans/plan-0ee3728af762857d.jpg</plan>
             </plans>
             <renovation>без отделки</renovation>
             <price>96651360</price>
@@ -14119,7 +14098,7 @@
           <flat>
             <flat_id>432018</flat_id>
             <apartment>211</apartment>
-            <booking>0</booking>
+            <booking>1</booking>
             <domrf_id>0</domrf_id>
             <floor>8</floor>
             <room>3</room>
@@ -14146,7 +14125,7 @@
             <floor>7</floor>
             <room>3</room>
             <plans>
-              <plan>https://feedhub.realty/feed-evel/plans/plan-ec7d6f0b05db317e.jpg</plan>
+              <plan>https://feedhub.realty/feed-evel/plans/plan-94447e202c6a8946.jpg</plan>
             </plans>
             <renovation>без отделки</renovation>
             <price>99433200</price>
@@ -14212,7 +14191,7 @@
             <floor>9</floor>
             <room>3</room>
             <plans>
-              <plan>https://feedhub.realty/feed-evel/plans/plan-bc1c0b2de6944def.jpg</plan>
+              <plan>https://feedhub.realty/feed-evel/plans/plan-0913cf6ebf90ddb1.jpg</plan>
             </plans>
             <renovation>без отделки</renovation>
             <price>143869922</price>
@@ -29656,7 +29635,7 @@
           <flat>
             <flat_id>401776</flat_id>
             <apartment>214</apartment>
-            <booking>0</booking>
+            <booking>1</booking>
             <domrf_id>0</domrf_id>
             <floor>3</floor>
             <room>2</room>
@@ -30605,7 +30584,7 @@
           <flat>
             <flat_id>335018</flat_id>
             <apartment>34</apartment>
-            <booking>1</booking>
+            <booking>0</booking>
             <domrf_id>0</domrf_id>
             <floor>1</floor>
             <room>1</room>
@@ -34988,7 +34967,7 @@
           <flat>
             <flat_id>395390</flat_id>
             <apartment>43</apartment>
-            <booking>1</booking>
+            <booking>0</booking>
             <domrf_id>0</domrf_id>
             <floor>3</floor>
             <room>1</room>
@@ -36116,7 +36095,7 @@
           <flat>
             <flat_id>145884</flat_id>
             <apartment>19</apartment>
-            <booking>0</booking>
+            <booking>1</booking>
             <domrf_id>0</domrf_id>
             <floor>5</floor>
             <room>3</room>
@@ -36138,7 +36117,7 @@
           <flat>
             <flat_id>145980</flat_id>
             <apartment>115</apartment>
-            <booking>1</booking>
+            <booking>0</booking>
             <domrf_id>0</domrf_id>
             <floor>9</floor>
             <room>3</room>
@@ -37322,7 +37301,7 @@
           <flat>
             <flat_id>146489</flat_id>
             <apartment>408</apartment>
-            <booking>0</booking>
+            <booking>1</booking>
             <domrf_id>0</domrf_id>
             <floor>4</floor>
             <room>2</room>
@@ -38344,7 +38323,7 @@
           <flat>
             <flat_id>398087</flat_id>
             <apartment>287</apartment>
-            <booking>1</booking>
+            <booking>0</booking>
             <domrf_id>0</domrf_id>
             <floor>10</floor>
             <room>0</room>
@@ -45528,7 +45507,7 @@
           <flat>
             <flat_id>338934</flat_id>
             <apartment>13</apartment>
-            <booking>1</booking>
+            <booking>0</booking>
             <domrf_id>0</domrf_id>
             <floor>3</floor>
             <room>1</room>
@@ -48420,7 +48399,7 @@
           <flat>
             <flat_id>336782</flat_id>
             <apartment>1203</apartment>
-            <booking>0</booking>
+            <booking>1</booking>
             <domrf_id>0</domrf_id>
             <floor>12</floor>
             <room>0</room>
@@ -48714,7 +48693,7 @@
           <flat>
             <flat_id>336864</flat_id>
             <apartment>1329</apartment>
-            <booking>1</booking>
+            <booking>0</booking>
             <domrf_id>0</domrf_id>
             <floor>13</floor>
             <room>0</room>
@@ -49301,7 +49280,7 @@
           <flat>
             <flat_id>100643</flat_id>
             <apartment>824</apartment>
-            <booking>1</booking>
+            <booking>0</booking>
             <domrf_id>0</domrf_id>
             <floor>8</floor>
             <room>0</room>
@@ -50684,7 +50663,7 @@
           <flat>
             <flat_id>86003</flat_id>
             <apartment>104</apartment>
-            <booking>0</booking>
+            <booking>1</booking>
             <domrf_id>0</domrf_id>
             <floor>6</floor>
             <room>2</room>
@@ -50744,22 +50723,6 @@
             <area>102.8</area>
             <housing_type>0</housing_type>
             <description>3-комнатная квартира, 102.8 кв.м, этаж 3 из 9. ЖК «BAKUNINA 33, клубный дом» от ГК «ПСК». Рядом метро Площадь Александра Невского, 12 мин пешком.</description>
-          </flat>
-          <flat>
-            <flat_id>85978</flat_id>
-            <apartment>24</apartment>
-            <booking>1</booking>
-            <domrf_id>0</domrf_id>
-            <floor>5</floor>
-            <room>3</room>
-            <plans>
-              <plan>https://feedhub.realty/feed-evel/plans/plan-01c4a709035e1cda.jpg</plan>
-            </plans>
-            <renovation>без отделки</renovation>
-            <price>55912000</price>
-            <area>96.4</area>
-            <housing_type>0</housing_type>
-            <description>3-комнатная квартира, 96.4 кв.м, этаж 5 из 9. ЖК «BAKUNINA 33, клубный дом» от ГК «ПСК». Рядом метро Площадь Александра Невского, 12 мин пешком.</description>
           </flat>
           <flat>
             <flat_id>85982</flat_id>
@@ -51194,7 +51157,7 @@
           <flat>
             <flat_id>87414</flat_id>
             <apartment>97</apartment>
-            <booking>1</booking>
+            <booking>0</booking>
             <domrf_id>0</domrf_id>
             <floor>6</floor>
             <room>3</room>
