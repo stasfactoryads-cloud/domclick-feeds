@@ -475,7 +475,7 @@
           <flat>
             <flat_id>451253</flat_id>
             <apartment>273</apartment>
-            <booking>0</booking>
+            <booking>1</booking>
             <domrf_id>0</domrf_id>
             <floor>4</floor>
             <room>0</room>
@@ -820,48 +820,6 @@
             <description>1-комнатная квартира, 29.07 кв.м, этаж 11 из 12. ЖК «Оптимист» от ГК «ПСК». Рядом метро Бухарестская, 10 мин пешком.</description>
           </flat>
           <flat>
-            <flat_id>450998</flat_id>
-            <apartment>18</apartment>
-            <booking>0</booking>
-            <domrf_id>0</domrf_id>
-            <floor>4</floor>
-            <room>1</room>
-            <plans>
-              <plan>https://feedhub.realty/feed-evel/plans/plan-17c5412cc7856ee6.jpg</plan>
-            </plans>
-            <price>15483612</price>
-            <discounts>
-              <discount>
-                <value>15.0</value>
-                <description>Скидка по акции</description>
-              </discount>
-            </discounts>
-            <area>28.97</area>
-            <housing_type>0</housing_type>
-            <description>1-комнатная квартира, 28.97 кв.м, этаж 4 из 12. ЖК «Оптимист» от ГК «ПСК». Рядом метро Бухарестская, 10 мин пешком.</description>
-          </flat>
-          <flat>
-            <flat_id>451186</flat_id>
-            <apartment>206</apartment>
-            <booking>0</booking>
-            <domrf_id>0</domrf_id>
-            <floor>8</floor>
-            <room>1</room>
-            <plans>
-              <plan>https://feedhub.realty/feed-evel/plans/plan-fff97a51837776f9.jpg</plan>
-            </plans>
-            <price>15581529</price>
-            <discounts>
-              <discount>
-                <value>15.0</value>
-                <description>Скидка по акции</description>
-              </discount>
-            </discounts>
-            <area>29.0</area>
-            <housing_type>0</housing_type>
-            <description>1-комнатная квартира, 29.0 кв.м, этаж 8 из 12. ЖК «Оптимист» от ГК «ПСК». Рядом метро Бухарестская, 10 мин пешком.</description>
-          </flat>
-          <flat>
             <flat_id>451398</flat_id>
             <apartment>418</apartment>
             <booking>0</booking>
@@ -884,6 +842,48 @@
             <description>1-комнатная квартира, 29.83 кв.м, этаж 11 из 12. ЖК «Оптимист» от ГК «ПСК». Рядом метро Бухарестская, 10 мин пешком.</description>
           </flat>
           <flat>
+            <flat_id>450998</flat_id>
+            <apartment>18</apartment>
+            <booking>0</booking>
+            <domrf_id>0</domrf_id>
+            <floor>4</floor>
+            <room>1</room>
+            <plans>
+              <plan>https://feedhub.realty/feed-evel/plans/plan-17c5412cc7856ee6.jpg</plan>
+            </plans>
+            <price>15636983</price>
+            <discounts>
+              <discount>
+                <value>15.0</value>
+                <description>Скидка по акции</description>
+              </discount>
+            </discounts>
+            <area>28.97</area>
+            <housing_type>0</housing_type>
+            <description>1-комнатная квартира, 28.97 кв.м, этаж 4 из 12. ЖК «Оптимист» от ГК «ПСК». Рядом метро Бухарестская, 10 мин пешком.</description>
+          </flat>
+          <flat>
+            <flat_id>451186</flat_id>
+            <apartment>206</apartment>
+            <booking>0</booking>
+            <domrf_id>0</domrf_id>
+            <floor>8</floor>
+            <room>1</room>
+            <plans>
+              <plan>https://feedhub.realty/feed-evel/plans/plan-fff97a51837776f9.jpg</plan>
+            </plans>
+            <price>15738470</price>
+            <discounts>
+              <discount>
+                <value>15.0</value>
+                <description>Скидка по акции</description>
+              </discount>
+            </discounts>
+            <area>29.0</area>
+            <housing_type>0</housing_type>
+            <description>1-комнатная квартира, 29.0 кв.м, этаж 8 из 12. ЖК «Оптимист» от ГК «ПСК». Рядом метро Бухарестская, 10 мин пешком.</description>
+          </flat>
+          <flat>
             <flat_id>451302</flat_id>
             <apartment>322</apartment>
             <booking>0</booking>
@@ -904,27 +904,6 @@
             <area>30.33</area>
             <housing_type>0</housing_type>
             <description>1-комнатная квартира, 30.33 кв.м, этаж 8 из 12. ЖК «Оптимист» от ГК «ПСК». Рядом метро Бухарестская, 10 мин пешком.</description>
-          </flat>
-          <flat>
-            <flat_id>450997</flat_id>
-            <apartment>17</apartment>
-            <booking>1</booking>
-            <domrf_id>0</domrf_id>
-            <floor>4</floor>
-            <room>1</room>
-            <plans>
-              <plan>https://feedhub.realty/feed-evel/plans/plan-a24945b03fd87e7b.jpg</plan>
-            </plans>
-            <price>15758381</price>
-            <discounts>
-              <discount>
-                <value>15.0</value>
-                <description>Скидка по акции</description>
-              </discount>
-            </discounts>
-            <area>30.08</area>
-            <housing_type>0</housing_type>
-            <description>1-комнатная квартира, 30.08 кв.м, этаж 4 из 12. ЖК «Оптимист» от ГК «ПСК». Рядом метро Бухарестская, 10 мин пешком.</description>
           </flat>
           <flat>
             <flat_id>451380</flat_id>
@@ -1015,90 +994,6 @@
             <description>1-комнатная квартира, 32.62 кв.м, этаж 4 из 12. ЖК «Оптимист» от ГК «ПСК». Рядом метро Бухарестская, 10 мин пешком.</description>
           </flat>
           <flat>
-            <flat_id>451093</flat_id>
-            <apartment>113</apartment>
-            <booking>0</booking>
-            <domrf_id>0</domrf_id>
-            <floor>7</floor>
-            <room>1</room>
-            <plans>
-              <plan>https://feedhub.realty/feed-evel/plans/plan-daf57774960d1461.jpg</plan>
-            </plans>
-            <price>15917082</price>
-            <discounts>
-              <discount>
-                <value>15.0</value>
-                <description>Скидка по акции</description>
-              </discount>
-            </discounts>
-            <area>29.67</area>
-            <housing_type>0</housing_type>
-            <description>1-комнатная квартира, 29.67 кв.м, этаж 7 из 12. ЖК «Оптимист» от ГК «ПСК». Рядом метро Бухарестская, 10 мин пешком.</description>
-          </flat>
-          <flat>
-            <flat_id>450992</flat_id>
-            <apartment>12</apartment>
-            <booking>0</booking>
-            <domrf_id>0</domrf_id>
-            <floor>3</floor>
-            <room>1</room>
-            <plans>
-              <plan>https://feedhub.realty/feed-evel/plans/plan-1c24613c820fd9ba.jpg</plan>
-            </plans>
-            <price>15919548</price>
-            <discounts>
-              <discount>
-                <value>15.0</value>
-                <description>Скидка по акции</description>
-              </discount>
-            </discounts>
-            <area>30.88</area>
-            <housing_type>0</housing_type>
-            <description>1-комнатная квартира, 30.88 кв.м, этаж 3 из 12. ЖК «Оптимист» от ГК «ПСК». Рядом метро Бухарестская, 10 мин пешком.</description>
-          </flat>
-          <flat>
-            <flat_id>451095</flat_id>
-            <apartment>115</apartment>
-            <booking>0</booking>
-            <domrf_id>0</domrf_id>
-            <floor>7</floor>
-            <room>1</room>
-            <plans>
-              <plan>https://feedhub.realty/feed-evel/plans/plan-4f2b6ca008c71231.jpg</plan>
-            </plans>
-            <price>15927811</price>
-            <discounts>
-              <discount>
-                <value>15.0</value>
-                <description>Скидка по акции</description>
-              </discount>
-            </discounts>
-            <area>29.69</area>
-            <housing_type>0</housing_type>
-            <description>1-комнатная квартира, 29.69 кв.м, этаж 7 из 12. ЖК «Оптимист» от ГК «ПСК». Рядом метро Бухарестская, 10 мин пешком.</description>
-          </flat>
-          <flat>
-            <flat_id>451102</flat_id>
-            <apartment>122</apartment>
-            <booking>0</booking>
-            <domrf_id>0</domrf_id>
-            <floor>8</floor>
-            <room>1</room>
-            <plans>
-              <plan>https://feedhub.realty/feed-evel/plans/plan-1e91077154b76837.jpg</plan>
-            </plans>
-            <price>15952262</price>
-            <discounts>
-              <discount>
-                <value>15.0</value>
-                <description>Скидка по акции</description>
-              </discount>
-            </discounts>
-            <area>29.69</area>
-            <housing_type>0</housing_type>
-            <description>1-комнатная квартира, 29.69 кв.м, этаж 8 из 12. ЖК «Оптимист» от ГК «ПСК». Рядом метро Бухарестская, 10 мин пешком.</description>
-          </flat>
-          <flat>
             <flat_id>451472</flat_id>
             <apartment>492</apartment>
             <booking>0</booking>
@@ -1121,109 +1016,88 @@
             <description>1-комнатная квартира, 30.46 кв.м, этаж 11 из 12. ЖК «Оптимист» от ГК «ПСК». Рядом метро Бухарестская, 10 мин пешком.</description>
           </flat>
           <flat>
-            <flat_id>451122</flat_id>
-            <apartment>142</apartment>
-            <booking>0</booking>
-            <domrf_id>0</domrf_id>
-            <floor>11</floor>
-            <room>1</room>
-            <plans>
-              <plan>https://feedhub.realty/feed-evel/plans/plan-bda5d914dbd91579.jpg</plan>
-            </plans>
-            <price>16064494</price>
-            <discounts>
-              <discount>
-                <value>15.0</value>
-                <description>Скидка по акции</description>
-              </discount>
-            </discounts>
-            <area>29.62</area>
-            <housing_type>0</housing_type>
-            <description>1-комнатная квартира, 29.62 кв.м, этаж 11 из 12. ЖК «Оптимист» от ГК «ПСК». Рядом метро Бухарестская, 10 мин пешком.</description>
-          </flat>
-          <flat>
-            <flat_id>450999</flat_id>
-            <apartment>19</apartment>
-            <booking>0</booking>
-            <domrf_id>0</domrf_id>
-            <floor>4</floor>
-            <room>1</room>
-            <plans>
-              <plan>https://feedhub.realty/feed-evel/plans/plan-017466f87ccc26c0.jpg</plan>
-            </plans>
-            <price>16088427</price>
-            <discounts>
-              <discount>
-                <value>15.0</value>
-                <description>Скидка по акции</description>
-              </discount>
-            </discounts>
-            <area>30.71</area>
-            <housing_type>0</housing_type>
-            <description>1-комнатная квартира, 30.71 кв.м, этаж 4 из 12. ЖК «Оптимист» от ГК «ПСК». Рядом метро Бухарестская, 10 мин пешком.</description>
-          </flat>
-          <flat>
-            <flat_id>451142</flat_id>
-            <apartment>162</apartment>
-            <booking>0</booking>
-            <domrf_id>0</domrf_id>
-            <floor>4</floor>
-            <room>1</room>
-            <plans>
-              <plan>https://feedhub.realty/feed-evel/plans/plan-d685c54c2fb43db6.jpg</plan>
-            </plans>
-            <price>16109382</price>
-            <discounts>
-              <discount>
-                <value>15.0</value>
-                <description>Скидка по акции</description>
-              </discount>
-            </discounts>
-            <area>30.75</area>
-            <housing_type>0</housing_type>
-            <description>1-комнатная квартира, 30.75 кв.м, этаж 4 из 12. ЖК «Оптимист» от ГК «ПСК». Рядом метро Бухарестская, 10 мин пешком.</description>
-          </flat>
-          <flat>
-            <flat_id>451018</flat_id>
-            <apartment>38</apartment>
+            <flat_id>451093</flat_id>
+            <apartment>113</apartment>
             <booking>0</booking>
             <domrf_id>0</domrf_id>
             <floor>7</floor>
             <room>1</room>
             <plans>
-              <plan>https://feedhub.realty/feed-evel/plans/plan-a24945b03fd87e7b.jpg</plan>
+              <plan>https://feedhub.realty/feed-evel/plans/plan-daf57774960d1461.jpg</plan>
             </plans>
-            <price>16137035</price>
+            <price>16077649</price>
             <discounts>
               <discount>
                 <value>15.0</value>
                 <description>Скидка по акции</description>
               </discount>
             </discounts>
-            <area>30.08</area>
+            <area>29.67</area>
             <housing_type>0</housing_type>
-            <description>1-комнатная квартира, 30.08 кв.м, этаж 7 из 12. ЖК «Оптимист» от ГК «ПСК». Рядом метро Бухарестская, 10 мин пешком.</description>
+            <description>1-комнатная квартира, 29.67 кв.м, этаж 7 из 12. ЖК «Оптимист» от ГК «ПСК». Рядом метро Бухарестская, 10 мин пешком.</description>
           </flat>
           <flat>
-            <flat_id>451025</flat_id>
-            <apartment>45</apartment>
+            <flat_id>450992</flat_id>
+            <apartment>12</apartment>
+            <booking>0</booking>
+            <domrf_id>0</domrf_id>
+            <floor>3</floor>
+            <room>1</room>
+            <plans>
+              <plan>https://feedhub.realty/feed-evel/plans/plan-1c24613c820fd9ba.jpg</plan>
+            </plans>
+            <price>16079397</price>
+            <discounts>
+              <discount>
+                <value>15.0</value>
+                <description>Скидка по акции</description>
+              </discount>
+            </discounts>
+            <area>30.88</area>
+            <housing_type>0</housing_type>
+            <description>1-комнатная квартира, 30.88 кв.м, этаж 3 из 12. ЖК «Оптимист» от ГК «ПСК». Рядом метро Бухарестская, 10 мин пешком.</description>
+          </flat>
+          <flat>
+            <flat_id>451095</flat_id>
+            <apartment>115</apartment>
+            <booking>0</booking>
+            <domrf_id>0</domrf_id>
+            <floor>7</floor>
+            <room>1</room>
+            <plans>
+              <plan>https://feedhub.realty/feed-evel/plans/plan-4f2b6ca008c71231.jpg</plan>
+            </plans>
+            <price>16088487</price>
+            <discounts>
+              <discount>
+                <value>15.0</value>
+                <description>Скидка по акции</description>
+              </discount>
+            </discounts>
+            <area>29.69</area>
+            <housing_type>0</housing_type>
+            <description>1-комнатная квартира, 29.69 кв.м, этаж 7 из 12. ЖК «Оптимист» от ГК «ПСК». Рядом метро Бухарестская, 10 мин пешком.</description>
+          </flat>
+          <flat>
+            <flat_id>451102</flat_id>
+            <apartment>122</apartment>
             <booking>0</booking>
             <domrf_id>0</domrf_id>
             <floor>8</floor>
             <room>1</room>
             <plans>
-              <plan>https://feedhub.realty/feed-evel/plans/plan-1ff706d684823892.jpg</plan>
+              <plan>https://feedhub.realty/feed-evel/plans/plan-1e91077154b76837.jpg</plan>
             </plans>
-            <price>16161807</price>
+            <price>16112937</price>
             <discounts>
               <discount>
                 <value>15.0</value>
                 <description>Скидка по акции</description>
               </discount>
             </discounts>
-            <area>30.08</area>
+            <area>29.69</area>
             <housing_type>0</housing_type>
-            <description>1-комнатная квартира, 30.08 кв.м, этаж 8 из 12. ЖК «Оптимист» от ГК «ПСК». Рядом метро Бухарестская, 10 мин пешком.</description>
+            <description>1-комнатная квартира, 29.69 кв.м, этаж 8 из 12. ЖК «Оптимист» от ГК «ПСК». Рядом метро Бухарестская, 10 мин пешком.</description>
           </flat>
           <flat>
             <flat_id>451374</flat_id>
@@ -1248,6 +1122,27 @@
             <description>1-комнатная квартира, 31.55 кв.м, этаж 7 из 12. ЖК «Оптимист» от ГК «ПСК». Рядом метро Бухарестская, 10 мин пешком.</description>
           </flat>
           <flat>
+            <flat_id>451122</flat_id>
+            <apartment>142</apartment>
+            <booking>0</booking>
+            <domrf_id>0</domrf_id>
+            <floor>11</floor>
+            <room>1</room>
+            <plans>
+              <plan>https://feedhub.realty/feed-evel/plans/plan-bda5d914dbd91579.jpg</plan>
+            </plans>
+            <price>16224790</price>
+            <discounts>
+              <discount>
+                <value>15.0</value>
+                <description>Скидка по акции</description>
+              </discount>
+            </discounts>
+            <area>29.62</area>
+            <housing_type>0</housing_type>
+            <description>1-комнатная квартира, 29.62 кв.м, этаж 11 из 12. ЖК «Оптимист» от ГК «ПСК». Рядом метро Бухарестская, 10 мин пешком.</description>
+          </flat>
+          <flat>
             <flat_id>451330</flat_id>
             <apartment>350</apartment>
             <booking>0</booking>
@@ -1270,25 +1165,88 @@
             <description>1-комнатная квартира, 33.24 кв.м, этаж 11 из 12. ЖК «Оптимист» от ГК «ПСК». Рядом метро Бухарестская, 10 мин пешком.</description>
           </flat>
           <flat>
-            <flat_id>451046</flat_id>
-            <apartment>66</apartment>
+            <flat_id>450999</flat_id>
+            <apartment>19</apartment>
             <booking>0</booking>
             <domrf_id>0</domrf_id>
-            <floor>11</floor>
+            <floor>4</floor>
             <room>1</room>
             <plans>
-              <plan>https://feedhub.realty/feed-evel/plans/plan-a6c7d2caa8806b01.jpg</plan>
+              <plan>https://feedhub.realty/feed-evel/plans/plan-017466f87ccc26c0.jpg</plan>
             </plans>
-            <price>16292282</price>
+            <price>16251009</price>
             <discounts>
               <discount>
                 <value>15.0</value>
                 <description>Скидка по акции</description>
               </discount>
             </discounts>
-            <area>30.04</area>
+            <area>30.71</area>
             <housing_type>0</housing_type>
-            <description>1-комнатная квартира, 30.04 кв.м, этаж 11 из 12. ЖК «Оптимист» от ГК «ПСК». Рядом метро Бухарестская, 10 мин пешком.</description>
+            <description>1-комнатная квартира, 30.71 кв.м, этаж 4 из 12. ЖК «Оптимист» от ГК «ПСК». Рядом метро Бухарестская, 10 мин пешком.</description>
+          </flat>
+          <flat>
+            <flat_id>451142</flat_id>
+            <apartment>162</apartment>
+            <booking>0</booking>
+            <domrf_id>0</domrf_id>
+            <floor>4</floor>
+            <room>1</room>
+            <plans>
+              <plan>https://feedhub.realty/feed-evel/plans/plan-d685c54c2fb43db6.jpg</plan>
+            </plans>
+            <price>16272176</price>
+            <discounts>
+              <discount>
+                <value>15.0</value>
+                <description>Скидка по акции</description>
+              </discount>
+            </discounts>
+            <area>30.75</area>
+            <housing_type>0</housing_type>
+            <description>1-комнатная квартира, 30.75 кв.м, этаж 4 из 12. ЖК «Оптимист» от ГК «ПСК». Рядом метро Бухарестская, 10 мин пешком.</description>
+          </flat>
+          <flat>
+            <flat_id>451018</flat_id>
+            <apartment>38</apartment>
+            <booking>0</booking>
+            <domrf_id>0</domrf_id>
+            <floor>7</floor>
+            <room>1</room>
+            <plans>
+              <plan>https://feedhub.realty/feed-evel/plans/plan-a24945b03fd87e7b.jpg</plan>
+            </plans>
+            <price>16299821</price>
+            <discounts>
+              <discount>
+                <value>15.0</value>
+                <description>Скидка по акции</description>
+              </discount>
+            </discounts>
+            <area>30.08</area>
+            <housing_type>0</housing_type>
+            <description>1-комнатная квартира, 30.08 кв.м, этаж 7 из 12. ЖК «Оптимист» от ГК «ПСК». Рядом метро Бухарестская, 10 мин пешком.</description>
+          </flat>
+          <flat>
+            <flat_id>451025</flat_id>
+            <apartment>45</apartment>
+            <booking>0</booking>
+            <domrf_id>0</domrf_id>
+            <floor>8</floor>
+            <room>1</room>
+            <plans>
+              <plan>https://feedhub.realty/feed-evel/plans/plan-1ff706d684823892.jpg</plan>
+            </plans>
+            <price>16324592</price>
+            <discounts>
+              <discount>
+                <value>15.0</value>
+                <description>Скидка по акции</description>
+              </discount>
+            </discounts>
+            <area>30.08</area>
+            <housing_type>0</housing_type>
+            <description>1-комнатная квартира, 30.08 кв.м, этаж 8 из 12. ЖК «Оптимист» от ГК «ПСК». Рядом метро Бухарестская, 10 мин пешком.</description>
           </flat>
           <flat>
             <flat_id>451291</flat_id>
@@ -1313,47 +1271,25 @@
             <description>1-комнатная квартира, 32.13 кв.м, этаж 7 из 12. ЖК «Оптимист» от ГК «ПСК». Рядом метро Бухарестская, 10 мин пешком.</description>
           </flat>
           <flat>
-            <flat_id>451427</flat_id>
-            <apartment>447</apartment>
-            <booking>1</booking>
-            <domrf_id>0</domrf_id>
-            <floor>4</floor>
-            <room>1</room>
-            <plans>
-              <plan>https://feedhub.realty/feed-evel/plans/plan-3eb1c62ce9cfc97b.jpg</plan>
-            </plans>
-            <renovation>предчистовая</renovation>
-            <price>16376023</price>
-            <discounts>
-              <discount>
-                <value>15.0</value>
-                <description>Скидка по акции</description>
-              </discount>
-            </discounts>
-            <area>34.1</area>
-            <housing_type>0</housing_type>
-            <description>1-комнатная квартира, 34.1 кв.м, этаж 4 из 12. ЖК «Оптимист» от ГК «ПСК». Рядом метро Бухарестская, 10 мин пешком.</description>
-          </flat>
-          <flat>
-            <flat_id>451101</flat_id>
-            <apartment>121</apartment>
+            <flat_id>451046</flat_id>
+            <apartment>66</apartment>
             <booking>0</booking>
             <domrf_id>0</domrf_id>
-            <floor>8</floor>
+            <floor>11</floor>
             <room>1</room>
             <plans>
-              <plan>https://feedhub.realty/feed-evel/plans/plan-0e1c22b36185f62f.jpg</plan>
+              <plan>https://feedhub.realty/feed-evel/plans/plan-a6c7d2caa8806b01.jpg</plan>
             </plans>
-            <price>16451945</price>
+            <price>16454851</price>
             <discounts>
               <discount>
                 <value>15.0</value>
                 <description>Скидка по акции</description>
               </discount>
             </discounts>
-            <area>30.62</area>
+            <area>30.04</area>
             <housing_type>0</housing_type>
-            <description>1-комнатная квартира, 30.62 кв.м, этаж 8 из 12. ЖК «Оптимист» от ГК «ПСК». Рядом метро Бухарестская, 10 мин пешком.</description>
+            <description>1-комнатная квартира, 30.04 кв.м, этаж 11 из 12. ЖК «Оптимист» от ГК «ПСК». Рядом метро Бухарестская, 10 мин пешком.</description>
           </flat>
           <flat>
             <flat_id>451373</flat_id>
@@ -1378,6 +1314,49 @@
             <description>1-комнатная квартира, 32.62 кв.м, этаж 7 из 12. ЖК «Оптимист» от ГК «ПСК». Рядом метро Бухарестская, 10 мин пешком.</description>
           </flat>
           <flat>
+            <flat_id>451427</flat_id>
+            <apartment>447</apartment>
+            <booking>1</booking>
+            <domrf_id>0</domrf_id>
+            <floor>4</floor>
+            <room>1</room>
+            <plans>
+              <plan>https://feedhub.realty/feed-evel/plans/plan-3eb1c62ce9cfc97b.jpg</plan>
+            </plans>
+            <renovation>предчистовая</renovation>
+            <price>16540505</price>
+            <discounts>
+              <discount>
+                <value>15.0</value>
+                <description>Скидка по акции</description>
+              </discount>
+            </discounts>
+            <area>34.1</area>
+            <housing_type>0</housing_type>
+            <description>1-комнатная квартира, 34.1 кв.м, этаж 4 из 12. ЖК «Оптимист» от ГК «ПСК». Рядом метро Бухарестская, 10 мин пешком.</description>
+          </flat>
+          <flat>
+            <flat_id>451101</flat_id>
+            <apartment>121</apartment>
+            <booking>0</booking>
+            <domrf_id>0</domrf_id>
+            <floor>8</floor>
+            <room>1</room>
+            <plans>
+              <plan>https://feedhub.realty/feed-evel/plans/plan-0e1c22b36185f62f.jpg</plan>
+            </plans>
+            <price>16617654</price>
+            <discounts>
+              <discount>
+                <value>15.0</value>
+                <description>Скидка по акции</description>
+              </discount>
+            </discounts>
+            <area>30.62</area>
+            <housing_type>0</housing_type>
+            <description>1-комнатная квартира, 30.62 кв.м, этаж 8 из 12. ЖК «Оптимист» от ГК «ПСК». Рядом метро Бухарестская, 10 мин пешком.</description>
+          </flat>
+          <flat>
             <flat_id>451020</flat_id>
             <apartment>40</apartment>
             <booking>0</booking>
@@ -1387,7 +1366,7 @@
             <plans>
               <plan>https://feedhub.realty/feed-evel/plans/plan-017466f87ccc26c0.jpg</plan>
             </plans>
-            <price>16475011</price>
+            <price>16641207</price>
             <discounts>
               <discount>
                 <value>15.0</value>
@@ -1409,7 +1388,7 @@
               <plan>https://feedhub.realty/feed-evel/plans/plan-977b633f3df2ad53.jpg</plan>
             </plans>
             <renovation>предчистовая</renovation>
-            <price>16491764</price>
+            <price>16657694</price>
             <discounts>
               <discount>
                 <value>15.0</value>
@@ -1430,7 +1409,7 @@
             <plans>
               <plan>https://feedhub.realty/feed-evel/plans/plan-d685c54c2fb43db6.jpg</plan>
             </plans>
-            <price>16496470</price>
+            <price>16662882</price>
             <discounts>
               <discount>
                 <value>15.0</value>
@@ -1440,90 +1419,6 @@
             <area>30.75</area>
             <housing_type>0</housing_type>
             <description>1-комнатная квартира, 30.75 кв.м, этаж 7 из 12. ЖК «Оптимист» от ГК «ПСК». Рядом метро Бухарестская, 10 мин пешком.</description>
-          </flat>
-          <flat>
-            <flat_id>451034</flat_id>
-            <apartment>54</apartment>
-            <booking>1</booking>
-            <domrf_id>0</domrf_id>
-            <floor>9</floor>
-            <room>1</room>
-            <plans>
-              <plan>https://feedhub.realty/feed-evel/plans/plan-3777f5d3accec7ef.jpg</plan>
-            </plans>
-            <price>16527360</price>
-            <discounts>
-              <discount>
-                <value>15.0</value>
-                <description>Скидка по акции</description>
-              </discount>
-            </discounts>
-            <area>30.72</area>
-            <housing_type>0</housing_type>
-            <description>1-комнатная квартира, 30.72 кв.м, этаж 9 из 12. ЖК «Оптимист» от ГК «ПСК». Рядом метро Бухарестская, 10 мин пешком.</description>
-          </flat>
-          <flat>
-            <flat_id>451121</flat_id>
-            <apartment>141</apartment>
-            <booking>0</booking>
-            <domrf_id>0</domrf_id>
-            <floor>11</floor>
-            <room>1</room>
-            <plans>
-              <plan>https://feedhub.realty/feed-evel/plans/plan-86dbb896e4469a1a.jpg</plan>
-            </plans>
-            <price>16568882</price>
-            <discounts>
-              <discount>
-                <value>15.0</value>
-                <description>Скидка по акции</description>
-              </discount>
-            </discounts>
-            <area>30.55</area>
-            <housing_type>0</housing_type>
-            <description>1-комнатная квартира, 30.55 кв.м, этаж 11 из 12. ЖК «Оптимист» от ГК «ПСК». Рядом метро Бухарестская, 10 мин пешком.</description>
-          </flat>
-          <flat>
-            <flat_id>451073</flat_id>
-            <apartment>93</apartment>
-            <booking>0</booking>
-            <domrf_id>0</domrf_id>
-            <floor>4</floor>
-            <room>1</room>
-            <plans>
-              <plan>https://feedhub.realty/feed-evel/plans/plan-c54a6849aa00a5f7.jpg</plan>
-            </plans>
-            <price>16589011</price>
-            <discounts>
-              <discount>
-                <value>15.0</value>
-                <description>Скидка по акции</description>
-              </discount>
-            </discounts>
-            <area>32.49</area>
-            <housing_type>0</housing_type>
-            <description>1-комнатная квартира, 32.49 кв.м, этаж 4 из 12. ЖК «Оптимист» от ГК «ПСК». Рядом метро Бухарестская, 10 мин пешком.</description>
-          </flat>
-          <flat>
-            <flat_id>451027</flat_id>
-            <apartment>47</apartment>
-            <booking>0</booking>
-            <domrf_id>0</domrf_id>
-            <floor>8</floor>
-            <room>1</room>
-            <plans>
-              <plan>https://feedhub.realty/feed-evel/plans/plan-12e133d25c9943b4.jpg</plan>
-            </plans>
-            <price>16591642</price>
-            <discounts>
-              <discount>
-                <value>15.0</value>
-                <description>Скидка по акции</description>
-              </discount>
-            </discounts>
-            <area>30.88</area>
-            <housing_type>0</housing_type>
-            <description>1-комнатная квартира, 30.88 кв.м, этаж 8 из 12. ЖК «Оптимист» от ГК «ПСК». Рядом метро Бухарестская, 10 мин пешком.</description>
           </flat>
           <flat>
             <flat_id>451397</flat_id>
@@ -1592,46 +1487,67 @@
             <description>1-комнатная квартира, 33.24 кв.м, этаж 8 из 12. ЖК «Оптимист» от ГК «ПСК». Рядом метро Бухарестская, 10 мин пешком.</description>
           </flat>
           <flat>
-            <flat_id>451047</flat_id>
-            <apartment>67</apartment>
+            <flat_id>451121</flat_id>
+            <apartment>141</apartment>
             <booking>0</booking>
             <domrf_id>0</domrf_id>
             <floor>11</floor>
             <room>1</room>
             <plans>
-              <plan>https://feedhub.realty/feed-evel/plans/plan-ab2e7a65d7b503c1.jpg</plan>
+              <plan>https://feedhub.realty/feed-evel/plans/plan-86dbb896e4469a1a.jpg</plan>
             </plans>
-            <price>16814608</price>
+            <price>16734211</price>
             <discounts>
               <discount>
                 <value>15.0</value>
                 <description>Скидка по акции</description>
               </discount>
             </discounts>
-            <area>30.39</area>
+            <area>30.55</area>
             <housing_type>0</housing_type>
-            <description>1-комнатная квартира, 30.39 кв.м, этаж 11 из 12. ЖК «Оптимист» от ГК «ПСК». Рядом метро Бухарестская, 10 мин пешком.</description>
+            <description>1-комнатная квартира, 30.55 кв.м, этаж 11 из 12. ЖК «Оптимист» от ГК «ПСК». Рядом метро Бухарестская, 10 мин пешком.</description>
           </flat>
           <flat>
-            <flat_id>451146</flat_id>
-            <apartment>166</apartment>
+            <flat_id>451073</flat_id>
+            <apartment>93</apartment>
             <booking>0</booking>
             <domrf_id>0</domrf_id>
             <floor>4</floor>
             <room>1</room>
             <plans>
-              <plan>https://feedhub.realty/feed-evel/plans/plan-a7eb69827a1bf6de.jpg</plan>
+              <plan>https://feedhub.realty/feed-evel/plans/plan-c54a6849aa00a5f7.jpg</plan>
             </plans>
-            <price>16879668</price>
+            <price>16753372</price>
             <discounts>
               <discount>
                 <value>15.0</value>
                 <description>Скидка по акции</description>
               </discount>
             </discounts>
-            <area>33.22</area>
+            <area>32.49</area>
             <housing_type>0</housing_type>
-            <description>1-комнатная квартира, 33.22 кв.м, этаж 4 из 12. ЖК «Оптимист» от ГК «ПСК». Рядом метро Бухарестская, 10 мин пешком.</description>
+            <description>1-комнатная квартира, 32.49 кв.м, этаж 4 из 12. ЖК «Оптимист» от ГК «ПСК». Рядом метро Бухарестская, 10 мин пешком.</description>
+          </flat>
+          <flat>
+            <flat_id>451027</flat_id>
+            <apartment>47</apartment>
+            <booking>0</booking>
+            <domrf_id>0</domrf_id>
+            <floor>8</floor>
+            <room>1</room>
+            <plans>
+              <plan>https://feedhub.realty/feed-evel/plans/plan-12e133d25c9943b4.jpg</plan>
+            </plans>
+            <price>16758757</price>
+            <discounts>
+              <discount>
+                <value>15.0</value>
+                <description>Скидка по акции</description>
+              </discount>
+            </discounts>
+            <area>30.88</area>
+            <housing_type>0</housing_type>
+            <description>1-комнатная квартира, 30.88 кв.м, этаж 8 из 12. ЖК «Оптимист» от ГК «ПСК». Рядом метро Бухарестская, 10 мин пешком.</description>
           </flat>
           <flat>
             <flat_id>451348</flat_id>
@@ -1656,6 +1572,70 @@
             <description>1-комнатная квартира, 36.99 кв.м, этаж 3 из 12. ЖК «Оптимист» от ГК «ПСК». Рядом метро Бухарестская, 10 мин пешком.</description>
           </flat>
           <flat>
+            <flat_id>451483</flat_id>
+            <apartment>503</apartment>
+            <booking>1</booking>
+            <domrf_id>0</domrf_id>
+            <floor>12</floor>
+            <room>1</room>
+            <plans>
+              <plan>https://feedhub.realty/feed-evel/plans/plan-ec9c435688fa4a34.jpg</plan>
+            </plans>
+            <renovation>предчистовая</renovation>
+            <price>16904629</price>
+            <discounts>
+              <discount>
+                <value>15.0</value>
+                <description>Скидка по акции</description>
+              </discount>
+            </discounts>
+            <area>34.09</area>
+            <housing_type>0</housing_type>
+            <description>1-комнатная квартира, 34.09 кв.м, этаж 12 из 12. ЖК «Оптимист» от ГК «ПСК». Рядом метро Бухарестская, 10 мин пешком.</description>
+          </flat>
+          <flat>
+            <flat_id>451047</flat_id>
+            <apartment>67</apartment>
+            <booking>0</booking>
+            <domrf_id>0</domrf_id>
+            <floor>11</floor>
+            <room>1</room>
+            <plans>
+              <plan>https://feedhub.realty/feed-evel/plans/plan-ab2e7a65d7b503c1.jpg</plan>
+            </plans>
+            <price>16982647</price>
+            <discounts>
+              <discount>
+                <value>15.0</value>
+                <description>Скидка по акции</description>
+              </discount>
+            </discounts>
+            <area>30.39</area>
+            <housing_type>0</housing_type>
+            <description>1-комнатная квартира, 30.39 кв.м, этаж 11 из 12. ЖК «Оптимист» от ГК «ПСК». Рядом метро Бухарестская, 10 мин пешком.</description>
+          </flat>
+          <flat>
+            <flat_id>451146</flat_id>
+            <apartment>166</apartment>
+            <booking>0</booking>
+            <domrf_id>0</domrf_id>
+            <floor>4</floor>
+            <room>1</room>
+            <plans>
+              <plan>https://feedhub.realty/feed-evel/plans/plan-a7eb69827a1bf6de.jpg</plan>
+            </plans>
+            <price>17047722</price>
+            <discounts>
+              <discount>
+                <value>15.0</value>
+                <description>Скидка по акции</description>
+              </discount>
+            </discounts>
+            <area>33.22</area>
+            <housing_type>0</housing_type>
+            <description>1-комнатная квартира, 33.22 кв.м, этаж 4 из 12. ЖК «Оптимист» от ГК «ПСК». Рядом метро Бухарестская, 10 мин пешком.</description>
+          </flat>
+          <flat>
             <flat_id>451179</flat_id>
             <apartment>199</apartment>
             <booking>0</booking>
@@ -1665,7 +1645,7 @@
             <plans>
               <plan>https://feedhub.realty/feed-evel/plans/plan-a7eb69827a1bf6de.jpg</plan>
             </plans>
-            <price>16965649</price>
+            <price>17133703</price>
             <discounts>
               <discount>
                 <value>15.0</value>
@@ -1686,7 +1666,7 @@
             <plans>
               <plan>https://feedhub.realty/feed-evel/plans/plan-089e81ff27cafda1.jpg</plan>
             </plans>
-            <price>16968988</price>
+            <price>17138205</price>
             <discounts>
               <discount>
                 <value>15.0</value>
@@ -1707,7 +1687,7 @@
             <plans>
               <plan>https://feedhub.realty/feed-evel/plans/plan-c54a6849aa00a5f7.jpg</plan>
             </plans>
-            <price>16986536</price>
+            <price>17154720</price>
             <discounts>
               <discount>
                 <value>15.0</value>
@@ -1717,48 +1697,6 @@
             <area>32.49</area>
             <housing_type>0</housing_type>
             <description>1-комнатная квартира, 32.49 кв.м, этаж 7 из 12. ЖК «Оптимист» от ГК «ПСК». Рядом метро Бухарестская, 10 мин пешком.</description>
-          </flat>
-          <flat>
-            <flat_id>451100</flat_id>
-            <apartment>120</apartment>
-            <booking>0</booking>
-            <domrf_id>0</domrf_id>
-            <floor>8</floor>
-            <room>1</room>
-            <plans>
-              <plan>https://feedhub.realty/feed-evel/plans/plan-59c6d7b374586e50.jpg</plan>
-            </plans>
-            <price>17026835</price>
-            <discounts>
-              <discount>
-                <value>15.0</value>
-                <description>Скидка по акции</description>
-              </discount>
-            </discounts>
-            <area>32.67</area>
-            <housing_type>0</housing_type>
-            <description>1-комнатная квартира, 32.67 кв.м, этаж 8 из 12. ЖК «Оптимист» от ГК «ПСК». Рядом метро Бухарестская, 10 мин пешком.</description>
-          </flat>
-          <flat>
-            <flat_id>451120</flat_id>
-            <apartment>140</apartment>
-            <booking>0</booking>
-            <domrf_id>0</domrf_id>
-            <floor>11</floor>
-            <room>1</room>
-            <plans>
-              <plan>https://feedhub.realty/feed-evel/plans/plan-464345ece49ee7c5.jpg</plan>
-            </plans>
-            <price>17151435</price>
-            <discounts>
-              <discount>
-                <value>15.0</value>
-                <description>Скидка по акции</description>
-              </discount>
-            </discounts>
-            <area>32.6</area>
-            <housing_type>0</housing_type>
-            <description>1-комнатная квартира, 32.6 кв.м, этаж 11 из 12. ЖК «Оптимист» от ГК «ПСК». Рядом метро Бухарестская, 10 мин пешком.</description>
           </flat>
           <flat>
             <flat_id>451254</flat_id>
@@ -1781,6 +1719,27 @@
             <area>37.04</area>
             <housing_type>0</housing_type>
             <description>1-комнатная квартира, 37.04 кв.м, этаж 4 из 12. ЖК «Оптимист» от ГК «ПСК». Рядом метро Бухарестская, 10 мин пешком.</description>
+          </flat>
+          <flat>
+            <flat_id>451100</flat_id>
+            <apartment>120</apartment>
+            <booking>0</booking>
+            <domrf_id>0</domrf_id>
+            <floor>8</floor>
+            <room>1</room>
+            <plans>
+              <plan>https://feedhub.realty/feed-evel/plans/plan-59c6d7b374586e50.jpg</plan>
+            </plans>
+            <price>17195950</price>
+            <discounts>
+              <discount>
+                <value>15.0</value>
+                <description>Скидка по акции</description>
+              </discount>
+            </discounts>
+            <area>32.67</area>
+            <housing_type>0</housing_type>
+            <description>1-комнатная квартира, 32.67 кв.м, этаж 8 из 12. ЖК «Оптимист» от ГК «ПСК». Рядом метро Бухарестская, 10 мин пешком.</description>
           </flat>
           <flat>
             <flat_id>451243</flat_id>
@@ -1827,25 +1786,25 @@
             <description>1-комнатная квартира, 37.04 кв.м, этаж 7 из 12. ЖК «Оптимист» от ГК «ПСК». Рядом метро Бухарестская, 10 мин пешком.</description>
           </flat>
           <flat>
-            <flat_id>451133</flat_id>
-            <apartment>153</apartment>
+            <flat_id>451120</flat_id>
+            <apartment>140</apartment>
             <booking>0</booking>
             <domrf_id>0</domrf_id>
-            <floor>3</floor>
+            <floor>11</floor>
             <room>1</room>
             <plans>
-              <plan>https://feedhub.realty/feed-evel/plans/plan-69353a09e2ca0408.jpg</plan>
+              <plan>https://feedhub.realty/feed-evel/plans/plan-464345ece49ee7c5.jpg</plan>
             </plans>
-            <price>17381411</price>
+            <price>17324023</price>
             <discounts>
               <discount>
                 <value>15.0</value>
                 <description>Скидка по акции</description>
               </discount>
             </discounts>
-            <area>34.6</area>
+            <area>32.6</area>
             <housing_type>0</housing_type>
-            <description>1-комнатная квартира, 34.6 кв.м, этаж 3 из 12. ЖК «Оптимист» от ГК «ПСК». Рядом метро Бухарестская, 10 мин пешком.</description>
+            <description>1-комнатная квартира, 32.6 кв.м, этаж 11 из 12. ЖК «Оптимист» от ГК «ПСК». Рядом метро Бухарестская, 10 мин пешком.</description>
           </flat>
           <flat>
             <flat_id>451298</flat_id>
@@ -1870,27 +1829,6 @@
             <description>1-комнатная квартира, 37.19 кв.м, этаж 8 из 12. ЖК «Оптимист» от ГК «ПСК». Рядом метро Бухарестская, 10 мин пешком.</description>
           </flat>
           <flat>
-            <flat_id>451134</flat_id>
-            <apartment>154</apartment>
-            <booking>0</booking>
-            <domrf_id>0</domrf_id>
-            <floor>3</floor>
-            <room>1</room>
-            <plans>
-              <plan>https://feedhub.realty/feed-evel/plans/plan-bc2778bb4c5ea0a2.jpg</plan>
-            </plans>
-            <price>17409411</price>
-            <discounts>
-              <discount>
-                <value>15.0</value>
-                <description>Скидка по акции</description>
-              </discount>
-            </discounts>
-            <area>35.0</area>
-            <housing_type>0</housing_type>
-            <description>1-комнатная квартира, 35.0 кв.м, этаж 3 из 12. ЖК «Оптимист» от ГК «ПСК». Рядом метро Бухарестская, 10 мин пешком.</description>
-          </flat>
-          <flat>
             <flat_id>451292</flat_id>
             <apartment>312</apartment>
             <booking>0</booking>
@@ -1911,6 +1849,48 @@
             <area>36.02</area>
             <housing_type>0</housing_type>
             <description>1-комнатная квартира, 36.02 кв.м, этаж 7 из 12. ЖК «Оптимист» от ГК «ПСК». Рядом метро Бухарестская, 10 мин пешком.</description>
+          </flat>
+          <flat>
+            <flat_id>451133</flat_id>
+            <apartment>153</apartment>
+            <booking>0</booking>
+            <domrf_id>0</domrf_id>
+            <floor>3</floor>
+            <room>1</room>
+            <plans>
+              <plan>https://feedhub.realty/feed-evel/plans/plan-69353a09e2ca0408.jpg</plan>
+            </plans>
+            <price>17556447</price>
+            <discounts>
+              <discount>
+                <value>15.0</value>
+                <description>Скидка по акции</description>
+              </discount>
+            </discounts>
+            <area>34.6</area>
+            <housing_type>0</housing_type>
+            <description>1-комнатная квартира, 34.6 кв.м, этаж 3 из 12. ЖК «Оптимист» от ГК «ПСК». Рядом метро Бухарестская, 10 мин пешком.</description>
+          </flat>
+          <flat>
+            <flat_id>451134</flat_id>
+            <apartment>154</apartment>
+            <booking>0</booking>
+            <domrf_id>0</domrf_id>
+            <floor>3</floor>
+            <room>1</room>
+            <plans>
+              <plan>https://feedhub.realty/feed-evel/plans/plan-bc2778bb4c5ea0a2.jpg</plan>
+            </plans>
+            <price>17582352</price>
+            <discounts>
+              <discount>
+                <value>15.0</value>
+                <description>Скидка по акции</description>
+              </discount>
+            </discounts>
+            <area>35.0</area>
+            <housing_type>0</housing_type>
+            <description>1-комнатная квартира, 35.0 кв.м, этаж 3 из 12. ЖК «Оптимист» от ГК «ПСК». Рядом метро Бухарестская, 10 мин пешком.</description>
           </flat>
           <flat>
             <flat_id>451354</flat_id>
@@ -1957,27 +1937,6 @@
             <description>1-комнатная квартира, 36.18 кв.м, этаж 8 из 12. ЖК «Оптимист» от ГК «ПСК». Рядом метро Бухарестская, 10 мин пешком.</description>
           </flat>
           <flat>
-            <flat_id>451147</flat_id>
-            <apartment>167</apartment>
-            <booking>0</booking>
-            <domrf_id>0</domrf_id>
-            <floor>4</floor>
-            <room>1</room>
-            <plans>
-              <plan>https://feedhub.realty/feed-evel/plans/plan-d7685770a79c5671.jpg</plan>
-            </plans>
-            <price>17806150</price>
-            <discounts>
-              <discount>
-                <value>15.0</value>
-                <description>Скидка по акции</description>
-              </discount>
-            </discounts>
-            <area>35.73</area>
-            <housing_type>0</housing_type>
-            <description>1-комнатная квартира, 35.73 кв.м, этаж 4 из 12. ЖК «Оптимист» от ГК «ПСК». Рядом метро Бухарестская, 10 мин пешком.</description>
-          </flat>
-          <flat>
             <flat_id>451378</flat_id>
             <apartment>398</apartment>
             <booking>0</booking>
@@ -1998,27 +1957,6 @@
             <area>36.99</area>
             <housing_type>0</housing_type>
             <description>1-комнатная квартира, 36.99 кв.м, этаж 8 из 12. ЖК «Оптимист» от ГК «ПСК». Рядом метро Бухарестская, 10 мин пешком.</description>
-          </flat>
-          <flat>
-            <flat_id>451136</flat_id>
-            <apartment>156</apartment>
-            <booking>0</booking>
-            <domrf_id>0</domrf_id>
-            <floor>3</floor>
-            <room>1</room>
-            <plans>
-              <plan>https://feedhub.realty/feed-evel/plans/plan-9350a7e243149a7b.jpg</plan>
-            </plans>
-            <price>17826478</price>
-            <discounts>
-              <discount>
-                <value>15.0</value>
-                <description>Скидка по акции</description>
-              </discount>
-            </discounts>
-            <area>35.83</area>
-            <housing_type>0</housing_type>
-            <description>1-комнатная квартира, 35.83 кв.м, этаж 3 из 12. ЖК «Оптимист» от ГК «ПСК». Рядом метро Бухарестская, 10 мин пешком.</description>
           </flat>
           <flat>
             <flat_id>451396</flat_id>
@@ -2043,46 +1981,25 @@
             <description>1-комнатная квартира, 36.62 кв.м, этаж 11 из 12. ЖК «Оптимист» от ГК «ПСК». Рядом метро Бухарестская, 10 мин пешком.</description>
           </flat>
           <flat>
-            <flat_id>451145</flat_id>
-            <apartment>165</apartment>
+            <flat_id>451147</flat_id>
+            <apartment>167</apartment>
             <booking>0</booking>
             <domrf_id>0</domrf_id>
             <floor>4</floor>
             <room>1</room>
             <plans>
-              <plan>https://feedhub.realty/feed-evel/plans/plan-64ae04b5f1e25fe1.jpg</plan>
+              <plan>https://feedhub.realty/feed-evel/plans/plan-d7685770a79c5671.jpg</plan>
             </plans>
-            <price>17906183</price>
+            <price>17982698</price>
             <discounts>
               <discount>
                 <value>15.0</value>
                 <description>Скидка по акции</description>
               </discount>
             </discounts>
-            <area>36.64</area>
+            <area>35.73</area>
             <housing_type>0</housing_type>
-            <description>1-комнатная квартира, 36.64 кв.м, этаж 4 из 12. ЖК «Оптимист» от ГК «ПСК». Рядом метро Бухарестская, 10 мин пешком.</description>
-          </flat>
-          <flat>
-            <flat_id>451191</flat_id>
-            <apartment>211</apartment>
-            <booking>1</booking>
-            <domrf_id>0</domrf_id>
-            <floor>8</floor>
-            <room>1</room>
-            <plans>
-              <plan>https://feedhub.realty/feed-evel/plans/plan-14eb4d017d8fcffc.jpg</plan>
-            </plans>
-            <price>17978229</price>
-            <discounts>
-              <discount>
-                <value>15.0</value>
-                <description>Скидка по акции</description>
-              </discount>
-            </discounts>
-            <area>35.83</area>
-            <housing_type>0</housing_type>
-            <description>1-комнатная квартира, 35.83 кв.м, этаж 8 из 12. ЖК «Оптимист» от ГК «ПСК». Рядом метро Бухарестская, 10 мин пешком.</description>
+            <description>1-комнатная квартира, 35.73 кв.м, этаж 4 из 12. ЖК «Оптимист» от ГК «ПСК». Рядом метро Бухарестская, 10 мин пешком.</description>
           </flat>
           <flat>
             <flat_id>451249</flat_id>
@@ -2107,93 +2024,51 @@
             <description>1-комнатная квартира, 39.49 кв.м, этаж 3 из 12. ЖК «Оптимист» от ГК «ПСК». Рядом метро Бухарестская, 10 мин пешком.</description>
           </flat>
           <flat>
-            <flat_id>451188</flat_id>
-            <apartment>208</apartment>
-            <booking>1</booking>
-            <domrf_id>0</domrf_id>
-            <floor>8</floor>
-            <room>1</room>
-            <plans>
-              <plan>https://feedhub.realty/feed-evel/plans/plan-ce83a7abe9d0d1f2.jpg</plan>
-            </plans>
-            <price>18028635</price>
-            <discounts>
-              <discount>
-                <value>15.0</value>
-                <description>Скидка по акции</description>
-              </discount>
-            </discounts>
-            <area>34.6</area>
-            <housing_type>0</housing_type>
-            <description>1-комнатная квартира, 34.6 кв.м, этаж 8 из 12. ЖК «Оптимист» от ГК «ПСК». Рядом метро Бухарестская, 10 мин пешком.</description>
-          </flat>
-          <flat>
-            <flat_id>451224</flat_id>
-            <apartment>244</apartment>
-            <booking>1</booking>
-            <domrf_id>0</domrf_id>
-            <floor>11</floor>
-            <room>1</room>
-            <plans>
-              <plan>https://feedhub.realty/feed-evel/plans/plan-ddd8a518c0925930.jpg</plan>
-            </plans>
-            <price>18043796</price>
-            <discounts>
-              <discount>
-                <value>15.0</value>
-                <description>Скидка по акции</description>
-              </discount>
-            </discounts>
-            <area>35.61</area>
-            <housing_type>0</housing_type>
-            <description>1-комнатная квартира, 35.61 кв.м, этаж 11 из 12. ЖК «Оптимист» от ГК «ПСК». Рядом метро Бухарестская, 10 мин пешком.</description>
-          </flat>
-          <flat>
-            <flat_id>451189</flat_id>
-            <apartment>209</apartment>
+            <flat_id>451136</flat_id>
+            <apartment>156</apartment>
             <booking>0</booking>
             <domrf_id>0</domrf_id>
-            <floor>8</floor>
+            <floor>3</floor>
             <room>1</room>
             <plans>
-              <plan>https://feedhub.realty/feed-evel/plans/plan-31d1e9bab75f2673.jpg</plan>
+              <plan>https://feedhub.realty/feed-evel/plans/plan-9350a7e243149a7b.jpg</plan>
             </plans>
-            <price>18055882</price>
+            <price>18003521</price>
             <discounts>
               <discount>
                 <value>15.0</value>
                 <description>Скидка по акции</description>
               </discount>
             </discounts>
-            <area>35.0</area>
+            <area>35.83</area>
             <housing_type>0</housing_type>
-            <description>1-комнатная квартира, 35.0 кв.м, этаж 8 из 12. ЖК «Оптимист» от ГК «ПСК». Рядом метро Бухарестская, 10 мин пешком.</description>
+            <description>1-комнатная квартира, 35.83 кв.м, этаж 3 из 12. ЖК «Оптимист» от ГК «ПСК». Рядом метро Бухарестская, 10 мин пешком.</description>
           </flat>
           <flat>
-            <flat_id>451222</flat_id>
-            <apartment>242</apartment>
+            <flat_id>451145</flat_id>
+            <apartment>165</apartment>
             <booking>0</booking>
             <domrf_id>0</domrf_id>
-            <floor>11</floor>
+            <floor>4</floor>
             <room>1</room>
             <plans>
-              <plan>https://feedhub.realty/feed-evel/plans/plan-be61023ae227fc4f.jpg</plan>
+              <plan>https://feedhub.realty/feed-evel/plans/plan-64ae04b5f1e25fe1.jpg</plan>
             </plans>
-            <price>18072576</price>
+            <price>18087228</price>
             <discounts>
               <discount>
                 <value>15.0</value>
                 <description>Скидка по акции</description>
               </discount>
             </discounts>
-            <area>34.7</area>
+            <area>36.64</area>
             <housing_type>0</housing_type>
-            <description>1-комнатная квартира, 34.7 кв.м, этаж 11 из 12. ЖК «Оптимист» от ГК «ПСК». Рядом метро Бухарестская, 10 мин пешком.</description>
+            <description>1-комнатная квартира, 36.64 кв.м, этаж 4 из 12. ЖК «Оптимист» от ГК «ПСК». Рядом метро Бухарестская, 10 мин пешком.</description>
           </flat>
           <flat>
             <flat_id>451293</flat_id>
             <apartment>313</apartment>
-            <booking>0</booking>
+            <booking>1</booking>
             <domrf_id>0</domrf_id>
             <floor>7</floor>
             <room>1</room>
@@ -2211,6 +2086,27 @@
             <area>39.49</area>
             <housing_type>0</housing_type>
             <description>1-комнатная квартира, 39.49 кв.м, этаж 7 из 12. ЖК «Оптимист» от ГК «ПСК». Рядом метро Бухарестская, 10 мин пешком.</description>
+          </flat>
+          <flat>
+            <flat_id>451191</flat_id>
+            <apartment>211</apartment>
+            <booking>1</booking>
+            <domrf_id>0</domrf_id>
+            <floor>8</floor>
+            <room>1</room>
+            <plans>
+              <plan>https://feedhub.realty/feed-evel/plans/plan-14eb4d017d8fcffc.jpg</plan>
+            </plans>
+            <price>18159487</price>
+            <discounts>
+              <discount>
+                <value>15.0</value>
+                <description>Скидка по акции</description>
+              </discount>
+            </discounts>
+            <area>35.83</area>
+            <housing_type>0</housing_type>
+            <description>1-комнатная квартира, 35.83 кв.м, этаж 8 из 12. ЖК «Оптимист» от ГК «ПСК». Рядом метро Бухарестская, 10 мин пешком.</description>
           </flat>
           <flat>
             <flat_id>451304</flat_id>
@@ -2257,6 +2153,90 @@
             <description>1-комнатная квартира, 38.17 кв.м, этаж 7 из 12. ЖК «Оптимист» от ГК «ПСК». Рядом метро Бухарестская, 10 мин пешком.</description>
           </flat>
           <flat>
+            <flat_id>451188</flat_id>
+            <apartment>208</apartment>
+            <booking>0</booking>
+            <domrf_id>0</domrf_id>
+            <floor>8</floor>
+            <room>1</room>
+            <plans>
+              <plan>https://feedhub.realty/feed-evel/plans/plan-ce83a7abe9d0d1f2.jpg</plan>
+            </plans>
+            <price>18207741</price>
+            <discounts>
+              <discount>
+                <value>15.0</value>
+                <description>Скидка по акции</description>
+              </discount>
+            </discounts>
+            <area>34.6</area>
+            <housing_type>0</housing_type>
+            <description>1-комнатная квартира, 34.6 кв.м, этаж 8 из 12. ЖК «Оптимист» от ГК «ПСК». Рядом метро Бухарестская, 10 мин пешком.</description>
+          </flat>
+          <flat>
+            <flat_id>451224</flat_id>
+            <apartment>244</apartment>
+            <booking>1</booking>
+            <domrf_id>0</domrf_id>
+            <floor>11</floor>
+            <room>1</room>
+            <plans>
+              <plan>https://feedhub.realty/feed-evel/plans/plan-ddd8a518c0925930.jpg</plan>
+            </plans>
+            <price>18223941</price>
+            <discounts>
+              <discount>
+                <value>15.0</value>
+                <description>Скидка по акции</description>
+              </discount>
+            </discounts>
+            <area>35.61</area>
+            <housing_type>0</housing_type>
+            <description>1-комнатная квартира, 35.61 кв.м, этаж 11 из 12. ЖК «Оптимист» от ГК «ПСК». Рядом метро Бухарестская, 10 мин пешком.</description>
+          </flat>
+          <flat>
+            <flat_id>451189</flat_id>
+            <apartment>209</apartment>
+            <booking>0</booking>
+            <domrf_id>0</domrf_id>
+            <floor>8</floor>
+            <room>1</room>
+            <plans>
+              <plan>https://feedhub.realty/feed-evel/plans/plan-31d1e9bab75f2673.jpg</plan>
+            </plans>
+            <price>18237058</price>
+            <discounts>
+              <discount>
+                <value>15.0</value>
+                <description>Скидка по акции</description>
+              </discount>
+            </discounts>
+            <area>35.0</area>
+            <housing_type>0</housing_type>
+            <description>1-комнатная квартира, 35.0 кв.м, этаж 8 из 12. ЖК «Оптимист» от ГК «ПСК». Рядом метро Бухарестская, 10 мин пешком.</description>
+          </flat>
+          <flat>
+            <flat_id>451222</flat_id>
+            <apartment>242</apartment>
+            <booking>1</booking>
+            <domrf_id>0</domrf_id>
+            <floor>11</floor>
+            <room>1</room>
+            <plans>
+              <plan>https://feedhub.realty/feed-evel/plans/plan-be61023ae227fc4f.jpg</plan>
+            </plans>
+            <price>18252200</price>
+            <discounts>
+              <discount>
+                <value>15.0</value>
+                <description>Скидка по акции</description>
+              </discount>
+            </discounts>
+            <area>34.7</area>
+            <housing_type>0</housing_type>
+            <description>1-комнатная квартира, 34.7 кв.м, этаж 11 из 12. ЖК «Оптимист» от ГК «ПСК». Рядом метро Бухарестская, 10 мин пешком.</description>
+          </flat>
+          <flat>
             <flat_id>451178</flat_id>
             <apartment>198</apartment>
             <booking>0</booking>
@@ -2266,7 +2246,7 @@
             <plans>
               <plan>https://feedhub.realty/feed-evel/plans/plan-64ae04b5f1e25fe1.jpg</plan>
             </plans>
-            <price>18513976</price>
+            <price>18699331</price>
             <discounts>
               <discount>
                 <value>15.0</value>
@@ -2287,7 +2267,7 @@
             <plans>
               <plan>https://feedhub.realty/feed-evel/plans/plan-16dcfaaeb437e6ef.jpg</plan>
             </plans>
-            <price>19170635</price>
+            <price>19360489</price>
             <discounts>
               <discount>
                 <value>15.0</value>
@@ -2308,7 +2288,7 @@
             <plans>
               <plan>https://feedhub.realty/feed-evel/plans/plan-c856ad1390d6a71d.jpg</plan>
             </plans>
-            <price>19203049</price>
+            <price>19392903</price>
             <discounts>
               <discount>
                 <value>15.0</value>
@@ -2322,14 +2302,14 @@
           <flat>
             <flat_id>451182</flat_id>
             <apartment>202</apartment>
-            <booking>1</booking>
+            <booking>0</booking>
             <domrf_id>0</domrf_id>
             <floor>7</floor>
             <room>1</room>
             <plans>
               <plan>https://feedhub.realty/feed-evel/plans/plan-c856ad1390d6a71d.jpg</plan>
             </plans>
-            <price>19568865</price>
+            <price>19763350</price>
             <discounts>
               <discount>
                 <value>15.0</value>
@@ -2350,7 +2330,7 @@
             <plans>
               <plan>https://feedhub.realty/feed-evel/plans/plan-cf60acc820322cff.jpg</plan>
             </plans>
-            <price>19601280</price>
+            <price>19795764</price>
             <discounts>
               <discount>
                 <value>15.0</value>
@@ -2371,7 +2351,7 @@
             <plans>
               <plan>https://feedhub.realty/feed-evel/plans/plan-a9d8e38b5aeb5e8a.jpg</plan>
             </plans>
-            <price>19791134</price>
+            <price>19990249</price>
             <discounts>
               <discount>
                 <value>15.0</value>
@@ -3239,7 +3219,7 @@
           <flat>
             <flat_id>451283</flat_id>
             <apartment>303</apartment>
-            <booking>1</booking>
+            <booking>0</booking>
             <domrf_id>0</domrf_id>
             <floor>7</floor>
             <room>2</room>
@@ -4856,7 +4836,7 @@
           <flat>
             <flat_id>415308</flat_id>
             <apartment>180</apartment>
-            <booking>1</booking>
+            <booking>0</booking>
             <domrf_id>0</domrf_id>
             <floor>4</floor>
             <room>1</room>
@@ -4920,9 +4900,31 @@
             <description>1-комнатная квартира, 40.11 кв.м, этаж 5 из 7. ЖК «Сезоны» от ГК «ПСК». Рядом метро Проспект Просвещения, 15 мин на машине.</description>
           </flat>
           <flat>
+            <flat_id>415272</flat_id>
+            <apartment>144</apartment>
+            <booking>1</booking>
+            <domrf_id>0</domrf_id>
+            <floor>6</floor>
+            <room>1</room>
+            <plans>
+              <plan>https://feedhub.realty/feed-evel/plans/plan-6cdb3c097d60bba7.jpg</plan>
+            </plans>
+            <renovation>предчистовая</renovation>
+            <price>12808397</price>
+            <discounts>
+              <discount>
+                <value>15.0</value>
+                <description>Скидка по акции</description>
+              </discount>
+            </discounts>
+            <area>39.24</area>
+            <housing_type>0</housing_type>
+            <description>1-комнатная квартира, 39.24 кв.м, этаж 6 из 7. ЖК «Сезоны» от ГК «ПСК». Рядом метро Проспект Просвещения, 15 мин на машине.</description>
+          </flat>
+          <flat>
             <flat_id>415222</flat_id>
             <apartment>94</apartment>
-            <booking>0</booking>
+            <booking>1</booking>
             <domrf_id>0</domrf_id>
             <floor>4</floor>
             <room>1</room>
@@ -5815,7 +5817,7 @@
           <flat>
             <flat_id>415379</flat_id>
             <apartment>41</apartment>
-            <booking>0</booking>
+            <booking>1</booking>
             <domrf_id>0</domrf_id>
             <floor>5</floor>
             <room>0</room>
@@ -7559,6 +7561,27 @@
             <description>Студия, 26.35 кв.м, этаж 11 из 25. ЖК «Сезоны» от ГК «ПСК». Рядом метро Проспект Просвещения, 15 мин на машине.</description>
           </flat>
           <flat>
+            <flat_id>415697</flat_id>
+            <apartment>112</apartment>
+            <booking>1</booking>
+            <domrf_id>0</domrf_id>
+            <floor>12</floor>
+            <room>0</room>
+            <plans>
+              <plan>https://feedhub.realty/feed-evel/plans/plan-27c54a3853b5d1f0.jpg</plan>
+            </plans>
+            <price>9592950</price>
+            <discounts>
+              <discount>
+                <value>15.0</value>
+                <description>Скидка по акции</description>
+              </discount>
+            </discounts>
+            <area>26.35</area>
+            <housing_type>0</housing_type>
+            <description>Студия, 26.35 кв.м, этаж 12 из 25. ЖК «Сезоны» от ГК «ПСК». Рядом метро Проспект Просвещения, 15 мин на машине.</description>
+          </flat>
+          <flat>
             <flat_id>415707</flat_id>
             <apartment>122</apartment>
             <booking>0</booking>
@@ -8590,7 +8613,7 @@
           <flat>
             <flat_id>415721</flat_id>
             <apartment>136</apartment>
-            <booking>1</booking>
+            <booking>0</booking>
             <domrf_id>0</domrf_id>
             <floor>14</floor>
             <room>2</room>
@@ -9233,7 +9256,7 @@
           <flat>
             <flat_id>415842</flat_id>
             <apartment>10</apartment>
-            <booking>1</booking>
+            <booking>0</booking>
             <domrf_id>0</domrf_id>
             <floor>2</floor>
             <room>0</room>
@@ -9317,7 +9340,7 @@
           <flat>
             <flat_id>415858</flat_id>
             <apartment>26</apartment>
-            <booking>0</booking>
+            <booking>1</booking>
             <domrf_id>0</domrf_id>
             <floor>4</floor>
             <room>0</room>
@@ -9714,6 +9737,27 @@
             <description>1-комнатная квартира, 42.74 кв.м, этаж 2 из 7. ЖК «Сезоны» от ГК «ПСК». Рядом метро Проспект Просвещения, 15 мин на машине.</description>
           </flat>
           <flat>
+            <flat_id>416024</flat_id>
+            <apartment>192</apartment>
+            <booking>1</booking>
+            <domrf_id>0</domrf_id>
+            <floor>3</floor>
+            <room>1</room>
+            <plans>
+              <plan>https://feedhub.realty/feed-evel/plans/plan-a911124d194d0403.jpg</plan>
+            </plans>
+            <price>16501712</price>
+            <discounts>
+              <discount>
+                <value>15.0</value>
+                <description>Скидка по акции</description>
+              </discount>
+            </discounts>
+            <area>42.74</area>
+            <housing_type>0</housing_type>
+            <description>1-комнатная квартира, 42.74 кв.м, этаж 3 из 7. ЖК «Сезоны» от ГК «ПСК». Рядом метро Проспект Просвещения, 15 мин на машине.</description>
+          </flat>
+          <flat>
             <flat_id>416040</flat_id>
             <apartment>208</apartment>
             <booking>0</booking>
@@ -9798,6 +9842,27 @@
             <description>2-комнатная квартира, 59.41 кв.м, этаж 2 из 7. ЖК «Сезоны» от ГК «ПСК». Рядом метро Проспект Просвещения, 15 мин на машине.</description>
           </flat>
           <flat>
+            <flat_id>415995</flat_id>
+            <apartment>163</apartment>
+            <booking>1</booking>
+            <domrf_id>0</domrf_id>
+            <floor>6</floor>
+            <room>2</room>
+            <plans>
+              <plan>https://feedhub.realty/feed-evel/plans/plan-3722c1f04d7cdd2f.jpg</plan>
+            </plans>
+            <price>20913125</price>
+            <discounts>
+              <discount>
+                <value>15.0</value>
+                <description>Скидка по акции</description>
+              </discount>
+            </discounts>
+            <area>62.78</area>
+            <housing_type>0</housing_type>
+            <description>2-комнатная квартира, 62.78 кв.м, этаж 6 из 7. ЖК «Сезоны» от ГК «ПСК». Рядом метро Проспект Просвещения, 15 мин на машине.</description>
+          </flat>
+          <flat>
             <flat_id>415945</flat_id>
             <apartment>113</apartment>
             <booking>0</booking>
@@ -9819,27 +9884,6 @@
             <description>2-комнатная квартира, 61.44 кв.м, этаж 3 из 7. ЖК «Сезоны» от ГК «ПСК». Рядом метро Проспект Просвещения, 15 мин на машине.</description>
           </flat>
           <flat>
-            <flat_id>416026</flat_id>
-            <apartment>194</apartment>
-            <booking>1</booking>
-            <domrf_id>0</domrf_id>
-            <floor>3</floor>
-            <room>2</room>
-            <plans>
-              <plan>https://feedhub.realty/feed-evel/plans/plan-7dbc5c542b6d0ec3.jpg</plan>
-            </plans>
-            <price>20950233</price>
-            <discounts>
-              <discount>
-                <value>15.0</value>
-                <description>Скидка по акции</description>
-              </discount>
-            </discounts>
-            <area>59.42</area>
-            <housing_type>0</housing_type>
-            <description>2-комнатная квартира, 59.42 кв.м, этаж 3 из 7. ЖК «Сезоны» от ГК «ПСК». Рядом метро Проспект Просвещения, 15 мин на машине.</description>
-          </flat>
-          <flat>
             <flat_id>415944</flat_id>
             <apartment>112</apartment>
             <booking>0</booking>
@@ -9859,6 +9903,27 @@
             <area>61.6</area>
             <housing_type>0</housing_type>
             <description>2-комнатная квартира, 61.6 кв.м, этаж 2 из 7. ЖК «Сезоны» от ГК «ПСК». Рядом метро Проспект Просвещения, 15 мин на машине.</description>
+          </flat>
+          <flat>
+            <flat_id>416000</flat_id>
+            <apartment>168</apartment>
+            <booking>1</booking>
+            <domrf_id>0</domrf_id>
+            <floor>7</floor>
+            <room>2</room>
+            <plans>
+              <plan>https://feedhub.realty/feed-evel/plans/plan-ad10d07be3c557f1.jpg</plan>
+            </plans>
+            <price>21114503</price>
+            <discounts>
+              <discount>
+                <value>15.0</value>
+                <description>Скидка по акции</description>
+              </discount>
+            </discounts>
+            <area>62.72</area>
+            <housing_type>0</housing_type>
+            <description>2-комнатная квартира, 62.72 кв.м, этаж 7 из 7. ЖК «Сезоны» от ГК «ПСК». Рядом метро Проспект Просвещения, 15 мин на машине.</description>
           </flat>
           <flat>
             <flat_id>415978</flat_id>
@@ -11106,7 +11171,7 @@
           <flat>
             <flat_id>431910</flat_id>
             <apartment>103</apartment>
-            <booking>0</booking>
+            <booking>1</booking>
             <domrf_id>0</domrf_id>
             <floor>2</floor>
             <room>1</room>
@@ -11476,28 +11541,6 @@
             <area>54.52</area>
             <housing_type>0</housing_type>
             <description>1-комнатная квартира, 54.52 кв.м, этаж 7 из 9. ЖК «Акватория» от ГК «ПСК». Рядом метро Петроградская, 5 мин на машине.</description>
-          </flat>
-          <flat>
-            <flat_id>431939</flat_id>
-            <apartment>132</apartment>
-            <booking>1</booking>
-            <domrf_id>0</domrf_id>
-            <floor>8</floor>
-            <room>1</room>
-            <plans>
-              <plan>https://feedhub.realty/feed-evel/plans/plan-1204a93d4e9f7ea4.jpg</plan>
-            </plans>
-            <renovation>без отделки</renovation>
-            <price>35997500</price>
-            <discounts>
-              <discount>
-                <value>20.0</value>
-                <description>Скидка по акции</description>
-              </discount>
-            </discounts>
-            <area>46.75</area>
-            <housing_type>0</housing_type>
-            <description>1-комнатная квартира, 46.75 кв.м, этаж 8 из 9. ЖК «Акватория» от ГК «ПСК». Рядом метро Петроградская, 5 мин на машине.</description>
           </flat>
           <flat>
             <flat_id>432056</flat_id>
@@ -12004,28 +12047,6 @@
             <area>68.72</area>
             <housing_type>0</housing_type>
             <description>2-комнатная квартира, 68.72 кв.м, этаж 5 из 9. ЖК «Акватория» от ГК «ПСК». Рядом метро Петроградская, 5 мин на машине.</description>
-          </flat>
-          <flat>
-            <flat_id>432089</flat_id>
-            <apartment>282</apartment>
-            <booking>1</booking>
-            <domrf_id>0</domrf_id>
-            <floor>7</floor>
-            <room>2</room>
-            <plans>
-              <plan>https://feedhub.realty/feed-evel/plans/plan-33d01ea9bfede320.jpg</plan>
-            </plans>
-            <renovation>без отделки</renovation>
-            <price>50579850</price>
-            <discounts>
-              <discount>
-                <value>20.0</value>
-                <description>Скидка по акции</description>
-              </discount>
-            </discounts>
-            <area>67.35</area>
-            <housing_type>0</housing_type>
-            <description>2-комнатная квартира, 67.35 кв.м, этаж 7 из 9. ЖК «Акватория» от ГК «ПСК». Рядом метро Петроградская, 5 мин на машине.</description>
           </flat>
           <flat>
             <flat_id>432144</flat_id>
@@ -28192,7 +28213,7 @@
           <flat>
             <flat_id>401750</flat_id>
             <apartment>188</apartment>
-            <booking>1</booking>
+            <booking>0</booking>
             <domrf_id>0</domrf_id>
             <floor>9</floor>
             <room>1</room>
@@ -28214,7 +28235,7 @@
           <flat>
             <flat_id>401764</flat_id>
             <apartment>202</apartment>
-            <booking>1</booking>
+            <booking>0</booking>
             <domrf_id>0</domrf_id>
             <floor>11</floor>
             <room>1</room>
@@ -28232,6 +28253,28 @@
             <area>47.79</area>
             <housing_type>0</housing_type>
             <description>1-комнатная квартира, 47.79 кв.м, этаж 11 из 12. ЖК «Галерная гавань» от ГК «ПСК». Рядом метро Приморская, 20 мин пешком.</description>
+          </flat>
+          <flat>
+            <flat_id>401771</flat_id>
+            <apartment>209</apartment>
+            <booking>1</booking>
+            <domrf_id>0</domrf_id>
+            <floor>12</floor>
+            <room>1</room>
+            <plans>
+              <plan>https://feedhub.realty/feed-evel/plans/plan-6c2eeb03d0857922.jpg</plan>
+            </plans>
+            <renovation>без отделки</renovation>
+            <price>25949970</price>
+            <discounts>
+              <discount>
+                <value>15.0</value>
+                <description>Скидка по акции</description>
+              </discount>
+            </discounts>
+            <area>47.79</area>
+            <housing_type>0</housing_type>
+            <description>1-комнатная квартира, 47.79 кв.м, этаж 12 из 12. ЖК «Галерная гавань» от ГК «ПСК». Рядом метро Приморская, 20 мин пешком.</description>
           </flat>
           <flat>
             <flat_id>401657</flat_id>
@@ -28478,7 +28521,7 @@
           <flat>
             <flat_id>401645</flat_id>
             <apartment>83</apartment>
-            <booking>0</booking>
+            <booking>1</booking>
             <domrf_id>0</domrf_id>
             <floor>3</floor>
             <room>2</room>
@@ -28500,7 +28543,7 @@
           <flat>
             <flat_id>401650</flat_id>
             <apartment>88</apartment>
-            <booking>1</booking>
+            <booking>0</booking>
             <domrf_id>0</domrf_id>
             <floor>4</floor>
             <room>2</room>
@@ -29512,7 +29555,7 @@
           <flat>
             <flat_id>401745</flat_id>
             <apartment>183</apartment>
-            <booking>0</booking>
+            <booking>1</booking>
             <domrf_id>0</domrf_id>
             <floor>9</floor>
             <room>3</room>
@@ -29635,7 +29678,7 @@
           <flat>
             <flat_id>401776</flat_id>
             <apartment>214</apartment>
-            <booking>1</booking>
+            <booking>0</booking>
             <domrf_id>0</domrf_id>
             <floor>3</floor>
             <room>2</room>
@@ -29691,6 +29734,22 @@
             <area>35.27</area>
             <housing_type>0</housing_type>
             <description>1-комнатная квартира, 35.27 кв.м, этаж 4 из 6. ЖК «Галерная гавань» от ГК «ПСК». Рядом метро Приморская, 20 мин пешком.</description>
+          </flat>
+          <flat>
+            <flat_id>401789</flat_id>
+            <apartment>227</apartment>
+            <booking>0</booking>
+            <domrf_id>0</domrf_id>
+            <floor>6</floor>
+            <room>1</room>
+            <plans>
+              <plan>https://feedhub.realty/feed-evel/plans/plan-185a324b631087f7.jpg</plan>
+            </plans>
+            <renovation>без отделки</renovation>
+            <price>19900000</price>
+            <area>35.27</area>
+            <housing_type>0</housing_type>
+            <description>1-комнатная квартира, 35.27 кв.м, этаж 6 из 6. ЖК «Галерная гавань» от ГК «ПСК». Рядом метро Приморская, 20 мин пешком.</description>
           </flat>
           <flat>
             <flat_id>401777</flat_id>
@@ -30149,7 +30208,7 @@
           <flat>
             <flat_id>139377</flat_id>
             <apartment>150</apartment>
-            <booking>0</booking>
+            <booking>1</booking>
             <domrf_id>0</domrf_id>
             <floor>5</floor>
             <room>1</room>
@@ -30288,7 +30347,7 @@
           <flat>
             <flat_id>139548</flat_id>
             <apartment>98</apartment>
-            <booking>0</booking>
+            <booking>1</booking>
             <domrf_id>0</domrf_id>
             <floor>3</floor>
             <room>1</room>
@@ -30351,7 +30410,7 @@
           <flat>
             <flat_id>139630</flat_id>
             <apartment>180</apartment>
-            <booking>1</booking>
+            <booking>0</booking>
             <domrf_id>0</domrf_id>
             <floor>4</floor>
             <room>1</room>
@@ -30406,7 +30465,7 @@
           <flat>
             <flat_id>201435</flat_id>
             <apartment>27</apartment>
-            <booking>0</booking>
+            <booking>1</booking>
             <domrf_id>0</domrf_id>
             <floor>1</floor>
             <room>1</room>
@@ -30427,7 +30486,7 @@
           <flat>
             <flat_id>201438</flat_id>
             <apartment>30</apartment>
-            <booking>0</booking>
+            <booking>1</booking>
             <domrf_id>0</domrf_id>
             <floor>1</floor>
             <room>1</room>
@@ -30529,7 +30588,7 @@
           <flat>
             <flat_id>334938</flat_id>
             <apartment>45</apartment>
-            <booking>0</booking>
+            <booking>1</booking>
             <domrf_id>0</domrf_id>
             <floor>2</floor>
             <room>1</room>
@@ -30584,7 +30643,7 @@
           <flat>
             <flat_id>335018</flat_id>
             <apartment>34</apartment>
-            <booking>0</booking>
+            <booking>1</booking>
             <domrf_id>0</domrf_id>
             <floor>1</floor>
             <room>1</room>
@@ -30996,7 +31055,7 @@
           <flat>
             <flat_id>394979</flat_id>
             <apartment>90</apartment>
-            <booking>1</booking>
+            <booking>0</booking>
             <domrf_id>0</domrf_id>
             <floor>5</floor>
             <room>1</room>
@@ -31660,7 +31719,7 @@
           <flat>
             <flat_id>395019</flat_id>
             <apartment>34</apartment>
-            <booking>0</booking>
+            <booking>1</booking>
             <domrf_id>0</domrf_id>
             <floor>2</floor>
             <room>1</room>
@@ -32828,7 +32887,7 @@
           <flat>
             <flat_id>395079</flat_id>
             <apartment>9</apartment>
-            <booking>0</booking>
+            <booking>1</booking>
             <domrf_id>0</domrf_id>
             <floor>2</floor>
             <room>2</room>
@@ -32866,27 +32925,6 @@
             <area>50.97</area>
             <housing_type>0</housing_type>
             <description>2-комнатная квартира, 50.97 кв.м, этаж 1 из 5. ЖК «ПЛЮС Пулковский, сити-квартал» от ГК «ПСК». Рядом метро Московская, 15 мин на машине.</description>
-          </flat>
-          <flat>
-            <flat_id>395094</flat_id>
-            <apartment>24</apartment>
-            <booking>1</booking>
-            <domrf_id>0</domrf_id>
-            <floor>4</floor>
-            <room>2</room>
-            <plans>
-              <plan>https://feedhub.realty/feed-evel/plans/plan-f99ad17c2e3d4705.jpg</plan>
-            </plans>
-            <price>15457066</price>
-            <discounts>
-              <discount>
-                <value>10.0</value>
-                <description>Скидка по акции</description>
-              </discount>
-            </discounts>
-            <area>51.6</area>
-            <housing_type>0</housing_type>
-            <description>2-комнатная квартира, 51.6 кв.м, этаж 4 из 5. ЖК «ПЛЮС Пулковский, сити-квартал» от ГК «ПСК». Рядом метро Московская, 15 мин на машине.</description>
           </flat>
           <flat>
             <flat_id>395194</flat_id>
@@ -33606,27 +33644,6 @@
             <area>28.96</area>
             <housing_type>0</housing_type>
             <description>Студия, 28.96 кв.м, этаж 5 из 5. ЖК «ПЛЮС Пулковский, сити-квартал» от ГК «ПСК». Рядом метро Московская, 15 мин на машине.</description>
-          </flat>
-          <flat>
-            <flat_id>395331</flat_id>
-            <apartment>71</apartment>
-            <booking>1</booking>
-            <domrf_id>0</domrf_id>
-            <floor>3</floor>
-            <room>0</room>
-            <plans>
-              <plan>https://feedhub.realty/feed-evel/plans/plan-ac267a99ca74e71d.jpg</plan>
-            </plans>
-            <price>8560071</price>
-            <discounts>
-              <discount>
-                <value>10.0</value>
-                <description>Скидка по акции</description>
-              </discount>
-            </discounts>
-            <area>29.36</area>
-            <housing_type>0</housing_type>
-            <description>Студия, 29.36 кв.м, этаж 3 из 5. ЖК «ПЛЮС Пулковский, сити-квартал» от ГК «ПСК». Рядом метро Московская, 15 мин на машине.</description>
           </flat>
           <flat>
             <flat_id>395343</flat_id>
@@ -34776,27 +34793,6 @@
             <description>1-комнатная квартира, 35.2 кв.м, этаж 2 из 5. ЖК «ПЛЮС Пулковский, сити-квартал» от ГК «ПСК». Рядом метро Московская, 15 мин на машине.</description>
           </flat>
           <flat>
-            <flat_id>395418</flat_id>
-            <apartment>71</apartment>
-            <booking>1</booking>
-            <domrf_id>0</domrf_id>
-            <floor>2</floor>
-            <room>1</room>
-            <plans>
-              <plan>https://feedhub.realty/feed-evel/plans/plan-650b571c5166b1d4.jpg</plan>
-            </plans>
-            <price>10126666</price>
-            <discounts>
-              <discount>
-                <value>10.0</value>
-                <description>Скидка по акции</description>
-              </discount>
-            </discounts>
-            <area>32.55</area>
-            <housing_type>0</housing_type>
-            <description>1-комнатная квартира, 32.55 кв.м, этаж 2 из 5. ЖК «ПЛЮС Пулковский, сити-квартал» от ГК «ПСК». Рядом метро Московская, 15 мин на машине.</description>
-          </flat>
-          <flat>
             <flat_id>395360</flat_id>
             <apartment>13</apartment>
             <booking>0</booking>
@@ -34921,27 +34917,6 @@
             <area>41.5</area>
             <housing_type>0</housing_type>
             <description>1-комнатная квартира, 41.5 кв.м, этаж 1 из 5. ЖК «ПЛЮС Пулковский, сити-квартал» от ГК «ПСК». Рядом метро Московская, 15 мин на машине.</description>
-          </flat>
-          <flat>
-            <flat_id>395400</flat_id>
-            <apartment>53</apartment>
-            <booking>1</booking>
-            <domrf_id>0</domrf_id>
-            <floor>5</floor>
-            <room>1</room>
-            <plans>
-              <plan>https://feedhub.realty/feed-evel/plans/plan-523caf33d4ddde2a.jpg</plan>
-            </plans>
-            <price>11099791</price>
-            <discounts>
-              <discount>
-                <value>10.0</value>
-                <description>Скидка по акции</description>
-              </discount>
-            </discounts>
-            <area>36.89</area>
-            <housing_type>0</housing_type>
-            <description>1-комнатная квартира, 36.89 кв.м, этаж 5 из 5. ЖК «ПЛЮС Пулковский, сити-квартал» от ГК «ПСК». Рядом метро Московская, 15 мин на машине.</description>
           </flat>
           <flat>
             <flat_id>395383</flat_id>
@@ -37175,7 +37150,7 @@
           <flat>
             <flat_id>146483</flat_id>
             <apartment>402</apartment>
-            <booking>1</booking>
+            <booking>0</booking>
             <domrf_id>0</domrf_id>
             <floor>2</floor>
             <room>2</room>
@@ -37511,7 +37486,7 @@
           <flat>
             <flat_id>146311</flat_id>
             <apartment>230</apartment>
-            <booking>1</booking>
+            <booking>0</booking>
             <domrf_id>0</domrf_id>
             <floor>4</floor>
             <room>2</room>
@@ -38081,7 +38056,7 @@
           <flat>
             <flat_id>398031</flat_id>
             <apartment>231</apartment>
-            <booking>0</booking>
+            <booking>1</booking>
             <domrf_id>0</domrf_id>
             <floor>11</floor>
             <room>0</room>
@@ -38365,27 +38340,6 @@
             <description>Студия, 24.34 кв.м, этаж 11 из 13. ЖК «РЕСПЕКТ» от ГК «ПСК». Рядом метро Лесная, 10 мин пешком.</description>
           </flat>
           <flat>
-            <flat_id>398582</flat_id>
-            <apartment>782</apartment>
-            <booking>1</booking>
-            <domrf_id>0</domrf_id>
-            <floor>3</floor>
-            <room>0</room>
-            <plans>
-              <plan>https://feedhub.realty/feed-evel/plans/plan-3875177a674dd490.jpg</plan>
-            </plans>
-            <price>15759312</price>
-            <discounts>
-              <discount>
-                <value>15.0</value>
-                <description>Скидка по акции</description>
-              </discount>
-            </discounts>
-            <area>27.7</area>
-            <housing_type>0</housing_type>
-            <description>Студия, 27.7 кв.м, этаж 3 из 13. ЖК «РЕСПЕКТ» от ГК «ПСК». Рядом метро Лесная, 10 мин пешком.</description>
-          </flat>
-          <flat>
             <flat_id>398586</flat_id>
             <apartment>786</apartment>
             <booking>0</booking>
@@ -38457,27 +38411,6 @@
             <room>0</room>
             <plans>
               <plan>https://feedhub.realty/feed-evel/plans/plan-0f5bf3e1f41022df.jpg</plan>
-            </plans>
-            <price>15922164</price>
-            <discounts>
-              <discount>
-                <value>15.0</value>
-                <description>Скидка по акции</description>
-              </discount>
-            </discounts>
-            <area>27.67</area>
-            <housing_type>0</housing_type>
-            <description>Студия, 27.67 кв.м, этаж 8 из 13. ЖК «РЕСПЕКТ» от ГК «ПСК». Рядом метро Лесная, 10 мин пешком.</description>
-          </flat>
-          <flat>
-            <flat_id>398607</flat_id>
-            <apartment>807</apartment>
-            <booking>1</booking>
-            <domrf_id>0</domrf_id>
-            <floor>8</floor>
-            <room>0</room>
-            <plans>
-              <plan>https://feedhub.realty/feed-evel/plans/plan-a4b954be45b0bfdb.jpg</plan>
             </plans>
             <price>15922164</price>
             <discounts>
@@ -40022,7 +39955,7 @@
           <flat>
             <flat_id>398483</flat_id>
             <apartment>683</apartment>
-            <booking>1</booking>
+            <booking>0</booking>
             <domrf_id>0</domrf_id>
             <floor>6</floor>
             <room>1</room>
@@ -40081,27 +40014,6 @@
             <area>38.46</area>
             <housing_type>0</housing_type>
             <description>1-комнатная квартира, 38.46 кв.м, этаж 8 из 13. ЖК «РЕСПЕКТ» от ГК «ПСК». Рядом метро Лесная, 10 мин пешком.</description>
-          </flat>
-          <flat>
-            <flat_id>398409</flat_id>
-            <apartment>609</apartment>
-            <booking>1</booking>
-            <domrf_id>0</domrf_id>
-            <floor>9</floor>
-            <room>1</room>
-            <plans>
-              <plan>https://feedhub.realty/feed-evel/plans/plan-cd5d757a3a51faa8.jpg</plan>
-            </plans>
-            <price>21413901</price>
-            <discounts>
-              <discount>
-                <value>15.0</value>
-                <description>Скидка по акции</description>
-              </discount>
-            </discounts>
-            <area>38.22</area>
-            <housing_type>0</housing_type>
-            <description>1-комнатная квартира, 38.22 кв.м, этаж 9 из 13. ЖК «РЕСПЕКТ» от ГК «ПСК». Рядом метро Лесная, 10 мин пешком.</description>
           </flat>
           <flat>
             <flat_id>398347</flat_id>
@@ -40805,7 +40717,7 @@
           <flat>
             <flat_id>398579</flat_id>
             <apartment>779</apartment>
-            <booking>1</booking>
+            <booking>0</booking>
             <domrf_id>0</domrf_id>
             <floor>3</floor>
             <room>2</room>
@@ -41454,7 +41366,7 @@
           <flat>
             <flat_id>397856</flat_id>
             <apartment>56</apartment>
-            <booking>1</booking>
+            <booking>0</booking>
             <domrf_id>0</domrf_id>
             <floor>7</floor>
             <room>2</room>
@@ -42441,7 +42353,7 @@
           <flat>
             <flat_id>398373</flat_id>
             <apartment>573</apartment>
-            <booking>1</booking>
+            <booking>0</booking>
             <domrf_id>0</domrf_id>
             <floor>4</floor>
             <room>2</room>
@@ -42501,6 +42413,27 @@
             <area>68.07</area>
             <housing_type>0</housing_type>
             <description>2-комнатная квартира, 68.07 кв.м, этаж 8 из 13. ЖК «РЕСПЕКТ» от ГК «ПСК». Рядом метро Лесная, 10 мин пешком.</description>
+          </flat>
+          <flat>
+            <flat_id>398380</flat_id>
+            <apartment>580</apartment>
+            <booking>1</booking>
+            <domrf_id>0</domrf_id>
+            <floor>5</floor>
+            <room>2</room>
+            <plans>
+              <plan>https://feedhub.realty/feed-evel/plans/plan-4f9e430585186d3a.jpg</plan>
+            </plans>
+            <price>28497478</price>
+            <discounts>
+              <discount>
+                <value>15.0</value>
+                <description>Скидка по акции</description>
+              </discount>
+            </discounts>
+            <area>59.19</area>
+            <housing_type>0</housing_type>
+            <description>2-комнатная квартира, 59.19 кв.м, этаж 5 из 13. ЖК «РЕСПЕКТ» от ГК «ПСК». Рядом метро Лесная, 10 мин пешком.</description>
           </flat>
           <flat>
             <flat_id>398566</flat_id>
@@ -42744,7 +42677,7 @@
           <flat>
             <flat_id>398213</flat_id>
             <apartment>413</apartment>
-            <booking>0</booking>
+            <booking>1</booking>
             <domrf_id>0</domrf_id>
             <floor>11</floor>
             <room>2</room>
@@ -43076,7 +43009,7 @@
           <flat>
             <flat_id>425486</flat_id>
             <apartment>17</apartment>
-            <booking>0</booking>
+            <booking>1</booking>
             <domrf_id>0</domrf_id>
             <floor>5</floor>
             <room>1</room>
@@ -44224,7 +44157,7 @@
           <flat>
             <flat_id>425572</flat_id>
             <apartment>26</apartment>
-            <booking>1</booking>
+            <booking>0</booking>
             <domrf_id>0</domrf_id>
             <floor>5</floor>
             <room>1</room>
@@ -44400,7 +44333,7 @@
           <flat>
             <flat_id>425563</flat_id>
             <apartment>17</apartment>
-            <booking>0</booking>
+            <booking>1</booking>
             <domrf_id>0</domrf_id>
             <floor>4</floor>
             <room>1</room>
@@ -46248,7 +46181,7 @@
           <flat>
             <flat_id>336638</flat_id>
             <apartment>949</apartment>
-            <booking>0</booking>
+            <booking>1</booking>
             <domrf_id>0</domrf_id>
             <floor>9</floor>
             <room>0</room>
@@ -46259,6 +46192,21 @@
             <area>21.5</area>
             <housing_type>1</housing_type>
             <description>Студия, 21.5 кв.м, этаж 9 из 13. ЖК «Industrial AVENIR» от ГК «ПСК». Рядом метро Кировский завод, 3 мин пешком.</description>
+          </flat>
+          <flat>
+            <flat_id>336764</flat_id>
+            <apartment>1149</apartment>
+            <booking>0</booking>
+            <domrf_id>0</domrf_id>
+            <floor>11</floor>
+            <room>0</room>
+            <plans>
+              <plan>https://feedhub.realty/feed-evel/plans/plan-f19b42ec29bb621b.jpg</plan>
+            </plans>
+            <price>5700000</price>
+            <area>21.5</area>
+            <housing_type>1</housing_type>
+            <description>Студия, 21.5 кв.м, этаж 11 из 13. ЖК «Industrial AVENIR» от ГК «ПСК». Рядом метро Кировский завод, 3 мин пешком.</description>
           </flat>
           <flat>
             <flat_id>336732</flat_id>
@@ -46305,7 +46253,7 @@
           <flat>
             <flat_id>336184</flat_id>
             <apartment>235</apartment>
-            <booking>0</booking>
+            <booking>1</booking>
             <domrf_id>0</domrf_id>
             <floor>2</floor>
             <room>0</room>
@@ -46347,7 +46295,7 @@
           <flat>
             <flat_id>336203</flat_id>
             <apartment>254</apartment>
-            <booking>1</booking>
+            <booking>0</booking>
             <domrf_id>0</domrf_id>
             <floor>2</floor>
             <room>0</room>
@@ -46389,7 +46337,7 @@
           <flat>
             <flat_id>336239</flat_id>
             <apartment>334</apartment>
-            <booking>0</booking>
+            <booking>1</booking>
             <domrf_id>0</domrf_id>
             <floor>3</floor>
             <room>0</room>
@@ -46473,7 +46421,7 @@
           <flat>
             <flat_id>336227</flat_id>
             <apartment>322</apartment>
-            <booking>1</booking>
+            <booking>0</booking>
             <domrf_id>0</domrf_id>
             <floor>3</floor>
             <room>0</room>
@@ -46490,27 +46438,6 @@
             <area>22.3</area>
             <housing_type>1</housing_type>
             <description>Студия, 22.3 кв.м, этаж 3 из 13. ЖК «Industrial AVENIR» от ГК «ПСК». Рядом метро Кировский завод, 3 мин пешком.</description>
-          </flat>
-          <flat>
-            <flat_id>336303</flat_id>
-            <apartment>434</apartment>
-            <booking>1</booking>
-            <domrf_id>0</domrf_id>
-            <floor>4</floor>
-            <room>0</room>
-            <plans>
-              <plan>https://feedhub.realty/feed-evel/plans/plan-efb825ff29946c51.jpg</plan>
-            </plans>
-            <price>6422025</price>
-            <discounts>
-              <discount>
-                <value>10.0</value>
-                <description>Скидка по акции</description>
-              </discount>
-            </discounts>
-            <area>24.5</area>
-            <housing_type>1</housing_type>
-            <description>Студия, 24.5 кв.м, этаж 4 из 13. ЖК «Industrial AVENIR» от ГК «ПСК». Рядом метро Кировский завод, 3 мин пешком.</description>
           </flat>
           <flat>
             <flat_id>336304</flat_id>
@@ -46637,6 +46564,21 @@
             <area>24.5</area>
             <housing_type>1</housing_type>
             <description>Студия, 24.5 кв.м, этаж 5 из 13. ЖК «Industrial AVENIR» от ГК «ПСК». Рядом метро Кировский завод, 3 мин пешком.</description>
+          </flat>
+          <flat>
+            <flat_id>336799</flat_id>
+            <apartment>1222</apartment>
+            <booking>0</booking>
+            <domrf_id>0</domrf_id>
+            <floor>12</floor>
+            <room>0</room>
+            <plans>
+              <plan>https://feedhub.realty/feed-evel/plans/plan-fc57168dcfa13a5d.jpg</plan>
+            </plans>
+            <price>5800000</price>
+            <area>22.3</area>
+            <housing_type>1</housing_type>
+            <description>Студия, 22.3 кв.м, этаж 12 из 13. ЖК «Industrial AVENIR» от ГК «ПСК». Рядом метро Кировский завод, 3 мин пешком.</description>
           </flat>
           <flat>
             <flat_id>336182</flat_id>
@@ -47223,7 +47165,7 @@
           <flat>
             <flat_id>336630</flat_id>
             <apartment>941</apartment>
-            <booking>0</booking>
+            <booking>1</booking>
             <domrf_id>0</domrf_id>
             <floor>9</floor>
             <room>0</room>
@@ -47601,7 +47543,7 @@
           <flat>
             <flat_id>336812</flat_id>
             <apartment>1235</apartment>
-            <booking>0</booking>
+            <booking>1</booking>
             <domrf_id>0</domrf_id>
             <floor>12</floor>
             <room>0</room>
@@ -47874,7 +47816,7 @@
           <flat>
             <flat_id>336593</flat_id>
             <apartment>904</apartment>
-            <booking>0</booking>
+            <booking>1</booking>
             <domrf_id>0</domrf_id>
             <floor>9</floor>
             <room>0</room>
@@ -47958,7 +47900,7 @@
           <flat>
             <flat_id>336174</flat_id>
             <apartment>225</apartment>
-            <booking>0</booking>
+            <booking>1</booking>
             <domrf_id>0</domrf_id>
             <floor>2</floor>
             <room>0</room>
@@ -48105,7 +48047,7 @@
           <flat>
             <flat_id>336200</flat_id>
             <apartment>251</apartment>
-            <booking>0</booking>
+            <booking>1</booking>
             <domrf_id>0</domrf_id>
             <floor>2</floor>
             <room>0</room>
@@ -48523,27 +48465,6 @@
             <description>Студия, 24.4 кв.м, этаж 4 из 13. ЖК «Industrial AVENIR» от ГК «ПСК». Рядом метро Кировский завод, 3 мин пешком.</description>
           </flat>
           <flat>
-            <flat_id>336298</flat_id>
-            <apartment>429</apartment>
-            <booking>1</booking>
-            <domrf_id>0</domrf_id>
-            <floor>4</floor>
-            <room>0</room>
-            <plans>
-              <plan>https://feedhub.realty/feed-evel/plans/plan-24e626e743365062.jpg</plan>
-            </plans>
-            <price>6683947</price>
-            <discounts>
-              <discount>
-                <value>10.0</value>
-                <description>Скидка по акции</description>
-              </discount>
-            </discounts>
-            <area>24.4</area>
-            <housing_type>1</housing_type>
-            <description>Студия, 24.4 кв.м, этаж 4 из 13. ЖК «Industrial AVENIR» от ГК «ПСК». Рядом метро Кировский завод, 3 мин пешком.</description>
-          </flat>
-          <flat>
             <flat_id>336299</flat_id>
             <apartment>430</apartment>
             <booking>0</booking>
@@ -48693,7 +48614,7 @@
           <flat>
             <flat_id>336864</flat_id>
             <apartment>1329</apartment>
-            <booking>0</booking>
+            <booking>1</booking>
             <domrf_id>0</domrf_id>
             <floor>13</floor>
             <room>0</room>
@@ -49070,7 +48991,7 @@
           <flat>
             <flat_id>100967</flat_id>
             <apartment>1230</apartment>
-            <booking>0</booking>
+            <booking>1</booking>
             <domrf_id>0</domrf_id>
             <floor>12</floor>
             <room>0</room>
@@ -49091,7 +49012,7 @@
           <flat>
             <flat_id>101116</flat_id>
             <apartment>1412</apartment>
-            <booking>0</booking>
+            <booking>1</booking>
             <domrf_id>0</domrf_id>
             <floor>14</floor>
             <room>0</room>
@@ -49112,7 +49033,7 @@
           <flat>
             <flat_id>101107</flat_id>
             <apartment>1403</apartment>
-            <booking>0</booking>
+            <booking>1</booking>
             <domrf_id>0</domrf_id>
             <floor>14</floor>
             <room>0</room>
@@ -49133,7 +49054,7 @@
           <flat>
             <flat_id>101117</flat_id>
             <apartment>1413</apartment>
-            <booking>0</booking>
+            <booking>1</booking>
             <domrf_id>0</domrf_id>
             <floor>14</floor>
             <room>0</room>
@@ -49154,7 +49075,7 @@
           <flat>
             <flat_id>101118</flat_id>
             <apartment>1415</apartment>
-            <booking>0</booking>
+            <booking>1</booking>
             <domrf_id>0</domrf_id>
             <floor>14</floor>
             <room>0</room>
@@ -49175,7 +49096,7 @@
           <flat>
             <flat_id>101174</flat_id>
             <apartment>1489</apartment>
-            <booking>0</booking>
+            <booking>1</booking>
             <domrf_id>0</domrf_id>
             <floor>14</floor>
             <room>0</room>
@@ -49196,7 +49117,7 @@
           <flat>
             <flat_id>100258</flat_id>
             <apartment>342</apartment>
-            <booking>0</booking>
+            <booking>1</booking>
             <domrf_id>0</domrf_id>
             <floor>3</floor>
             <room>0</room>
@@ -49364,7 +49285,7 @@
           <flat>
             <flat_id>100261</flat_id>
             <apartment>345</apartment>
-            <booking>0</booking>
+            <booking>1</booking>
             <domrf_id>0</domrf_id>
             <floor>3</floor>
             <room>0</room>
@@ -49593,27 +49514,6 @@
             <description>Студия, 39.35 кв.м, этаж 9 из 14. ЖК «Ladozhsky AVENIR» от ГК «ПСК». Рядом метро Ладожская, 10 мин пешком.</description>
           </flat>
           <flat>
-            <flat_id>100889</flat_id>
-            <apartment>1133</apartment>
-            <booking>1</booking>
-            <domrf_id>0</domrf_id>
-            <floor>11</floor>
-            <room>0</room>
-            <plans>
-              <plan>https://feedhub.realty/feed-evel/plans/plan-a05b2a45dd3b1a92.jpg</plan>
-            </plans>
-            <price>9978019</price>
-            <discounts>
-              <discount>
-                <value>10.0</value>
-                <description>Скидка по акции</description>
-              </discount>
-            </discounts>
-            <area>39.23</area>
-            <housing_type>1</housing_type>
-            <description>Студия, 39.23 кв.м, этаж 11 из 14. ЖК «Ladozhsky AVENIR» от ГК «ПСК». Рядом метро Ладожская, 10 мин пешком.</description>
-          </flat>
-          <flat>
             <flat_id>100804</flat_id>
             <apartment>1025</apartment>
             <booking>0</booking>
@@ -49742,7 +49642,7 @@
           <flat>
             <flat_id>101044</flat_id>
             <apartment>1325</apartment>
-            <booking>0</booking>
+            <booking>1</booking>
             <domrf_id>0</domrf_id>
             <floor>13</floor>
             <room>0</room>
@@ -49763,7 +49663,7 @@
           <flat>
             <flat_id>101124</flat_id>
             <apartment>1425</apartment>
-            <booking>0</booking>
+            <booking>1</booking>
             <domrf_id>0</domrf_id>
             <floor>14</floor>
             <room>0</room>
@@ -49843,27 +49743,6 @@
             <area>39.9</area>
             <housing_type>1</housing_type>
             <description>Студия, 39.9 кв.м, этаж 10 из 14. ЖК «Ladozhsky AVENIR» от ГК «ПСК». Рядом метро Ладожская, 10 мин пешком.</description>
-          </flat>
-          <flat>
-            <flat_id>100919</flat_id>
-            <apartment>1163</apartment>
-            <booking>1</booking>
-            <domrf_id>0</domrf_id>
-            <floor>11</floor>
-            <room>0</room>
-            <plans>
-              <plan>https://feedhub.realty/feed-evel/plans/plan-0df1f80ffad3bc9d.jpg</plan>
-            </plans>
-            <price>10148432</price>
-            <discounts>
-              <discount>
-                <value>10.0</value>
-                <description>Скидка по акции</description>
-              </discount>
-            </discounts>
-            <area>39.9</area>
-            <housing_type>1</housing_type>
-            <description>Студия, 39.9 кв.м, этаж 11 из 14. ЖК «Ladozhsky AVENIR» от ГК «ПСК». Рядом метро Ладожская, 10 мин пешком.</description>
           </flat>
           <flat>
             <flat_id>101079</flat_id>
@@ -50551,7 +50430,7 @@
           <flat>
             <flat_id>85975</flat_id>
             <apartment>21</apartment>
-            <booking>1</booking>
+            <booking>0</booking>
             <domrf_id>0</domrf_id>
             <floor>5</floor>
             <room>2</room>
@@ -50631,7 +50510,7 @@
           <flat>
             <flat_id>85984</flat_id>
             <apartment>67</apartment>
-            <booking>0</booking>
+            <booking>1</booking>
             <domrf_id>0</domrf_id>
             <floor>5</floor>
             <room>2</room>
@@ -50663,7 +50542,7 @@
           <flat>
             <flat_id>86003</flat_id>
             <apartment>104</apartment>
-            <booking>1</booking>
+            <booking>0</booking>
             <domrf_id>0</domrf_id>
             <floor>6</floor>
             <room>2</room>
@@ -50711,7 +50590,7 @@
           <flat>
             <flat_id>85950</flat_id>
             <apartment>55</apartment>
-            <booking>0</booking>
+            <booking>1</booking>
             <domrf_id>0</domrf_id>
             <floor>3</floor>
             <room>3</room>
@@ -50839,7 +50718,7 @@
           <flat>
             <flat_id>86024</flat_id>
             <apartment>80</apartment>
-            <booking>0</booking>
+            <booking>1</booking>
             <domrf_id>0</domrf_id>
             <floor>8</floor>
             <room>4</room>
@@ -51023,35 +50902,6 @@
       </building>
       <building>
         <id>0</id>
-        <name>корпус 5</name>
-        <latitude>59.970213</latitude>
-        <longitude>30.306256</longitude>
-        <address>г. Санкт-Петербург, набережная реки Карповки, д. 31, лит.А</address>
-        <floors>8</floors>
-        <building_state>unfinished</building_state>
-        <built_year>2023</built_year>
-        <ready_quarter>4</ready_quarter>
-        <flats>
-          <flat>
-            <flat_id>87517</flat_id>
-            <apartment>200</apartment>
-            <booking>1</booking>
-            <domrf_id>0</domrf_id>
-            <floor>7</floor>
-            <room>1</room>
-            <plans>
-              <plan>https://feedhub.realty/feed-evel/plans/plan-d7bab859c2c84b78.jpg</plan>
-            </plans>
-            <renovation>без отделки</renovation>
-            <price>43430000</price>
-            <area>50.5</area>
-            <housing_type>0</housing_type>
-            <description>1-комнатная квартира, 50.5 кв.м, этаж 7 из 8. ЖК «Северная корона» от ГК «ПСК». Рядом метро Петроградская, 7 мин пешком.</description>
-          </flat>
-        </flats>
-      </building>
-      <building>
-        <id>0</id>
         <name>корпус 6</name>
         <latitude>59.970213</latitude>
         <longitude>30.306256</longitude>
@@ -51078,20 +50928,20 @@
             <description>1-комнатная квартира, 40.3 кв.м, этаж 7 из 8. ЖК «Северная корона» от ГК «ПСК». Рядом метро Петроградская, 7 мин пешком.</description>
           </flat>
           <flat>
-            <flat_id>87660</flat_id>
-            <apartment>343</apartment>
+            <flat_id>87642</flat_id>
+            <apartment>325</apartment>
             <booking>1</booking>
             <domrf_id>0</domrf_id>
-            <floor>5</floor>
+            <floor>2</floor>
             <room>3</room>
             <plans>
-              <plan>https://feedhub.realty/feed-evel/plans/plan-4a454668f8d48e20.jpg</plan>
+              <plan>https://feedhub.realty/feed-evel/plans/plan-9419b8fdd4fc5452.jpg</plan>
             </plans>
             <renovation>без отделки</renovation>
-            <price>52095000</price>
-            <area>75.5</area>
+            <price>50180000</price>
+            <area>77.2</area>
             <housing_type>0</housing_type>
-            <description>3-комнатная квартира, 75.5 кв.м, этаж 5 из 8. ЖК «Северная корона» от ГК «ПСК». Рядом метро Петроградская, 7 мин пешком.</description>
+            <description>3-комнатная квартира, 77.2 кв.м, этаж 2 из 8. ЖК «Северная корона» от ГК «ПСК». Рядом метро Петроградская, 7 мин пешком.</description>
           </flat>
         </flats>
       </building>
@@ -51157,7 +51007,7 @@
           <flat>
             <flat_id>87414</flat_id>
             <apartment>97</apartment>
-            <booking>0</booking>
+            <booking>1</booking>
             <domrf_id>0</domrf_id>
             <floor>6</floor>
             <room>3</room>
@@ -51295,7 +51145,7 @@
           <flat>
             <flat_id>87570</flat_id>
             <apartment>253</apartment>
-            <booking>1</booking>
+            <booking>0</booking>
             <domrf_id>0</domrf_id>
             <floor>6</floor>
             <room>3</room>
