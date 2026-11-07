@@ -15406,7 +15406,7 @@
           <flat>
             <flat_id>373894</flat_id>
             <apartment>145</apartment>
-            <booking>1</booking>
+            <booking>0</booking>
             <domrf_id>0</domrf_id>
             <floor>11</floor>
             <room>3</room>
@@ -22595,7 +22595,7 @@
           <flat>
             <flat_id>374659</flat_id>
             <apartment>575</apartment>
-            <booking>0</booking>
+            <booking>1</booking>
             <domrf_id>0</domrf_id>
             <floor>7</floor>
             <room>1</room>
@@ -28060,7 +28060,7 @@
           <flat>
             <flat_id>401608</flat_id>
             <apartment>46</apartment>
-            <booking>1</booking>
+            <booking>0</booking>
             <domrf_id>0</domrf_id>
             <floor>8</floor>
             <room>2</room>
@@ -30119,7 +30119,7 @@
           <flat>
             <flat_id>335043</flat_id>
             <apartment>59</apartment>
-            <booking>1</booking>
+            <booking>0</booking>
             <domrf_id>0</domrf_id>
             <floor>5</floor>
             <room>0</room>
@@ -35484,7 +35484,7 @@
           <flat>
             <flat_id>145980</flat_id>
             <apartment>115</apartment>
-            <booking>0</booking>
+            <booking>1</booking>
             <domrf_id>0</domrf_id>
             <floor>9</floor>
             <room>3</room>
@@ -38833,7 +38833,7 @@
           <flat>
             <flat_id>397880</flat_id>
             <apartment>80</apartment>
-            <booking>0</booking>
+            <booking>1</booking>
             <domrf_id>0</domrf_id>
             <floor>12</floor>
             <room>1</room>
@@ -42026,7 +42026,7 @@
           <flat>
             <flat_id>398223</flat_id>
             <apartment>423</apartment>
-            <booking>0</booking>
+            <booking>1</booking>
             <domrf_id>0</domrf_id>
             <floor>13</floor>
             <room>2</room>
@@ -42715,7 +42715,7 @@
           <flat>
             <flat_id>425527</flat_id>
             <apartment>58</apartment>
-            <booking>0</booking>
+            <booking>1</booking>
             <domrf_id>0</domrf_id>
             <floor>11</floor>
             <room>3</room>
