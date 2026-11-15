@@ -29111,7 +29111,7 @@
           <flat>
             <flat_id>401710</flat_id>
             <apartment>148</apartment>
-            <booking>1</booking>
+            <booking>0</booking>
             <domrf_id>0</domrf_id>
             <floor>4</floor>
             <room>3</room>
@@ -49539,7 +49539,7 @@
           <flat>
             <flat_id>85950</flat_id>
             <apartment>55</apartment>
-            <booking>1</booking>
+            <booking>0</booking>
             <domrf_id>0</domrf_id>
             <floor>3</floor>
             <room>3</room>
@@ -49683,7 +49683,7 @@
           <flat>
             <flat_id>86019</flat_id>
             <apartment>41</apartment>
-            <booking>0</booking>
+            <booking>1</booking>
             <domrf_id>0</domrf_id>
             <floor>8</floor>
             <room>3</room>
@@ -49969,7 +49969,7 @@
           <flat>
             <flat_id>87632</flat_id>
             <apartment>315</apartment>
-            <booking>1</booking>
+            <booking>0</booking>
             <domrf_id>0</domrf_id>
             <floor>6</floor>
             <room>2</room>
