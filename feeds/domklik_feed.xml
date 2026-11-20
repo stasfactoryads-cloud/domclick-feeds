@@ -1593,27 +1593,6 @@
             <description>1-комнатная квартира, 30.39 кв.м, этаж 11 из 12. ЖК «Оптимист» от ГК «ПСК». Рядом метро Бухарестская, 10 мин пешком.</description>
           </flat>
           <flat>
-            <flat_id>451040</flat_id>
-            <apartment>60</apartment>
-            <booking>1</booking>
-            <domrf_id>0</domrf_id>
-            <floor>10</floor>
-            <room>1</room>
-            <plans>
-              <plan>https://feedhub.realty/feed-evel/plans/plan-61aa7f2d1da22ee3.jpg</plan>
-            </plans>
-            <price>17161522</price>
-            <discounts>
-              <discount>
-                <value>15.0</value>
-                <description>Скидка по акции</description>
-              </discount>
-            </discounts>
-            <area>30.46</area>
-            <housing_type>0</housing_type>
-            <description>1-комнатная квартира, 30.46 кв.м, этаж 10 из 12. ЖК «Оптимист» от ГК «ПСК». Рядом метро Бухарестская, 10 мин пешком.</description>
-          </flat>
-          <flat>
             <flat_id>451254</flat_id>
             <apartment>274</apartment>
             <booking>0</booking>
@@ -1805,6 +1784,28 @@
             <area>37.19</area>
             <housing_type>0</housing_type>
             <description>1-комнатная квартира, 37.19 кв.м, этаж 8 из 12. ЖК «Оптимист» от ГК «ПСК». Рядом метро Бухарестская, 10 мин пешком.</description>
+          </flat>
+          <flat>
+            <flat_id>451320</flat_id>
+            <apartment>340</apartment>
+            <booking>1</booking>
+            <domrf_id>0</domrf_id>
+            <floor>10</floor>
+            <room>1</room>
+            <plans>
+              <plan>https://feedhub.realty/feed-evel/plans/plan-1be1ecbad725530a.jpg</plan>
+            </plans>
+            <renovation>предчистовая</renovation>
+            <price>17474523</price>
+            <discounts>
+              <discount>
+                <value>15.0</value>
+                <description>Скидка по акции</description>
+              </discount>
+            </discounts>
+            <area>37.05</area>
+            <housing_type>0</housing_type>
+            <description>1-комнатная квартира, 37.05 кв.м, этаж 10 из 12. ЖК «Оптимист» от ГК «ПСК». Рядом метро Бухарестская, 10 мин пешком.</description>
           </flat>
           <flat>
             <flat_id>451120</flat_id>
@@ -4461,6 +4462,28 @@
             <description>Студия, 25.72 кв.м, этаж 2 из 7. ЖК «Сезоны» от ГК «ПСК». Рядом метро Проспект Просвещения, 15 мин на машине.</description>
           </flat>
           <flat>
+            <flat_id>415254</flat_id>
+            <apartment>126</apartment>
+            <booking>1</booking>
+            <domrf_id>0</domrf_id>
+            <floor>3</floor>
+            <room>0</room>
+            <plans>
+              <plan>https://feedhub.realty/feed-evel/plans/plan-099fe1c771bfba5e.jpg</plan>
+            </plans>
+            <renovation>предчистовая</renovation>
+            <price>8143120</price>
+            <discounts>
+              <discount>
+                <value>15.0</value>
+                <description>Скидка по акции</description>
+              </discount>
+            </discounts>
+            <area>25.65</area>
+            <housing_type>0</housing_type>
+            <description>Студия, 25.65 кв.м, этаж 3 из 7. ЖК «Сезоны» от ГК «ПСК». Рядом метро Проспект Просвещения, 15 мин на машине.</description>
+          </flat>
+          <flat>
             <flat_id>415261</flat_id>
             <apartment>133</apartment>
             <booking>1</booking>
@@ -5620,7 +5643,7 @@
           <flat>
             <flat_id>415420</flat_id>
             <apartment>82</apartment>
-            <booking>0</booking>
+            <booking>1</booking>
             <domrf_id>0</domrf_id>
             <floor>9</floor>
             <room>0</room>
@@ -7786,27 +7809,6 @@
             <area>41.77</area>
             <housing_type>0</housing_type>
             <description>1-комнатная квартира, 41.77 кв.м, этаж 9 из 25. ЖК «Сезоны» от ГК «ПСК». Рядом метро Проспект Просвещения, 15 мин на машине.</description>
-          </flat>
-          <flat>
-            <flat_id>415678</flat_id>
-            <apartment>93</apartment>
-            <booking>1</booking>
-            <domrf_id>0</domrf_id>
-            <floor>10</floor>
-            <room>1</room>
-            <plans>
-              <plan>https://feedhub.realty/feed-evel/plans/plan-abf59038c5e5257b.jpg</plan>
-            </plans>
-            <price>14549142</price>
-            <discounts>
-              <discount>
-                <value>15.0</value>
-                <description>Скидка по акции</description>
-              </discount>
-            </discounts>
-            <area>41.66</area>
-            <housing_type>0</housing_type>
-            <description>1-комнатная квартира, 41.66 кв.м, этаж 10 из 25. ЖК «Сезоны» от ГК «ПСК». Рядом метро Проспект Просвещения, 15 мин на машине.</description>
           </flat>
           <flat>
             <flat_id>415753</flat_id>
@@ -13044,7 +13046,7 @@
           <flat>
             <flat_id>432071</flat_id>
             <apartment>264</apartment>
-            <booking>1</booking>
+            <booking>0</booking>
             <domrf_id>0</domrf_id>
             <floor>3</floor>
             <room>3</room>
@@ -14603,7 +14605,7 @@
           <flat>
             <flat_id>373772</flat_id>
             <apartment>23</apartment>
-            <booking>0</booking>
+            <booking>1</booking>
             <domrf_id>0</domrf_id>
             <floor>7</floor>
             <room>2</room>
@@ -15386,7 +15388,7 @@
           <flat>
             <flat_id>373894</flat_id>
             <apartment>145</apartment>
-            <booking>1</booking>
+            <booking>0</booking>
             <domrf_id>0</domrf_id>
             <floor>11</floor>
             <room>3</room>
@@ -18580,7 +18582,7 @@
           <flat>
             <flat_id>374427</flat_id>
             <apartment>343</apartment>
-            <booking>0</booking>
+            <booking>1</booking>
             <domrf_id>0</domrf_id>
             <floor>11</floor>
             <room>1</room>
@@ -19724,7 +19726,7 @@
           <flat>
             <flat_id>374612</flat_id>
             <apartment>528</apartment>
-            <booking>0</booking>
+            <booking>1</booking>
             <domrf_id>0</domrf_id>
             <floor>11</floor>
             <room>2</room>
@@ -21695,7 +21697,7 @@
           <flat>
             <flat_id>374709</flat_id>
             <apartment>625</apartment>
-            <booking>1</booking>
+            <booking>0</booking>
             <domrf_id>0</domrf_id>
             <floor>3</floor>
             <room>1</room>
@@ -22157,7 +22159,7 @@
           <flat>
             <flat_id>374661</flat_id>
             <apartment>577</apartment>
-            <booking>0</booking>
+            <booking>1</booking>
             <domrf_id>0</domrf_id>
             <floor>7</floor>
             <room>1</room>
@@ -22597,7 +22599,7 @@
           <flat>
             <flat_id>374773</flat_id>
             <apartment>689</apartment>
-            <booking>0</booking>
+            <booking>1</booking>
             <domrf_id>0</domrf_id>
             <floor>11</floor>
             <room>1</room>
@@ -25501,28 +25503,6 @@
             <description>2-комнатная квартира, 60.25 кв.м, этаж 4 из 12. ЖК «Галерная гавань» от ГК «ПСК». Рядом метро Приморская, 20 мин пешком.</description>
           </flat>
           <flat>
-            <flat_id>401936</flat_id>
-            <apartment>374</apartment>
-            <booking>1</booking>
-            <domrf_id>0</domrf_id>
-            <floor>5</floor>
-            <room>2</room>
-            <plans>
-              <plan>https://feedhub.realty/feed-evel/plans/plan-d5b6003e75bdb1eb.jpg</plan>
-            </plans>
-            <renovation>без отделки</renovation>
-            <price>29036734</price>
-            <discounts>
-              <discount>
-                <value>20.0</value>
-                <description>Скидка по акции</description>
-              </discount>
-            </discounts>
-            <area>60.25</area>
-            <housing_type>0</housing_type>
-            <description>2-комнатная квартира, 60.25 кв.м, этаж 5 из 12. ЖК «Галерная гавань» от ГК «ПСК». Рядом метро Приморская, 20 мин пешком.</description>
-          </flat>
-          <flat>
             <flat_id>401922</flat_id>
             <apartment>360</apartment>
             <booking>0</booking>
@@ -26097,7 +26077,7 @@
           <flat>
             <flat_id>401798</flat_id>
             <apartment>236</apartment>
-            <booking>0</booking>
+            <booking>1</booking>
             <domrf_id>0</domrf_id>
             <floor>3</floor>
             <room>3</room>
@@ -27770,7 +27750,7 @@
           <flat>
             <flat_id>401764</flat_id>
             <apartment>202</apartment>
-            <booking>0</booking>
+            <booking>1</booking>
             <domrf_id>0</domrf_id>
             <floor>11</floor>
             <room>1</room>
@@ -28826,7 +28806,7 @@
           <flat>
             <flat_id>401763</flat_id>
             <apartment>201</apartment>
-            <booking>0</booking>
+            <booking>1</booking>
             <domrf_id>0</domrf_id>
             <floor>11</floor>
             <room>3</room>
@@ -29046,7 +29026,7 @@
           <flat>
             <flat_id>401710</flat_id>
             <apartment>148</apartment>
-            <booking>1</booking>
+            <booking>0</booking>
             <domrf_id>0</domrf_id>
             <floor>4</floor>
             <room>3</room>
@@ -29820,7 +29800,7 @@
           <flat>
             <flat_id>139548</flat_id>
             <apartment>98</apartment>
-            <booking>0</booking>
+            <booking>1</booking>
             <domrf_id>0</domrf_id>
             <floor>3</floor>
             <room>1</room>
@@ -29959,40 +29939,6 @@
         </flats>
       </building>
       <building>
-        <id>184726</id>
-        <name>корпус 5</name>
-        <latitude>59.747475</latitude>
-        <longitude>30.310545</longitude>
-        <address>г. Санкт-Петербург, Пулковское шоссе, 24</address>
-        <floors>5</floors>
-        <building_state>unfinished</building_state>
-        <built_year>2025</built_year>
-        <ready_quarter>4</ready_quarter>
-        <flats>
-          <flat>
-            <flat_id>201498</flat_id>
-            <apartment>3</apartment>
-            <booking>1</booking>
-            <domrf_id>0</domrf_id>
-            <floor>1</floor>
-            <room>0</room>
-            <plans>
-              <plan>https://feedhub.realty/feed-evel/plans/plan-036c713ccdae5d44.jpg</plan>
-            </plans>
-            <price>7189600</price>
-            <discounts>
-              <discount>
-                <value>10.0</value>
-                <description>Скидка по акции</description>
-              </discount>
-            </discounts>
-            <area>20.9</area>
-            <housing_type>0</housing_type>
-            <description>Студия, 20.9 кв.м, этаж 1 из 5. ЖК «ПЛЮС Пулковский, сити-квартал» от ГК «ПСК». Рядом метро Московская, 15 мин на машине.</description>
-          </flat>
-        </flats>
-      </building>
-      <building>
         <id>184713</id>
         <name>корпус 8</name>
         <latitude>59.747475</latitude>
@@ -30048,7 +29994,7 @@
           <flat>
             <flat_id>335017</flat_id>
             <apartment>33</apartment>
-            <booking>0</booking>
+            <booking>1</booking>
             <domrf_id>0</domrf_id>
             <floor>1</floor>
             <room>1</room>
@@ -31557,7 +31503,7 @@
           <flat>
             <flat_id>395088</flat_id>
             <apartment>18</apartment>
-            <booking>0</booking>
+            <booking>1</booking>
             <domrf_id>0</domrf_id>
             <floor>3</floor>
             <room>0</room>
@@ -32428,27 +32374,6 @@
         <built_year>2025</built_year>
         <ready_quarter>4</ready_quarter>
         <flats>
-          <flat>
-            <flat_id>395215</flat_id>
-            <apartment>9</apartment>
-            <booking>1</booking>
-            <domrf_id>0</domrf_id>
-            <floor>1</floor>
-            <room>0</room>
-            <plans>
-              <plan>https://feedhub.realty/feed-evel/plans/plan-be8883f6e4a6dc4d.jpg</plan>
-            </plans>
-            <price>6556743</price>
-            <discounts>
-              <discount>
-                <value>15.0</value>
-                <description>Скидка по акции</description>
-              </discount>
-            </discounts>
-            <area>20.52</area>
-            <housing_type>0</housing_type>
-            <description>Студия, 20.52 кв.м, этаж 1 из 5. ЖК «ПЛЮС Пулковский, сити-квартал» от ГК «ПСК». Рядом метро Московская, 15 мин на машине.</description>
-          </flat>
           <flat>
             <flat_id>395248</flat_id>
             <apartment>42</apartment>
@@ -33612,7 +33537,7 @@
           <flat>
             <flat_id>395407</flat_id>
             <apartment>60</apartment>
-            <booking>0</booking>
+            <booking>1</booking>
             <domrf_id>0</domrf_id>
             <floor>1</floor>
             <room>0</room>
@@ -33864,7 +33789,7 @@
           <flat>
             <flat_id>395440</flat_id>
             <apartment>93</apartment>
-            <booking>1</booking>
+            <booking>0</booking>
             <domrf_id>0</domrf_id>
             <floor>5</floor>
             <room>0</room>
@@ -34158,7 +34083,7 @@
           <flat>
             <flat_id>395402</flat_id>
             <apartment>55</apartment>
-            <booking>0</booking>
+            <booking>1</booking>
             <domrf_id>0</domrf_id>
             <floor>5</floor>
             <room>1</room>
@@ -34742,6 +34667,3686 @@
             <area>84.78</area>
             <housing_type>0</housing_type>
             <description>3-комнатная квартира, 84.78 кв.м, этаж 1 из 5. ЖК «ПЛЮС Пулковский, сити-квартал» от ГК «ПСК». Рядом метро Московская, 15 мин на машине.</description>
+          </flat>
+        </flats>
+      </building>
+      <building>
+        <id>0</id>
+        <name>корпус 15</name>
+        <latitude>59.747475</latitude>
+        <longitude>30.310545</longitude>
+        <address>г. Санкт-Петербург, Пулковское шоссе, 24</address>
+        <floors>5</floors>
+        <building_state>unfinished</building_state>
+        <built_year>2025</built_year>
+        <ready_quarter>4</ready_quarter>
+        <flats>
+          <flat>
+            <flat_id>487530</flat_id>
+            <apartment>17</apartment>
+            <booking>0</booking>
+            <domrf_id>0</domrf_id>
+            <floor>2</floor>
+            <room>1</room>
+            <plans>
+              <plan>https://feedhub.realty/feed-evel/plans/plan-5407180f273f9e8e.jpg</plan>
+            </plans>
+            <price>9085411</price>
+            <discounts>
+              <discount>
+                <value>15.0</value>
+                <description>Скидка по акции</description>
+              </discount>
+            </discounts>
+            <area>29.28</area>
+            <housing_type>0</housing_type>
+            <description>1-комнатная квартира, 29.28 кв.м, этаж 2 из 5. ЖК «ПЛЮС Пулковский, сити-квартал» от ГК «ПСК». Рядом метро Московская, 15 мин на машине.</description>
+          </flat>
+          <flat>
+            <flat_id>487542</flat_id>
+            <apartment>29</apartment>
+            <booking>0</booking>
+            <domrf_id>0</domrf_id>
+            <floor>3</floor>
+            <room>1</room>
+            <plans>
+              <plan>https://feedhub.realty/feed-evel/plans/plan-aeee7e66de385168.jpg</plan>
+            </plans>
+            <price>9110514</price>
+            <discounts>
+              <discount>
+                <value>15.0</value>
+                <description>Скидка по акции</description>
+              </discount>
+            </discounts>
+            <area>29.25</area>
+            <housing_type>0</housing_type>
+            <description>1-комнатная квартира, 29.25 кв.м, этаж 3 из 5. ЖК «ПЛЮС Пулковский, сити-квартал» от ГК «ПСК». Рядом метро Московская, 15 мин на машине.</description>
+          </flat>
+          <flat>
+            <flat_id>487554</flat_id>
+            <apartment>41</apartment>
+            <booking>0</booking>
+            <domrf_id>0</domrf_id>
+            <floor>4</floor>
+            <room>1</room>
+            <plans>
+              <plan>https://feedhub.realty/feed-evel/plans/plan-aeee7e66de385168.jpg</plan>
+            </plans>
+            <price>9144926</price>
+            <discounts>
+              <discount>
+                <value>15.0</value>
+                <description>Скидка по акции</description>
+              </discount>
+            </discounts>
+            <area>29.25</area>
+            <housing_type>0</housing_type>
+            <description>1-комнатная квартира, 29.25 кв.м, этаж 4 из 5. ЖК «ПЛЮС Пулковский, сити-квартал» от ГК «ПСК». Рядом метро Московская, 15 мин на машине.</description>
+          </flat>
+          <flat>
+            <flat_id>487531</flat_id>
+            <apartment>18</apartment>
+            <booking>0</booking>
+            <domrf_id>0</domrf_id>
+            <floor>2</floor>
+            <room>1</room>
+            <plans>
+              <plan>https://feedhub.realty/feed-evel/plans/plan-c0b3adb70435f518.jpg</plan>
+            </plans>
+            <price>9196952</price>
+            <discounts>
+              <discount>
+                <value>15.0</value>
+                <description>Скидка по акции</description>
+              </discount>
+            </discounts>
+            <area>30.03</area>
+            <housing_type>0</housing_type>
+            <description>1-комнатная квартира, 30.03 кв.м, этаж 2 из 5. ЖК «ПЛЮС Пулковский, сити-квартал» от ГК «ПСК». Рядом метро Московская, 15 мин на машине.</description>
+          </flat>
+          <flat>
+            <flat_id>487543</flat_id>
+            <apartment>30</apartment>
+            <booking>0</booking>
+            <domrf_id>0</domrf_id>
+            <floor>3</floor>
+            <room>1</room>
+            <plans>
+              <plan>https://feedhub.realty/feed-evel/plans/plan-483fc7f96681a632.jpg</plan>
+            </plans>
+            <price>9210761</price>
+            <discounts>
+              <discount>
+                <value>15.0</value>
+                <description>Скидка по акции</description>
+              </discount>
+            </discounts>
+            <area>29.96</area>
+            <housing_type>0</housing_type>
+            <description>1-комнатная квартира, 29.96 кв.м, этаж 3 из 5. ЖК «ПЛЮС Пулковский, сити-квартал» от ГК «ПСК». Рядом метро Московская, 15 мин на машине.</description>
+          </flat>
+          <flat>
+            <flat_id>487555</flat_id>
+            <apartment>42</apartment>
+            <booking>0</booking>
+            <domrf_id>0</domrf_id>
+            <floor>4</floor>
+            <room>1</room>
+            <plans>
+              <plan>https://feedhub.realty/feed-evel/plans/plan-483fc7f96681a632.jpg</plan>
+            </plans>
+            <price>9246008</price>
+            <discounts>
+              <discount>
+                <value>15.0</value>
+                <description>Скидка по акции</description>
+              </discount>
+            </discounts>
+            <area>29.96</area>
+            <housing_type>0</housing_type>
+            <description>1-комнатная квартира, 29.96 кв.м, этаж 4 из 5. ЖК «ПЛЮС Пулковский, сити-квартал» от ГК «ПСК». Рядом метро Московская, 15 мин на машине.</description>
+          </flat>
+          <flat>
+            <flat_id>487533</flat_id>
+            <apartment>20</apartment>
+            <booking>0</booking>
+            <domrf_id>0</domrf_id>
+            <floor>3</floor>
+            <room>1</room>
+            <plans>
+              <plan>https://feedhub.realty/feed-evel/plans/plan-763ef830e74be27e.jpg</plan>
+            </plans>
+            <price>9272248</price>
+            <discounts>
+              <discount>
+                <value>15.0</value>
+                <description>Скидка по акции</description>
+              </discount>
+            </discounts>
+            <area>30.16</area>
+            <housing_type>0</housing_type>
+            <description>1-комнатная квартира, 30.16 кв.м, этаж 3 из 5. ЖК «ПЛЮС Пулковский, сити-квартал» от ГК «ПСК». Рядом метро Московская, 15 мин на машине.</description>
+          </flat>
+          <flat>
+            <flat_id>487521</flat_id>
+            <apartment>8</apartment>
+            <booking>0</booking>
+            <domrf_id>0</domrf_id>
+            <floor>2</floor>
+            <room>1</room>
+            <plans>
+              <plan>https://feedhub.realty/feed-evel/plans/plan-dfcccaf88bbce981.jpg</plan>
+            </plans>
+            <price>9306805</price>
+            <discounts>
+              <discount>
+                <value>15.0</value>
+                <description>Скидка по акции</description>
+              </discount>
+            </discounts>
+            <area>30.5</area>
+            <housing_type>0</housing_type>
+            <description>1-комнатная квартира, 30.5 кв.м, этаж 2 из 5. ЖК «ПЛЮС Пулковский, сити-квартал» от ГК «ПСК». Рядом метро Московская, 15 мин на машине.</description>
+          </flat>
+          <flat>
+            <flat_id>487545</flat_id>
+            <apartment>32</apartment>
+            <booking>0</booking>
+            <domrf_id>0</domrf_id>
+            <floor>4</floor>
+            <room>1</room>
+            <plans>
+              <plan>https://feedhub.realty/feed-evel/plans/plan-763ef830e74be27e.jpg</plan>
+            </plans>
+            <price>9307730</price>
+            <discounts>
+              <discount>
+                <value>15.0</value>
+                <description>Скидка по акции</description>
+              </discount>
+            </discounts>
+            <area>30.16</area>
+            <housing_type>0</housing_type>
+            <description>1-комнатная квартира, 30.16 кв.м, этаж 4 из 5. ЖК «ПЛЮС Пулковский, сити-квартал» от ГК «ПСК». Рядом метро Московская, 15 мин на машине.</description>
+          </flat>
+          <flat>
+            <flat_id>487518</flat_id>
+            <apartment>5</apartment>
+            <booking>0</booking>
+            <domrf_id>0</domrf_id>
+            <floor>1</floor>
+            <room>1</room>
+            <plans>
+              <plan>https://feedhub.realty/feed-evel/plans/plan-ac2c960fa35876aa.jpg</plan>
+            </plans>
+            <price>9325001</price>
+            <discounts>
+              <discount>
+                <value>15.0</value>
+                <description>Скидка по акции</description>
+              </discount>
+            </discounts>
+            <area>33.34</area>
+            <housing_type>0</housing_type>
+            <description>1-комнатная квартира, 33.34 кв.м, этаж 1 из 5. ЖК «ПЛЮС Пулковский, сити-квартал» от ГК «ПСК». Рядом метро Московская, 15 мин на машине.</description>
+          </flat>
+          <flat>
+            <flat_id>487536</flat_id>
+            <apartment>23</apartment>
+            <booking>0</booking>
+            <domrf_id>0</domrf_id>
+            <floor>3</floor>
+            <room>1</room>
+            <plans>
+              <plan>https://feedhub.realty/feed-evel/plans/plan-df530b1ec68ab3dc.jpg</plan>
+            </plans>
+            <price>9329409</price>
+            <discounts>
+              <discount>
+                <value>15.0</value>
+                <description>Скидка по акции</description>
+              </discount>
+            </discounts>
+            <area>32.54</area>
+            <housing_type>0</housing_type>
+            <description>1-комнатная квартира, 32.54 кв.м, этаж 3 из 5. ЖК «ПЛЮС Пулковский, сити-квартал» от ГК «ПСК». Рядом метро Московская, 15 мин на машине.</description>
+          </flat>
+          <flat>
+            <flat_id>487548</flat_id>
+            <apartment>35</apartment>
+            <booking>0</booking>
+            <domrf_id>0</domrf_id>
+            <floor>4</floor>
+            <room>1</room>
+            <plans>
+              <plan>https://feedhub.realty/feed-evel/plans/plan-df530b1ec68ab3dc.jpg</plan>
+            </plans>
+            <price>9367691</price>
+            <discounts>
+              <discount>
+                <value>15.0</value>
+                <description>Скидка по акции</description>
+              </discount>
+            </discounts>
+            <area>32.54</area>
+            <housing_type>0</housing_type>
+            <description>1-комнатная квартира, 32.54 кв.м, этаж 4 из 5. ЖК «ПЛЮС Пулковский, сити-квартал» от ГК «ПСК». Рядом метро Московская, 15 мин на машине.</description>
+          </flat>
+          <flat>
+            <flat_id>487515</flat_id>
+            <apartment>2</apartment>
+            <booking>0</booking>
+            <domrf_id>0</domrf_id>
+            <floor>1</floor>
+            <room>1</room>
+            <plans>
+              <plan>https://feedhub.realty/feed-evel/plans/plan-944873e97576672b.jpg</plan>
+            </plans>
+            <price>9388027</price>
+            <discounts>
+              <discount>
+                <value>15.0</value>
+                <description>Скидка по акции</description>
+              </discount>
+            </discounts>
+            <area>33.7</area>
+            <housing_type>0</housing_type>
+            <description>1-комнатная квартира, 33.7 кв.м, этаж 1 из 5. ЖК «ПЛЮС Пулковский, сити-квартал» от ГК «ПСК». Рядом метро Московская, 15 мин на машине.</description>
+          </flat>
+          <flat>
+            <flat_id>487527</flat_id>
+            <apartment>14</apartment>
+            <booking>0</booking>
+            <domrf_id>0</domrf_id>
+            <floor>2</floor>
+            <room>1</room>
+            <plans>
+              <plan>https://feedhub.realty/feed-evel/plans/plan-4ea2a8fa762ad0de.jpg</plan>
+            </plans>
+            <price>9405338</price>
+            <discounts>
+              <discount>
+                <value>15.0</value>
+                <description>Скидка по акции</description>
+              </discount>
+            </discounts>
+            <area>32.94</area>
+            <housing_type>0</housing_type>
+            <description>1-комнатная квартира, 32.94 кв.м, этаж 2 из 5. ЖК «ПЛЮС Пулковский, сити-квартал» от ГК «ПСК». Рядом метро Московская, 15 мин на машине.</description>
+          </flat>
+          <flat>
+            <flat_id>487519</flat_id>
+            <apartment>6</apartment>
+            <booking>0</booking>
+            <domrf_id>0</domrf_id>
+            <floor>1</floor>
+            <room>1</room>
+            <plans>
+              <plan>https://feedhub.realty/feed-evel/plans/plan-c4232a76b812185f.jpg</plan>
+            </plans>
+            <price>9438170</price>
+            <discounts>
+              <discount>
+                <value>15.0</value>
+                <description>Скидка по акции</description>
+              </discount>
+            </discounts>
+            <area>33.88</area>
+            <housing_type>0</housing_type>
+            <description>1-комнатная квартира, 33.88 кв.м, этаж 1 из 5. ЖК «ПЛЮС Пулковский, сити-квартал» от ГК «ПСК». Рядом метро Московская, 15 мин на машине.</description>
+          </flat>
+          <flat>
+            <flat_id>487524</flat_id>
+            <apartment>11</apartment>
+            <booking>0</booking>
+            <domrf_id>0</domrf_id>
+            <floor>2</floor>
+            <room>1</room>
+            <plans>
+              <plan>https://feedhub.realty/feed-evel/plans/plan-4da098216adf1e55.jpg</plan>
+            </plans>
+            <price>9442457</price>
+            <discounts>
+              <discount>
+                <value>15.0</value>
+                <description>Скидка по акции</description>
+              </discount>
+            </discounts>
+            <area>33.07</area>
+            <housing_type>0</housing_type>
+            <description>1-комнатная квартира, 33.07 кв.м, этаж 2 из 5. ЖК «ПЛЮС Пулковский, сити-квартал» от ГК «ПСК». Рядом метро Московская, 15 мин на машине.</description>
+          </flat>
+          <flat>
+            <flat_id>487539</flat_id>
+            <apartment>26</apartment>
+            <booking>0</booking>
+            <domrf_id>0</domrf_id>
+            <floor>3</floor>
+            <room>1</room>
+            <plans>
+              <plan>https://feedhub.realty/feed-evel/plans/plan-1768e439925095ec.jpg</plan>
+            </plans>
+            <price>9444091</price>
+            <discounts>
+              <discount>
+                <value>15.0</value>
+                <description>Скидка по акции</description>
+              </discount>
+            </discounts>
+            <area>32.94</area>
+            <housing_type>0</housing_type>
+            <description>1-комнатная квартира, 32.94 кв.м, этаж 3 из 5. ЖК «ПЛЮС Пулковский, сити-квартал» от ГК «ПСК». Рядом метро Московская, 15 мин на машине.</description>
+          </flat>
+          <flat>
+            <flat_id>487514</flat_id>
+            <apartment>1</apartment>
+            <booking>0</booking>
+            <domrf_id>0</domrf_id>
+            <floor>1</floor>
+            <room>1</room>
+            <plans>
+              <plan>https://feedhub.realty/feed-evel/plans/plan-0910a52a07ea308c.jpg</plan>
+            </plans>
+            <price>9454896</price>
+            <discounts>
+              <discount>
+                <value>15.0</value>
+                <description>Скидка по акции</description>
+              </discount>
+            </discounts>
+            <area>33.84</area>
+            <housing_type>0</housing_type>
+            <description>1-комнатная квартира, 33.84 кв.м, этаж 1 из 5. ЖК «ПЛЮС Пулковский, сити-квартал» от ГК «ПСК». Рядом метро Московская, 15 мин на машине.</description>
+          </flat>
+          <flat>
+            <flat_id>487551</flat_id>
+            <apartment>38</apartment>
+            <booking>0</booking>
+            <domrf_id>0</domrf_id>
+            <floor>4</floor>
+            <room>1</room>
+            <plans>
+              <plan>https://feedhub.realty/feed-evel/plans/plan-1768e439925095ec.jpg</plan>
+            </plans>
+            <price>9482844</price>
+            <discounts>
+              <discount>
+                <value>15.0</value>
+                <description>Скидка по акции</description>
+              </discount>
+            </discounts>
+            <area>32.94</area>
+            <housing_type>0</housing_type>
+            <description>1-комнатная квартира, 32.94 кв.м, этаж 4 из 5. ЖК «ПЛЮС Пулковский, сити-квартал» от ГК «ПСК». Рядом метро Московская, 15 мин на машине.</description>
+          </flat>
+          <flat>
+            <flat_id>487560</flat_id>
+            <apartment>47</apartment>
+            <booking>0</booking>
+            <domrf_id>0</domrf_id>
+            <floor>5</floor>
+            <room>1</room>
+            <plans>
+              <plan>https://feedhub.realty/feed-evel/plans/plan-5f0f412d694b81dc.jpg</plan>
+            </plans>
+            <price>9663096</price>
+            <discounts>
+              <discount>
+                <value>15.0</value>
+                <description>Скидка по акции</description>
+              </discount>
+            </discounts>
+            <area>32.96</area>
+            <housing_type>0</housing_type>
+            <description>1-комнатная квартира, 32.96 кв.м, этаж 5 из 5. ЖК «ПЛЮС Пулковский, сити-квартал» от ГК «ПСК». Рядом метро Московская, 15 мин на машине.</description>
+          </flat>
+          <flat>
+            <flat_id>487563</flat_id>
+            <apartment>50</apartment>
+            <booking>0</booking>
+            <domrf_id>0</domrf_id>
+            <floor>5</floor>
+            <room>1</room>
+            <plans>
+              <plan>https://feedhub.realty/feed-evel/plans/plan-2c029dac4eea75a3.jpg</plan>
+            </plans>
+            <price>9742689</price>
+            <discounts>
+              <discount>
+                <value>15.0</value>
+                <description>Скидка по акции</description>
+              </discount>
+            </discounts>
+            <area>33.36</area>
+            <housing_type>0</housing_type>
+            <description>1-комнатная квартира, 33.36 кв.м, этаж 5 из 5. ЖК «ПЛЮС Пулковский, сити-квартал» от ГК «ПСК». Рядом метро Московская, 15 мин на машине.</description>
+          </flat>
+          <flat>
+            <flat_id>487566</flat_id>
+            <apartment>53</apartment>
+            <booking>0</booking>
+            <domrf_id>0</domrf_id>
+            <floor>5</floor>
+            <room>1</room>
+            <plans>
+              <plan>https://feedhub.realty/feed-evel/plans/plan-9a9777907ba371af.jpg</plan>
+            </plans>
+            <price>9822139</price>
+            <discounts>
+              <discount>
+                <value>15.0</value>
+                <description>Скидка по акции</description>
+              </discount>
+            </discounts>
+            <area>33.31</area>
+            <housing_type>0</housing_type>
+            <description>1-комнатная квартира, 33.31 кв.м, этаж 5 из 5. ЖК «ПЛЮС Пулковский, сити-квартал» от ГК «ПСК». Рядом метро Московская, 15 мин на машине.</description>
+          </flat>
+          <flat>
+            <flat_id>487532</flat_id>
+            <apartment>19</apartment>
+            <booking>0</booking>
+            <domrf_id>0</domrf_id>
+            <floor>3</floor>
+            <room>1</room>
+            <plans>
+              <plan>https://feedhub.realty/feed-evel/plans/plan-e4d6394296bb0a1e.jpg</plan>
+            </plans>
+            <price>9981665</price>
+            <discounts>
+              <discount>
+                <value>15.0</value>
+                <description>Скидка по акции</description>
+              </discount>
+            </discounts>
+            <area>34.4</area>
+            <housing_type>0</housing_type>
+            <description>1-комнатная квартира, 34.4 кв.м, этаж 3 из 5. ЖК «ПЛЮС Пулковский, сити-квартал» от ГК «ПСК». Рядом метро Московская, 15 мин на машине.</description>
+          </flat>
+          <flat>
+            <flat_id>487544</flat_id>
+            <apartment>31</apartment>
+            <booking>0</booking>
+            <domrf_id>0</domrf_id>
+            <floor>4</floor>
+            <room>1</room>
+            <plans>
+              <plan>https://feedhub.realty/feed-evel/plans/plan-e4d6394296bb0a1e.jpg</plan>
+            </plans>
+            <price>10022136</price>
+            <discounts>
+              <discount>
+                <value>15.0</value>
+                <description>Скидка по акции</description>
+              </discount>
+            </discounts>
+            <area>34.4</area>
+            <housing_type>0</housing_type>
+            <description>1-комнатная квартира, 34.4 кв.м, этаж 4 из 5. ЖК «ПЛЮС Пулковский, сити-квартал» от ГК «ПСК». Рядом метро Московская, 15 мин на машине.</description>
+          </flat>
+          <flat>
+            <flat_id>487567</flat_id>
+            <apartment>54</apartment>
+            <booking>0</booking>
+            <domrf_id>0</domrf_id>
+            <floor>5</floor>
+            <room>1</room>
+            <plans>
+              <plan>https://feedhub.realty/feed-evel/plans/plan-9c11b34ff2380db9.jpg</plan>
+            </plans>
+            <price>10068457</price>
+            <discounts>
+              <discount>
+                <value>15.0</value>
+                <description>Скидка по акции</description>
+              </discount>
+            </discounts>
+            <area>34.42</area>
+            <housing_type>0</housing_type>
+            <description>1-комнатная квартира, 34.42 кв.м, этаж 5 из 5. ЖК «ПЛЮС Пулковский, сити-квартал» от ГК «ПСК». Рядом метро Московская, 15 мин на машине.</description>
+          </flat>
+          <flat>
+            <flat_id>487520</flat_id>
+            <apartment>7</apartment>
+            <booking>0</booking>
+            <domrf_id>0</domrf_id>
+            <floor>2</floor>
+            <room>1</room>
+            <plans>
+              <plan>https://feedhub.realty/feed-evel/plans/plan-c232cf6e7e791cf6.jpg</plan>
+            </plans>
+            <price>10072591</price>
+            <discounts>
+              <discount>
+                <value>15.0</value>
+                <description>Скидка по акции</description>
+              </discount>
+            </discounts>
+            <area>34.99</area>
+            <housing_type>0</housing_type>
+            <description>1-комнатная квартира, 34.99 кв.м, этаж 2 из 5. ЖК «ПЛЮС Пулковский, сити-квартал» от ГК «ПСК». Рядом метро Московская, 15 мин на машине.</description>
+          </flat>
+          <flat>
+            <flat_id>487557</flat_id>
+            <apartment>44</apartment>
+            <booking>0</booking>
+            <domrf_id>0</domrf_id>
+            <floor>5</floor>
+            <room>1</room>
+            <plans>
+              <plan>https://feedhub.realty/feed-evel/plans/plan-b4a54d5a8c15eba7.jpg</plan>
+            </plans>
+            <price>10124035</price>
+            <discounts>
+              <discount>
+                <value>15.0</value>
+                <description>Скидка по акции</description>
+              </discount>
+            </discounts>
+            <area>34.61</area>
+            <housing_type>0</housing_type>
+            <description>1-комнатная квартира, 34.61 кв.м, этаж 5 из 5. ЖК «ПЛЮС Пулковский, сити-квартал» от ГК «ПСК». Рядом метро Московская, 15 мин на машине.</description>
+          </flat>
+          <flat>
+            <flat_id>487528</flat_id>
+            <apartment>15</apartment>
+            <booking>0</booking>
+            <domrf_id>0</domrf_id>
+            <floor>2</floor>
+            <room>1</room>
+            <plans>
+              <plan>https://feedhub.realty/feed-evel/plans/plan-a318e7134c7c10e8.jpg</plan>
+            </plans>
+            <price>10216980</price>
+            <discounts>
+              <discount>
+                <value>15.0</value>
+                <description>Скидка по акции</description>
+              </discount>
+            </discounts>
+            <area>34.53</area>
+            <housing_type>0</housing_type>
+            <description>1-комнатная квартира, 34.53 кв.м, этаж 2 из 5. ЖК «ПЛЮС Пулковский, сити-квартал» от ГК «ПСК». Рядом метро Московская, 15 мин на машине.</description>
+          </flat>
+          <flat>
+            <flat_id>487540</flat_id>
+            <apartment>27</apartment>
+            <booking>0</booking>
+            <domrf_id>0</domrf_id>
+            <floor>3</floor>
+            <room>1</room>
+            <plans>
+              <plan>https://feedhub.realty/feed-evel/plans/plan-ada600646b50c239.jpg</plan>
+            </plans>
+            <price>10257603</price>
+            <discounts>
+              <discount>
+                <value>15.0</value>
+                <description>Скидка по акции</description>
+              </discount>
+            </discounts>
+            <area>34.53</area>
+            <housing_type>0</housing_type>
+            <description>1-комнатная квартира, 34.53 кв.м, этаж 3 из 5. ЖК «ПЛЮС Пулковский, сити-квартал» от ГК «ПСК». Рядом метро Московская, 15 мин на машине.</description>
+          </flat>
+          <flat>
+            <flat_id>487535</flat_id>
+            <apartment>22</apartment>
+            <booking>0</booking>
+            <domrf_id>0</domrf_id>
+            <floor>3</floor>
+            <room>1</room>
+            <plans>
+              <plan>https://feedhub.realty/feed-evel/plans/plan-5ec091790fc42c69.jpg</plan>
+            </plans>
+            <price>10260574</price>
+            <discounts>
+              <discount>
+                <value>15.0</value>
+                <description>Скидка по акции</description>
+              </discount>
+            </discounts>
+            <area>34.54</area>
+            <housing_type>0</housing_type>
+            <description>1-комнатная квартира, 34.54 кв.м, этаж 3 из 5. ЖК «ПЛЮС Пулковский, сити-квартал» от ГК «ПСК». Рядом метро Московская, 15 мин на машине.</description>
+          </flat>
+          <flat>
+            <flat_id>487523</flat_id>
+            <apartment>10</apartment>
+            <booking>0</booking>
+            <domrf_id>0</domrf_id>
+            <floor>2</floor>
+            <room>1</room>
+            <plans>
+              <plan>https://feedhub.realty/feed-evel/plans/plan-6697f4e2a105f757.jpg</plan>
+            </plans>
+            <price>10274301</price>
+            <discounts>
+              <discount>
+                <value>15.0</value>
+                <description>Скидка по акции</description>
+              </discount>
+            </discounts>
+            <area>34.87</area>
+            <housing_type>0</housing_type>
+            <description>1-комнатная квартира, 34.87 кв.м, этаж 2 из 5. ЖК «ПЛЮС Пулковский, сити-квартал» от ГК «ПСК». Рядом метро Московская, 15 мин на машине.</description>
+          </flat>
+          <flat>
+            <flat_id>487552</flat_id>
+            <apartment>39</apartment>
+            <booking>0</booking>
+            <domrf_id>0</domrf_id>
+            <floor>4</floor>
+            <room>1</room>
+            <plans>
+              <plan>https://feedhub.realty/feed-evel/plans/plan-ada600646b50c239.jpg</plan>
+            </plans>
+            <price>10298227</price>
+            <discounts>
+              <discount>
+                <value>15.0</value>
+                <description>Скидка по акции</description>
+              </discount>
+            </discounts>
+            <area>34.53</area>
+            <housing_type>0</housing_type>
+            <description>1-комнатная квартира, 34.53 кв.м, этаж 4 из 5. ЖК «ПЛЮС Пулковский, сити-квартал» от ГК «ПСК». Рядом метро Московская, 15 мин на машине.</description>
+          </flat>
+          <flat>
+            <flat_id>487547</flat_id>
+            <apartment>34</apartment>
+            <booking>0</booking>
+            <domrf_id>0</domrf_id>
+            <floor>4</floor>
+            <room>1</room>
+            <plans>
+              <plan>https://feedhub.realty/feed-evel/plans/plan-5ec091790fc42c69.jpg</plan>
+            </plans>
+            <price>10301209</price>
+            <discounts>
+              <discount>
+                <value>15.0</value>
+                <description>Скидка по акции</description>
+              </discount>
+            </discounts>
+            <area>34.54</area>
+            <housing_type>0</housing_type>
+            <description>1-комнатная квартира, 34.54 кв.м, этаж 4 из 5. ЖК «ПЛЮС Пулковский, сити-квартал» от ГК «ПСК». Рядом метро Московская, 15 мин на машине.</description>
+          </flat>
+          <flat>
+            <flat_id>487529</flat_id>
+            <apartment>16</apartment>
+            <booking>0</booking>
+            <domrf_id>0</domrf_id>
+            <floor>2</floor>
+            <room>1</room>
+            <plans>
+              <plan>https://feedhub.realty/feed-evel/plans/plan-4500a35baf748ca0.jpg</plan>
+            </plans>
+            <price>10427279</price>
+            <discounts>
+              <discount>
+                <value>15.0</value>
+                <description>Скидка по акции</description>
+              </discount>
+            </discounts>
+            <area>36.37</area>
+            <housing_type>0</housing_type>
+            <description>1-комнатная квартира, 36.37 кв.м, этаж 2 из 5. ЖК «ПЛЮС Пулковский, сити-квартал» от ГК «ПСК». Рядом метро Московская, 15 мин на машине.</description>
+          </flat>
+          <flat>
+            <flat_id>487517</flat_id>
+            <apartment>4</apartment>
+            <booking>0</booking>
+            <domrf_id>0</domrf_id>
+            <floor>1</floor>
+            <room>1</room>
+            <plans>
+              <plan>https://feedhub.realty/feed-evel/plans/plan-7d29ea0e6f7450ca.jpg</plan>
+            </plans>
+            <price>10428142</price>
+            <discounts>
+              <discount>
+                <value>15.0</value>
+                <description>Скидка по акции</description>
+              </discount>
+            </discounts>
+            <area>36.98</area>
+            <housing_type>0</housing_type>
+            <description>1-комнатная квартира, 36.98 кв.м, этаж 1 из 5. ЖК «ПЛЮС Пулковский, сити-квартал» от ГК «ПСК». Рядом метро Московская, 15 мин на машине.</description>
+          </flat>
+          <flat>
+            <flat_id>487534</flat_id>
+            <apartment>21</apartment>
+            <booking>0</booking>
+            <domrf_id>0</domrf_id>
+            <floor>3</floor>
+            <room>1</room>
+            <plans>
+              <plan>https://feedhub.realty/feed-evel/plans/plan-8f67735c0f27ea18.jpg</plan>
+            </plans>
+            <price>10461430</price>
+            <discounts>
+              <discount>
+                <value>15.0</value>
+                <description>Скидка по акции</description>
+              </discount>
+            </discounts>
+            <area>36.34</area>
+            <housing_type>0</housing_type>
+            <description>1-комнатная квартира, 36.34 кв.м, этаж 3 из 5. ЖК «ПЛЮС Пулковский, сити-квартал» от ГК «ПСК». Рядом метро Московская, 15 мин на машине.</description>
+          </flat>
+          <flat>
+            <flat_id>487541</flat_id>
+            <apartment>28</apartment>
+            <booking>0</booking>
+            <domrf_id>0</domrf_id>
+            <floor>3</floor>
+            <room>1</room>
+            <plans>
+              <plan>https://feedhub.realty/feed-evel/plans/plan-a37da108e4e6e2f4.jpg</plan>
+            </plans>
+            <price>10470067</price>
+            <discounts>
+              <discount>
+                <value>15.0</value>
+                <description>Скидка по акции</description>
+              </discount>
+            </discounts>
+            <area>36.37</area>
+            <housing_type>0</housing_type>
+            <description>1-комнатная квартира, 36.37 кв.м, этаж 3 из 5. ЖК «ПЛЮС Пулковский, сити-квартал» от ГК «ПСК». Рядом метро Московская, 15 мин на машине.</description>
+          </flat>
+          <flat>
+            <flat_id>487546</flat_id>
+            <apartment>33</apartment>
+            <booking>0</booking>
+            <domrf_id>0</domrf_id>
+            <floor>4</floor>
+            <room>1</room>
+            <plans>
+              <plan>https://feedhub.realty/feed-evel/plans/plan-8f67735c0f27ea18.jpg</plan>
+            </plans>
+            <price>10504183</price>
+            <discounts>
+              <discount>
+                <value>15.0</value>
+                <description>Скидка по акции</description>
+              </discount>
+            </discounts>
+            <area>36.34</area>
+            <housing_type>0</housing_type>
+            <description>1-комнатная квартира, 36.34 кв.м, этаж 4 из 5. ЖК «ПЛЮС Пулковский, сити-квартал» от ГК «ПСК». Рядом метро Московская, 15 мин на машине.</description>
+          </flat>
+          <flat>
+            <flat_id>487553</flat_id>
+            <apartment>40</apartment>
+            <booking>0</booking>
+            <domrf_id>0</domrf_id>
+            <floor>4</floor>
+            <room>1</room>
+            <plans>
+              <plan>https://feedhub.realty/feed-evel/plans/plan-a37da108e4e6e2f4.jpg</plan>
+            </plans>
+            <price>10512855</price>
+            <discounts>
+              <discount>
+                <value>15.0</value>
+                <description>Скидка по акции</description>
+              </discount>
+            </discounts>
+            <area>36.37</area>
+            <housing_type>0</housing_type>
+            <description>1-комнатная квартира, 36.37 кв.м, этаж 4 из 5. ЖК «ПЛЮС Пулковский, сити-квартал» от ГК «ПСК». Рядом метро Московская, 15 мин на машине.</description>
+          </flat>
+          <flat>
+            <flat_id>487522</flat_id>
+            <apartment>9</apartment>
+            <booking>0</booking>
+            <domrf_id>0</domrf_id>
+            <floor>2</floor>
+            <room>1</room>
+            <plans>
+              <plan>https://feedhub.realty/feed-evel/plans/plan-dd179401fe6324c2.jpg</plan>
+            </plans>
+            <price>10605033</price>
+            <discounts>
+              <discount>
+                <value>15.0</value>
+                <description>Скидка по акции</description>
+              </discount>
+            </discounts>
+            <area>36.99</area>
+            <housing_type>0</housing_type>
+            <description>1-комнатная квартира, 36.99 кв.м, этаж 2 из 5. ЖК «ПЛЮС Пулковский, сити-квартал» от ГК «ПСК». Рядом метро Московская, 15 мин на машине.</description>
+          </flat>
+          <flat>
+            <flat_id>487516</flat_id>
+            <apartment>3</apartment>
+            <booking>0</booking>
+            <domrf_id>0</domrf_id>
+            <floor>1</floor>
+            <room>1</room>
+            <plans>
+              <plan>https://feedhub.realty/feed-evel/plans/plan-553b317c560f8ad5.jpg</plan>
+            </plans>
+            <price>10707594</price>
+            <discounts>
+              <discount>
+                <value>15.0</value>
+                <description>Скидка по акции</description>
+              </discount>
+            </discounts>
+            <area>38.2</area>
+            <housing_type>0</housing_type>
+            <description>1-комнатная квартира, 38.2 кв.м, этаж 1 из 5. ЖК «ПЛЮС Пулковский, сити-квартал» от ГК «ПСК». Рядом метро Московская, 15 мин на машине.</description>
+          </flat>
+          <flat>
+            <flat_id>487558</flat_id>
+            <apartment>45</apartment>
+            <booking>0</booking>
+            <domrf_id>0</domrf_id>
+            <floor>5</floor>
+            <room>1</room>
+            <plans>
+              <plan>https://feedhub.realty/feed-evel/plans/plan-234e0ec217d37918.jpg</plan>
+            </plans>
+            <price>11044428</price>
+            <discounts>
+              <discount>
+                <value>15.0</value>
+                <description>Скидка по акции</description>
+              </discount>
+            </discounts>
+            <area>37.18</area>
+            <housing_type>0</housing_type>
+            <description>1-комнатная квартира, 37.18 кв.м, этаж 5 из 5. ЖК «ПЛЮС Пулковский, сити-квартал» от ГК «ПСК». Рядом метро Московская, 15 мин на машине.</description>
+          </flat>
+          <flat>
+            <flat_id>487565</flat_id>
+            <apartment>52</apartment>
+            <booking>0</booking>
+            <domrf_id>0</domrf_id>
+            <floor>5</floor>
+            <room>1</room>
+            <plans>
+              <plan>https://feedhub.realty/feed-evel/plans/plan-7254179f0a7d9f23.jpg</plan>
+            </plans>
+            <price>11053339</price>
+            <discounts>
+              <discount>
+                <value>15.0</value>
+                <description>Скидка по акции</description>
+              </discount>
+            </discounts>
+            <area>37.21</area>
+            <housing_type>0</housing_type>
+            <description>1-комнатная квартира, 37.21 кв.м, этаж 5 из 5. ЖК «ПЛЮС Пулковский, сити-квартал» от ГК «ПСК». Рядом метро Московская, 15 мин на машине.</description>
+          </flat>
+          <flat>
+            <flat_id>487556</flat_id>
+            <apartment>43</apartment>
+            <booking>0</booking>
+            <domrf_id>0</domrf_id>
+            <floor>5</floor>
+            <room>1</room>
+            <plans>
+              <plan>https://feedhub.realty/feed-evel/plans/plan-1a64ae97d996ee56.jpg</plan>
+            </plans>
+            <price>11096778</price>
+            <discounts>
+              <discount>
+                <value>15.0</value>
+                <description>Скидка по акции</description>
+              </discount>
+            </discounts>
+            <area>38.92</area>
+            <housing_type>0</housing_type>
+            <description>1-комнатная квартира, 38.92 кв.м, этаж 5 из 5. ЖК «ПЛЮС Пулковский, сити-квартал» от ГК «ПСК». Рядом метро Московская, 15 мин на машине.</description>
+          </flat>
+          <flat>
+            <flat_id>487564</flat_id>
+            <apartment>51</apartment>
+            <booking>0</booking>
+            <domrf_id>0</domrf_id>
+            <floor>5</floor>
+            <room>1</room>
+            <plans>
+              <plan>https://feedhub.realty/feed-evel/plans/plan-6d0b3639e09a7c3b.jpg</plan>
+            </plans>
+            <price>11517247</price>
+            <discounts>
+              <discount>
+                <value>15.0</value>
+                <description>Скидка по акции</description>
+              </discount>
+            </discounts>
+            <area>39.13</area>
+            <housing_type>0</housing_type>
+            <description>1-комнатная квартира, 39.13 кв.м, этаж 5 из 5. ЖК «ПЛЮС Пулковский, сити-квартал» от ГК «ПСК». Рядом метро Московская, 15 мин на машине.</description>
+          </flat>
+          <flat>
+            <flat_id>487559</flat_id>
+            <apartment>46</apartment>
+            <booking>0</booking>
+            <domrf_id>0</domrf_id>
+            <floor>5</floor>
+            <room>1</room>
+            <plans>
+              <plan>https://feedhub.realty/feed-evel/plans/plan-6a38e659d88efbbf.jpg</plan>
+            </plans>
+            <price>11520191</price>
+            <discounts>
+              <discount>
+                <value>15.0</value>
+                <description>Скидка по акции</description>
+              </discount>
+            </discounts>
+            <area>39.14</area>
+            <housing_type>0</housing_type>
+            <description>1-комнатная квартира, 39.14 кв.м, этаж 5 из 5. ЖК «ПЛЮС Пулковский, сити-квартал» от ГК «ПСК». Рядом метро Московская, 15 мин на машине.</description>
+          </flat>
+          <flat>
+            <flat_id>487537</flat_id>
+            <apartment>24</apartment>
+            <booking>0</booking>
+            <domrf_id>0</domrf_id>
+            <floor>3</floor>
+            <room>2</room>
+            <plans>
+              <plan>https://feedhub.realty/feed-evel/plans/plan-fdea265b2938e6cd.jpg</plan>
+            </plans>
+            <price>14536988</price>
+            <discounts>
+              <discount>
+                <value>15.0</value>
+                <description>Скидка по акции</description>
+              </discount>
+            </discounts>
+            <area>50.02</area>
+            <housing_type>0</housing_type>
+            <description>2-комнатная квартира, 50.02 кв.м, этаж 3 из 5. ЖК «ПЛЮС Пулковский, сити-квартал» от ГК «ПСК». Рядом метро Московская, 15 мин на машине.</description>
+          </flat>
+          <flat>
+            <flat_id>487538</flat_id>
+            <apartment>25</apartment>
+            <booking>0</booking>
+            <domrf_id>0</domrf_id>
+            <floor>3</floor>
+            <room>2</room>
+            <plans>
+              <plan>https://feedhub.realty/feed-evel/plans/plan-9cb4d3d82a1b4461.jpg</plan>
+            </plans>
+            <price>14586394</price>
+            <discounts>
+              <discount>
+                <value>15.0</value>
+                <description>Скидка по акции</description>
+              </discount>
+            </discounts>
+            <area>50.19</area>
+            <housing_type>0</housing_type>
+            <description>2-комнатная квартира, 50.19 кв.м, этаж 3 из 5. ЖК «ПЛЮС Пулковский, сити-квартал» от ГК «ПСК». Рядом метро Московская, 15 мин на машине.</description>
+          </flat>
+          <flat>
+            <flat_id>487549</flat_id>
+            <apartment>36</apartment>
+            <booking>0</booking>
+            <domrf_id>0</domrf_id>
+            <floor>4</floor>
+            <room>2</room>
+            <plans>
+              <plan>https://feedhub.realty/feed-evel/plans/plan-fdea265b2938e6cd.jpg</plan>
+            </plans>
+            <price>14595836</price>
+            <discounts>
+              <discount>
+                <value>15.0</value>
+                <description>Скидка по акции</description>
+              </discount>
+            </discounts>
+            <area>50.02</area>
+            <housing_type>0</housing_type>
+            <description>2-комнатная квартира, 50.02 кв.м, этаж 4 из 5. ЖК «ПЛЮС Пулковский, сити-квартал» от ГК «ПСК». Рядом метро Московская, 15 мин на машине.</description>
+          </flat>
+          <flat>
+            <flat_id>487526</flat_id>
+            <apartment>13</apartment>
+            <booking>0</booking>
+            <domrf_id>0</domrf_id>
+            <floor>2</floor>
+            <room>2</room>
+            <plans>
+              <plan>https://feedhub.realty/feed-evel/plans/plan-ce85cd39e8739844.jpg</plan>
+            </plans>
+            <price>14640232</price>
+            <discounts>
+              <discount>
+                <value>15.0</value>
+                <description>Скидка по акции</description>
+              </discount>
+            </discounts>
+            <area>50.58</area>
+            <housing_type>0</housing_type>
+            <description>2-комнатная квартира, 50.58 кв.м, этаж 2 из 5. ЖК «ПЛЮС Пулковский, сити-квартал» от ГК «ПСК». Рядом метро Московская, 15 мин на машине.</description>
+          </flat>
+          <flat>
+            <flat_id>487550</flat_id>
+            <apartment>37</apartment>
+            <booking>0</booking>
+            <domrf_id>0</domrf_id>
+            <floor>4</floor>
+            <room>2</room>
+            <plans>
+              <plan>https://feedhub.realty/feed-evel/plans/plan-9cb4d3d82a1b4461.jpg</plan>
+            </plans>
+            <price>14645442</price>
+            <discounts>
+              <discount>
+                <value>15.0</value>
+                <description>Скидка по акции</description>
+              </discount>
+            </discounts>
+            <area>50.19</area>
+            <housing_type>0</housing_type>
+            <description>2-комнатная квартира, 50.19 кв.м, этаж 4 из 5. ЖК «ПЛЮС Пулковский, сити-квартал» от ГК «ПСК». Рядом метро Московская, 15 мин на машине.</description>
+          </flat>
+          <flat>
+            <flat_id>487525</flat_id>
+            <apartment>12</apartment>
+            <booking>0</booking>
+            <domrf_id>0</domrf_id>
+            <floor>2</floor>
+            <room>2</room>
+            <plans>
+              <plan>https://feedhub.realty/feed-evel/plans/plan-510bf2cfb7813de8.jpg</plan>
+            </plans>
+            <price>14695227</price>
+            <discounts>
+              <discount>
+                <value>15.0</value>
+                <description>Скидка по акции</description>
+              </discount>
+            </discounts>
+            <area>50.77</area>
+            <housing_type>0</housing_type>
+            <description>2-комнатная квартира, 50.77 кв.м, этаж 2 из 5. ЖК «ПЛЮС Пулковский, сити-квартал» от ГК «ПСК». Рядом метро Московская, 15 мин на машине.</description>
+          </flat>
+          <flat>
+            <flat_id>487561</flat_id>
+            <apartment>48</apartment>
+            <booking>0</booking>
+            <domrf_id>0</domrf_id>
+            <floor>5</floor>
+            <room>2</room>
+            <plans>
+              <plan>https://feedhub.realty/feed-evel/plans/plan-a7824af6181437fc.jpg</plan>
+            </plans>
+            <price>14991361</price>
+            <discounts>
+              <discount>
+                <value>15.0</value>
+                <description>Скидка по акции</description>
+              </discount>
+            </discounts>
+            <area>50.44</area>
+            <housing_type>0</housing_type>
+            <description>2-комнатная квартира, 50.44 кв.м, этаж 5 из 5. ЖК «ПЛЮС Пулковский, сити-квартал» от ГК «ПСК». Рядом метро Московская, 15 мин на машине.</description>
+          </flat>
+          <flat>
+            <flat_id>487562</flat_id>
+            <apartment>49</apartment>
+            <booking>0</booking>
+            <domrf_id>0</domrf_id>
+            <floor>5</floor>
+            <room>2</room>
+            <plans>
+              <plan>https://feedhub.realty/feed-evel/plans/plan-49ffd6be63b5a6dc.jpg</plan>
+            </plans>
+            <price>15041887</price>
+            <discounts>
+              <discount>
+                <value>15.0</value>
+                <description>Скидка по акции</description>
+              </discount>
+            </discounts>
+            <area>50.61</area>
+            <housing_type>0</housing_type>
+            <description>2-комнатная квартира, 50.61 кв.м, этаж 5 из 5. ЖК «ПЛЮС Пулковский, сити-квартал» от ГК «ПСК». Рядом метро Московская, 15 мин на машине.</description>
+          </flat>
+        </flats>
+      </building>
+      <building>
+        <id>0</id>
+        <name>корпус 17</name>
+        <latitude>59.747475</latitude>
+        <longitude>30.310545</longitude>
+        <address>г. Санкт-Петербург, Пулковское шоссе, 24</address>
+        <floors>5</floors>
+        <building_state>unfinished</building_state>
+        <built_year>2025</built_year>
+        <ready_quarter>4</ready_quarter>
+        <flats>
+          <flat>
+            <flat_id>487707</flat_id>
+            <apartment>23</apartment>
+            <booking>1</booking>
+            <domrf_id>0</domrf_id>
+            <floor>3</floor>
+            <room>0</room>
+            <plans>
+              <plan>https://feedhub.realty/feed-evel/plans/plan-0972f04b83ac1257.jpg</plan>
+            </plans>
+            <price>6853543</price>
+            <discounts>
+              <discount>
+                <value>15.0</value>
+                <description>Скидка по акции</description>
+              </discount>
+            </discounts>
+            <area>21.87</area>
+            <housing_type>0</housing_type>
+            <description>Студия, 21.87 кв.м, этаж 3 из 5. ЖК «ПЛЮС Пулковский, сити-квартал» от ГК «ПСК». Рядом метро Московская, 15 мин на машине.</description>
+          </flat>
+          <flat>
+            <flat_id>487769</flat_id>
+            <apartment>85</apartment>
+            <booking>1</booking>
+            <domrf_id>0</domrf_id>
+            <floor>3</floor>
+            <room>0</room>
+            <plans>
+              <plan>https://feedhub.realty/feed-evel/plans/plan-3503533c02389740.jpg</plan>
+            </plans>
+            <price>6856677</price>
+            <discounts>
+              <discount>
+                <value>15.0</value>
+                <description>Скидка по акции</description>
+              </discount>
+            </discounts>
+            <area>21.88</area>
+            <housing_type>0</housing_type>
+            <description>Студия, 21.88 кв.м, этаж 3 из 5. ЖК «ПЛЮС Пулковский, сити-квартал» от ГК «ПСК». Рядом метро Московская, 15 мин на машине.</description>
+          </flat>
+          <flat>
+            <flat_id>487720</flat_id>
+            <apartment>36</apartment>
+            <booking>0</booking>
+            <domrf_id>0</domrf_id>
+            <floor>4</floor>
+            <room>0</room>
+            <plans>
+              <plan>https://feedhub.realty/feed-evel/plans/plan-57499cfe29a1c5ae.jpg</plan>
+            </plans>
+            <price>6879272</price>
+            <discounts>
+              <discount>
+                <value>15.0</value>
+                <description>Скидка по акции</description>
+              </discount>
+            </discounts>
+            <area>21.87</area>
+            <housing_type>0</housing_type>
+            <description>Студия, 21.87 кв.м, этаж 4 из 5. ЖК «ПЛЮС Пулковский, сити-квартал» от ГК «ПСК». Рядом метро Московская, 15 мин на машине.</description>
+          </flat>
+          <flat>
+            <flat_id>487782</flat_id>
+            <apartment>98</apartment>
+            <booking>0</booking>
+            <domrf_id>0</domrf_id>
+            <floor>4</floor>
+            <room>0</room>
+            <plans>
+              <plan>https://feedhub.realty/feed-evel/plans/plan-7e0fb8c056336010.jpg</plan>
+            </plans>
+            <price>6882418</price>
+            <discounts>
+              <discount>
+                <value>15.0</value>
+                <description>Скидка по акции</description>
+              </discount>
+            </discounts>
+            <area>21.88</area>
+            <housing_type>0</housing_type>
+            <description>Студия, 21.88 кв.м, этаж 4 из 5. ЖК «ПЛЮС Пулковский, сити-квартал» от ГК «ПСК». Рядом метро Московская, 15 мин на машине.</description>
+          </flat>
+          <flat>
+            <flat_id>487694</flat_id>
+            <apartment>10</apartment>
+            <booking>0</booking>
+            <domrf_id>0</domrf_id>
+            <floor>2</floor>
+            <room>0</room>
+            <plans>
+              <plan>https://feedhub.realty/feed-evel/plans/plan-7cb1e38b98f423b0.jpg</plan>
+            </plans>
+            <price>6888529</price>
+            <discounts>
+              <discount>
+                <value>15.0</value>
+                <description>Скидка по акции</description>
+              </discount>
+            </discounts>
+            <area>22.2</area>
+            <housing_type>0</housing_type>
+            <description>Студия, 22.2 кв.м, этаж 2 из 5. ЖК «ПЛЮС Пулковский, сити-квартал» от ГК «ПСК». Рядом метро Московская, 15 мин на машине.</description>
+          </flat>
+          <flat>
+            <flat_id>487756</flat_id>
+            <apartment>72</apartment>
+            <booking>0</booking>
+            <domrf_id>0</domrf_id>
+            <floor>2</floor>
+            <room>0</room>
+            <plans>
+              <plan>https://feedhub.realty/feed-evel/plans/plan-bbd3f098d31c8067.jpg</plan>
+            </plans>
+            <price>6888529</price>
+            <discounts>
+              <discount>
+                <value>15.0</value>
+                <description>Скидка по акции</description>
+              </discount>
+            </discounts>
+            <area>22.2</area>
+            <housing_type>0</housing_type>
+            <description>Студия, 22.2 кв.м, этаж 2 из 5. ЖК «ПЛЮС Пулковский, сити-квартал» от ГК «ПСК». Рядом метро Московская, 15 мин на машине.</description>
+          </flat>
+          <flat>
+            <flat_id>487733</flat_id>
+            <apartment>49</apartment>
+            <booking>0</booking>
+            <domrf_id>0</domrf_id>
+            <floor>5</floor>
+            <room>0</room>
+            <plans>
+              <plan>https://feedhub.realty/feed-evel/plans/plan-11b310027873c3f3.jpg</plan>
+            </plans>
+            <price>6905002</price>
+            <discounts>
+              <discount>
+                <value>15.0</value>
+                <description>Скидка по акции</description>
+              </discount>
+            </discounts>
+            <area>21.87</area>
+            <housing_type>0</housing_type>
+            <description>Студия, 21.87 кв.м, этаж 5 из 5. ЖК «ПЛЮС Пулковский, сити-квартал» от ГК «ПСК». Рядом метро Московская, 15 мин на машине.</description>
+          </flat>
+          <flat>
+            <flat_id>487795</flat_id>
+            <apartment>111</apartment>
+            <booking>0</booking>
+            <domrf_id>0</domrf_id>
+            <floor>5</floor>
+            <room>0</room>
+            <plans>
+              <plan>https://feedhub.realty/feed-evel/plans/plan-afc6c30939b9bbcc.jpg</plan>
+            </plans>
+            <price>6908159</price>
+            <discounts>
+              <discount>
+                <value>15.0</value>
+                <description>Скидка по акции</description>
+              </discount>
+            </discounts>
+            <area>21.88</area>
+            <housing_type>0</housing_type>
+            <description>Студия, 21.88 кв.м, этаж 5 из 5. ЖК «ПЛЮС Пулковский, сити-квартал» от ГК «ПСК». Рядом метро Московская, 15 мин на машине.</description>
+          </flat>
+          <flat>
+            <flat_id>487704</flat_id>
+            <apartment>20</apartment>
+            <booking>0</booking>
+            <domrf_id>0</domrf_id>
+            <floor>3</floor>
+            <room>0</room>
+            <plans>
+              <plan>https://feedhub.realty/feed-evel/plans/plan-910d3109135500f6.jpg</plan>
+            </plans>
+            <price>7354782</price>
+            <discounts>
+              <discount>
+                <value>15.0</value>
+                <description>Скидка по акции</description>
+              </discount>
+            </discounts>
+            <area>25.68</area>
+            <housing_type>0</housing_type>
+            <description>Студия, 25.68 кв.м, этаж 3 из 5. ЖК «ПЛЮС Пулковский, сити-квартал» от ГК «ПСК». Рядом метро Московская, 15 мин на машине.</description>
+          </flat>
+          <flat>
+            <flat_id>487772</flat_id>
+            <apartment>88</apartment>
+            <booking>0</booking>
+            <domrf_id>0</domrf_id>
+            <floor>3</floor>
+            <room>0</room>
+            <plans>
+              <plan>https://feedhub.realty/feed-evel/plans/plan-f6422ca9132fc902.jpg</plan>
+            </plans>
+            <price>7354782</price>
+            <discounts>
+              <discount>
+                <value>15.0</value>
+                <description>Скидка по акции</description>
+              </discount>
+            </discounts>
+            <area>25.68</area>
+            <housing_type>0</housing_type>
+            <description>Студия, 25.68 кв.м, этаж 3 из 5. ЖК «ПЛЮС Пулковский, сити-квартал» от ГК «ПСК». Рядом метро Московская, 15 мин на машине.</description>
+          </flat>
+          <flat>
+            <flat_id>487717</flat_id>
+            <apartment>33</apartment>
+            <booking>0</booking>
+            <domrf_id>0</domrf_id>
+            <floor>4</floor>
+            <room>0</room>
+            <plans>
+              <plan>https://feedhub.realty/feed-evel/plans/plan-5406c72297d90607.jpg</plan>
+            </plans>
+            <price>7384993</price>
+            <discounts>
+              <discount>
+                <value>15.0</value>
+                <description>Скидка по акции</description>
+              </discount>
+            </discounts>
+            <area>25.68</area>
+            <housing_type>0</housing_type>
+            <description>Студия, 25.68 кв.м, этаж 4 из 5. ЖК «ПЛЮС Пулковский, сити-квартал» от ГК «ПСК». Рядом метро Московская, 15 мин на машине.</description>
+          </flat>
+          <flat>
+            <flat_id>487785</flat_id>
+            <apartment>101</apartment>
+            <booking>0</booking>
+            <domrf_id>0</domrf_id>
+            <floor>4</floor>
+            <room>0</room>
+            <plans>
+              <plan>https://feedhub.realty/feed-evel/plans/plan-4e907587d847291b.jpg</plan>
+            </plans>
+            <price>7384993</price>
+            <discounts>
+              <discount>
+                <value>15.0</value>
+                <description>Скидка по акции</description>
+              </discount>
+            </discounts>
+            <area>25.68</area>
+            <housing_type>0</housing_type>
+            <description>Студия, 25.68 кв.м, этаж 4 из 5. ЖК «ПЛЮС Пулковский, сити-квартал» от ГК «ПСК». Рядом метро Московская, 15 мин на машине.</description>
+          </flat>
+          <flat>
+            <flat_id>487691</flat_id>
+            <apartment>7</apartment>
+            <booking>0</booking>
+            <domrf_id>0</domrf_id>
+            <floor>2</floor>
+            <room>0</room>
+            <plans>
+              <plan>https://feedhub.realty/feed-evel/plans/plan-e56d50ff5a07a71a.jpg</plan>
+            </plans>
+            <price>7444364</price>
+            <discounts>
+              <discount>
+                <value>15.0</value>
+                <description>Скидка по акции</description>
+              </discount>
+            </discounts>
+            <area>26.1</area>
+            <housing_type>0</housing_type>
+            <description>Студия, 26.1 кв.м, этаж 2 из 5. ЖК «ПЛЮС Пулковский, сити-квартал» от ГК «ПСК». Рядом метро Московская, 15 мин на машине.</description>
+          </flat>
+          <flat>
+            <flat_id>487759</flat_id>
+            <apartment>75</apartment>
+            <booking>0</booking>
+            <domrf_id>0</domrf_id>
+            <floor>2</floor>
+            <room>0</room>
+            <plans>
+              <plan>https://feedhub.realty/feed-evel/plans/plan-c80a22c1a099a5df.jpg</plan>
+            </plans>
+            <price>7444364</price>
+            <discounts>
+              <discount>
+                <value>15.0</value>
+                <description>Скидка по акции</description>
+              </discount>
+            </discounts>
+            <area>26.1</area>
+            <housing_type>0</housing_type>
+            <description>Студия, 26.1 кв.м, этаж 2 из 5. ЖК «ПЛЮС Пулковский, сити-квартал» от ГК «ПСК». Рядом метро Московская, 15 мин на машине.</description>
+          </flat>
+          <flat>
+            <flat_id>487777</flat_id>
+            <apartment>93</apartment>
+            <booking>0</booking>
+            <domrf_id>0</domrf_id>
+            <floor>3</floor>
+            <room>0</room>
+            <plans>
+              <plan>https://feedhub.realty/feed-evel/plans/plan-08cda011e063b5fa.jpg</plan>
+            </plans>
+            <price>7539708</price>
+            <discounts>
+              <discount>
+                <value>15.0</value>
+                <description>Скидка по акции</description>
+              </discount>
+            </discounts>
+            <area>26.61</area>
+            <housing_type>0</housing_type>
+            <description>Студия, 26.61 кв.м, этаж 3 из 5. ЖК «ПЛЮС Пулковский, сити-квартал» от ГК «ПСК». Рядом метро Московская, 15 мин на машине.</description>
+          </flat>
+          <flat>
+            <flat_id>487699</flat_id>
+            <apartment>15</apartment>
+            <booking>0</booking>
+            <domrf_id>0</domrf_id>
+            <floor>3</floor>
+            <room>0</room>
+            <plans>
+              <plan>https://feedhub.realty/feed-evel/plans/plan-0480ee186608cc47.jpg</plan>
+            </plans>
+            <price>7542542</price>
+            <discounts>
+              <discount>
+                <value>15.0</value>
+                <description>Скидка по акции</description>
+              </discount>
+            </discounts>
+            <area>26.62</area>
+            <housing_type>0</housing_type>
+            <description>Студия, 26.62 кв.м, этаж 3 из 5. ЖК «ПЛЮС Пулковский, сити-квартал» от ГК «ПСК». Рядом метро Московская, 15 мин на машине.</description>
+          </flat>
+          <flat>
+            <flat_id>487790</flat_id>
+            <apartment>106</apartment>
+            <booking>0</booking>
+            <domrf_id>0</domrf_id>
+            <floor>4</floor>
+            <room>0</room>
+            <plans>
+              <plan>https://feedhub.realty/feed-evel/plans/plan-cf5c4fb2b29a4269.jpg</plan>
+            </plans>
+            <price>7571014</price>
+            <discounts>
+              <discount>
+                <value>15.0</value>
+                <description>Скидка по акции</description>
+              </discount>
+            </discounts>
+            <area>26.61</area>
+            <housing_type>0</housing_type>
+            <description>Студия, 26.61 кв.м, этаж 4 из 5. ЖК «ПЛЮС Пулковский, сити-квартал» от ГК «ПСК». Рядом метро Московская, 15 мин на машине.</description>
+          </flat>
+          <flat>
+            <flat_id>487712</flat_id>
+            <apartment>28</apartment>
+            <booking>0</booking>
+            <domrf_id>0</domrf_id>
+            <floor>4</floor>
+            <room>0</room>
+            <plans>
+              <plan>https://feedhub.realty/feed-evel/plans/plan-56157056e36c4889.jpg</plan>
+            </plans>
+            <price>7573859</price>
+            <discounts>
+              <discount>
+                <value>15.0</value>
+                <description>Скидка по акции</description>
+              </discount>
+            </discounts>
+            <area>26.62</area>
+            <housing_type>0</housing_type>
+            <description>Студия, 26.62 кв.м, этаж 4 из 5. ЖК «ПЛЮС Пулковский, сити-квартал» от ГК «ПСК». Рядом метро Московская, 15 мин на машине.</description>
+          </flat>
+          <flat>
+            <flat_id>487686</flat_id>
+            <apartment>2</apartment>
+            <booking>0</booking>
+            <domrf_id>0</domrf_id>
+            <floor>2</floor>
+            <room>0</room>
+            <plans>
+              <plan>https://feedhub.realty/feed-evel/plans/plan-a1c1bc8ca2fe4a30.jpg</plan>
+            </plans>
+            <price>7574218</price>
+            <discounts>
+              <discount>
+                <value>15.0</value>
+                <description>Скидка по акции</description>
+              </discount>
+            </discounts>
+            <area>26.95</area>
+            <housing_type>0</housing_type>
+            <description>Студия, 26.95 кв.м, этаж 2 из 5. ЖК «ПЛЮС Пулковский, сити-квартал» от ГК «ПСК». Рядом метро Московская, 15 мин на машине.</description>
+          </flat>
+          <flat>
+            <flat_id>487706</flat_id>
+            <apartment>22</apartment>
+            <booking>0</booking>
+            <domrf_id>0</domrf_id>
+            <floor>3</floor>
+            <room>0</room>
+            <plans>
+              <plan>https://feedhub.realty/feed-evel/plans/plan-f04805fa15e54920.jpg</plan>
+            </plans>
+            <price>7581842</price>
+            <discounts>
+              <discount>
+                <value>15.0</value>
+                <description>Скидка по акции</description>
+              </discount>
+            </discounts>
+            <area>26.63</area>
+            <housing_type>0</housing_type>
+            <description>Студия, 26.63 кв.м, этаж 3 из 5. ЖК «ПЛЮС Пулковский, сити-квартал» от ГК «ПСК». Рядом метро Московская, 15 мин на машине.</description>
+          </flat>
+          <flat>
+            <flat_id>487770</flat_id>
+            <apartment>86</apartment>
+            <booking>1</booking>
+            <domrf_id>0</domrf_id>
+            <floor>3</floor>
+            <room>0</room>
+            <plans>
+              <plan>https://feedhub.realty/feed-evel/plans/plan-dc688affce222f52.jpg</plan>
+            </plans>
+            <price>7581842</price>
+            <discounts>
+              <discount>
+                <value>15.0</value>
+                <description>Скидка по акции</description>
+              </discount>
+            </discounts>
+            <area>26.63</area>
+            <housing_type>0</housing_type>
+            <description>Студия, 26.63 кв.м, этаж 3 из 5. ЖК «ПЛЮС Пулковский, сити-квартал» от ГК «ПСК». Рядом метро Московская, 15 мин на машине.</description>
+          </flat>
+          <flat>
+            <flat_id>487764</flat_id>
+            <apartment>80</apartment>
+            <booking>0</booking>
+            <domrf_id>0</domrf_id>
+            <floor>2</floor>
+            <room>0</room>
+            <plans>
+              <plan>https://feedhub.realty/feed-evel/plans/plan-092705c0d99d4dc5.jpg</plan>
+            </plans>
+            <price>7582649</price>
+            <discounts>
+              <discount>
+                <value>15.0</value>
+                <description>Скидка по акции</description>
+              </discount>
+            </discounts>
+            <area>26.98</area>
+            <housing_type>0</housing_type>
+            <description>Студия, 26.98 кв.м, этаж 2 из 5. ЖК «ПЛЮС Пулковский, сити-квартал» от ГК «ПСК». Рядом метро Московская, 15 мин на машине.</description>
+          </flat>
+          <flat>
+            <flat_id>487730</flat_id>
+            <apartment>46</apartment>
+            <booking>0</booking>
+            <domrf_id>0</domrf_id>
+            <floor>5</floor>
+            <room>0</room>
+            <plans>
+              <plan>https://feedhub.realty/feed-evel/plans/plan-c3d6fd000a6365cb.jpg</plan>
+            </plans>
+            <price>7608808</price>
+            <discounts>
+              <discount>
+                <value>15.0</value>
+                <description>Скидка по акции</description>
+              </discount>
+            </discounts>
+            <area>25.98</area>
+            <housing_type>0</housing_type>
+            <description>Студия, 25.98 кв.м, этаж 5 из 5. ЖК «ПЛЮС Пулковский, сити-квартал» от ГК «ПСК». Рядом метро Московская, 15 мин на машине.</description>
+          </flat>
+          <flat>
+            <flat_id>487798</flat_id>
+            <apartment>114</apartment>
+            <booking>0</booking>
+            <domrf_id>0</domrf_id>
+            <floor>5</floor>
+            <room>0</room>
+            <plans>
+              <plan>https://feedhub.realty/feed-evel/plans/plan-8d14a13573448b06.jpg</plan>
+            </plans>
+            <price>7608808</price>
+            <discounts>
+              <discount>
+                <value>15.0</value>
+                <description>Скидка по акции</description>
+              </discount>
+            </discounts>
+            <area>25.98</area>
+            <housing_type>0</housing_type>
+            <description>Студия, 25.98 кв.м, этаж 5 из 5. ЖК «ПЛЮС Пулковский, сити-квартал» от ГК «ПСК». Рядом метро Московская, 15 мин на машине.</description>
+          </flat>
+          <flat>
+            <flat_id>487719</flat_id>
+            <apartment>35</apartment>
+            <booking>0</booking>
+            <domrf_id>0</domrf_id>
+            <floor>4</floor>
+            <room>0</room>
+            <plans>
+              <plan>https://feedhub.realty/feed-evel/plans/plan-c3c66f54243c01ef.jpg</plan>
+            </plans>
+            <price>7613172</price>
+            <discounts>
+              <discount>
+                <value>15.0</value>
+                <description>Скидка по акции</description>
+              </discount>
+            </discounts>
+            <area>26.63</area>
+            <housing_type>0</housing_type>
+            <description>Студия, 26.63 кв.м, этаж 4 из 5. ЖК «ПЛЮС Пулковский, сити-квартал» от ГК «ПСК». Рядом метро Московская, 15 мин на машине.</description>
+          </flat>
+          <flat>
+            <flat_id>487783</flat_id>
+            <apartment>99</apartment>
+            <booking>0</booking>
+            <domrf_id>0</domrf_id>
+            <floor>4</floor>
+            <room>0</room>
+            <plans>
+              <plan>https://feedhub.realty/feed-evel/plans/plan-58a9baa47ab00743.jpg</plan>
+            </plans>
+            <price>7613172</price>
+            <discounts>
+              <discount>
+                <value>15.0</value>
+                <description>Скидка по акции</description>
+              </discount>
+            </discounts>
+            <area>26.63</area>
+            <housing_type>0</housing_type>
+            <description>Студия, 26.63 кв.м, этаж 4 из 5. ЖК «ПЛЮС Пулковский, сити-квартал» от ГК «ПСК». Рядом метро Московская, 15 мин на машине.</description>
+          </flat>
+          <flat>
+            <flat_id>487693</flat_id>
+            <apartment>9</apartment>
+            <booking>0</booking>
+            <domrf_id>0</domrf_id>
+            <floor>2</floor>
+            <room>0</room>
+            <plans>
+              <plan>https://feedhub.realty/feed-evel/plans/plan-dc815e0e59821767.jpg</plan>
+            </plans>
+            <price>7613789</price>
+            <discounts>
+              <discount>
+                <value>15.0</value>
+                <description>Скидка по акции</description>
+              </discount>
+            </discounts>
+            <area>26.96</area>
+            <housing_type>0</housing_type>
+            <description>Студия, 26.96 кв.м, этаж 2 из 5. ЖК «ПЛЮС Пулковский, сити-квартал» от ГК «ПСК». Рядом метро Московская, 15 мин на машине.</description>
+          </flat>
+          <flat>
+            <flat_id>487757</flat_id>
+            <apartment>73</apartment>
+            <booking>0</booking>
+            <domrf_id>0</domrf_id>
+            <floor>2</floor>
+            <room>0</room>
+            <plans>
+              <plan>https://feedhub.realty/feed-evel/plans/plan-e02d4df6593e61a6.jpg</plan>
+            </plans>
+            <price>7616613</price>
+            <discounts>
+              <discount>
+                <value>15.0</value>
+                <description>Скидка по акции</description>
+              </discount>
+            </discounts>
+            <area>26.97</area>
+            <housing_type>0</housing_type>
+            <description>Студия, 26.97 кв.м, этаж 2 из 5. ЖК «ПЛЮС Пулковский, сити-квартал» от ГК «ПСК». Рядом метро Московская, 15 мин на машине.</description>
+          </flat>
+          <flat>
+            <flat_id>487803</flat_id>
+            <apartment>119</apartment>
+            <booking>0</booking>
+            <domrf_id>0</domrf_id>
+            <floor>5</floor>
+            <room>0</room>
+            <plans>
+              <plan>https://feedhub.realty/feed-evel/plans/plan-a247a54e34207eae.jpg</plan>
+            </plans>
+            <price>7768758</price>
+            <discounts>
+              <discount>
+                <value>15.0</value>
+                <description>Скидка по акции</description>
+              </discount>
+            </discounts>
+            <area>26.91</area>
+            <housing_type>0</housing_type>
+            <description>Студия, 26.91 кв.м, этаж 5 из 5. ЖК «ПЛЮС Пулковский, сити-квартал» от ГК «ПСК». Рядом метро Московская, 15 мин на машине.</description>
+          </flat>
+          <flat>
+            <flat_id>487725</flat_id>
+            <apartment>41</apartment>
+            <booking>0</booking>
+            <domrf_id>0</domrf_id>
+            <floor>5</floor>
+            <room>0</room>
+            <plans>
+              <plan>https://feedhub.realty/feed-evel/plans/plan-b2831cff9499d628.jpg</plan>
+            </plans>
+            <price>7771645</price>
+            <discounts>
+              <discount>
+                <value>15.0</value>
+                <description>Скидка по акции</description>
+              </discount>
+            </discounts>
+            <area>26.92</area>
+            <housing_type>0</housing_type>
+            <description>Студия, 26.92 кв.м, этаж 5 из 5. ЖК «ПЛЮС Пулковский, сити-квартал» от ГК «ПСК». Рядом метро Московская, 15 мин на машине.</description>
+          </flat>
+          <flat>
+            <flat_id>487732</flat_id>
+            <apartment>48</apartment>
+            <booking>0</booking>
+            <domrf_id>0</domrf_id>
+            <floor>5</floor>
+            <room>0</room>
+            <plans>
+              <plan>https://feedhub.realty/feed-evel/plans/plan-589e9affa1edfc47.jpg</plan>
+            </plans>
+            <price>7811252</price>
+            <discounts>
+              <discount>
+                <value>15.0</value>
+                <description>Скидка по акции</description>
+              </discount>
+            </discounts>
+            <area>26.93</area>
+            <housing_type>0</housing_type>
+            <description>Студия, 26.93 кв.м, этаж 5 из 5. ЖК «ПЛЮС Пулковский, сити-квартал» от ГК «ПСК». Рядом метро Московская, 15 мин на машине.</description>
+          </flat>
+          <flat>
+            <flat_id>487796</flat_id>
+            <apartment>112</apartment>
+            <booking>0</booking>
+            <domrf_id>0</domrf_id>
+            <floor>5</floor>
+            <room>0</room>
+            <plans>
+              <plan>https://feedhub.realty/feed-evel/plans/plan-19ed880ae6172644.jpg</plan>
+            </plans>
+            <price>7811252</price>
+            <discounts>
+              <discount>
+                <value>15.0</value>
+                <description>Скидка по акции</description>
+              </discount>
+            </discounts>
+            <area>26.93</area>
+            <housing_type>0</housing_type>
+            <description>Студия, 26.93 кв.м, этаж 5 из 5. ЖК «ПЛЮС Пулковский, сити-квартал» от ГК «ПСК». Рядом метро Московская, 15 мин на машине.</description>
+          </flat>
+          <flat>
+            <flat_id>487705</flat_id>
+            <apartment>21</apartment>
+            <booking>0</booking>
+            <domrf_id>0</domrf_id>
+            <floor>3</floor>
+            <room>0</room>
+            <plans>
+              <plan>https://feedhub.realty/feed-evel/plans/plan-b42ec524f994269c.jpg</plan>
+            </plans>
+            <price>7931877</price>
+            <discounts>
+              <discount>
+                <value>15.0</value>
+                <description>Скидка по акции</description>
+              </discount>
+            </discounts>
+            <area>27.83</area>
+            <housing_type>0</housing_type>
+            <description>Студия, 27.83 кв.м, этаж 3 из 5. ЖК «ПЛЮС Пулковский, сити-квартал» от ГК «ПСК». Рядом метро Московская, 15 мин на машине.</description>
+          </flat>
+          <flat>
+            <flat_id>487771</flat_id>
+            <apartment>87</apartment>
+            <booking>0</booking>
+            <domrf_id>0</domrf_id>
+            <floor>3</floor>
+            <room>0</room>
+            <plans>
+              <plan>https://feedhub.realty/feed-evel/plans/plan-6d5a10fe13cad134.jpg</plan>
+            </plans>
+            <price>7931877</price>
+            <discounts>
+              <discount>
+                <value>15.0</value>
+                <description>Скидка по акции</description>
+              </discount>
+            </discounts>
+            <area>27.83</area>
+            <housing_type>0</housing_type>
+            <description>Студия, 27.83 кв.м, этаж 3 из 5. ЖК «ПЛЮС Пулковский, сити-квартал» от ГК «ПСК». Рядом метро Московская, 15 мин на машине.</description>
+          </flat>
+          <flat>
+            <flat_id>487692</flat_id>
+            <apartment>8</apartment>
+            <booking>0</booking>
+            <domrf_id>0</domrf_id>
+            <floor>2</floor>
+            <room>0</room>
+            <plans>
+              <plan>https://feedhub.realty/feed-evel/plans/plan-f4bee9a821e15f90.jpg</plan>
+            </plans>
+            <price>7958170</price>
+            <discounts>
+              <discount>
+                <value>15.0</value>
+                <description>Скидка по акции</description>
+              </discount>
+            </discounts>
+            <area>28.15</area>
+            <housing_type>0</housing_type>
+            <description>Студия, 28.15 кв.м, этаж 2 из 5. ЖК «ПЛЮС Пулковский, сити-квартал» от ГК «ПСК». Рядом метро Московская, 15 мин на машине.</description>
+          </flat>
+          <flat>
+            <flat_id>487758</flat_id>
+            <apartment>74</apartment>
+            <booking>0</booking>
+            <domrf_id>0</domrf_id>
+            <floor>2</floor>
+            <room>0</room>
+            <plans>
+              <plan>https://feedhub.realty/feed-evel/plans/plan-cddf97b40e18fac9.jpg</plan>
+            </plans>
+            <price>7958170</price>
+            <discounts>
+              <discount>
+                <value>15.0</value>
+                <description>Скидка по акции</description>
+              </discount>
+            </discounts>
+            <area>28.15</area>
+            <housing_type>0</housing_type>
+            <description>Студия, 28.15 кв.м, этаж 2 из 5. ЖК «ПЛЮС Пулковский, сити-квартал» от ГК «ПСК». Рядом метро Московская, 15 мин на машине.</description>
+          </flat>
+          <flat>
+            <flat_id>487718</flat_id>
+            <apartment>34</apartment>
+            <booking>0</booking>
+            <domrf_id>0</domrf_id>
+            <floor>4</floor>
+            <room>0</room>
+            <plans>
+              <plan>https://feedhub.realty/feed-evel/plans/plan-6215def8fe09c428.jpg</plan>
+            </plans>
+            <price>7964618</price>
+            <discounts>
+              <discount>
+                <value>15.0</value>
+                <description>Скидка по акции</description>
+              </discount>
+            </discounts>
+            <area>27.83</area>
+            <housing_type>0</housing_type>
+            <description>Студия, 27.83 кв.м, этаж 4 из 5. ЖК «ПЛЮС Пулковский, сити-квартал» от ГК «ПСК». Рядом метро Московская, 15 мин на машине.</description>
+          </flat>
+          <flat>
+            <flat_id>487784</flat_id>
+            <apartment>100</apartment>
+            <booking>0</booking>
+            <domrf_id>0</domrf_id>
+            <floor>4</floor>
+            <room>0</room>
+            <plans>
+              <plan>https://feedhub.realty/feed-evel/plans/plan-b797ed0e235911e6.jpg</plan>
+            </plans>
+            <price>7964618</price>
+            <discounts>
+              <discount>
+                <value>15.0</value>
+                <description>Скидка по акции</description>
+              </discount>
+            </discounts>
+            <area>27.83</area>
+            <housing_type>0</housing_type>
+            <description>Студия, 27.83 кв.м, этаж 4 из 5. ЖК «ПЛЮС Пулковский, сити-квартал» от ГК «ПСК». Рядом метро Московская, 15 мин на машине.</description>
+          </flat>
+          <flat>
+            <flat_id>487731</flat_id>
+            <apartment>47</apartment>
+            <booking>0</booking>
+            <domrf_id>0</domrf_id>
+            <floor>5</floor>
+            <room>0</room>
+            <plans>
+              <plan>https://feedhub.realty/feed-evel/plans/plan-4ce460ee3428ad19.jpg</plan>
+            </plans>
+            <price>7997359</price>
+            <discounts>
+              <discount>
+                <value>15.0</value>
+                <description>Скидка по акции</description>
+              </discount>
+            </discounts>
+            <area>27.83</area>
+            <housing_type>0</housing_type>
+            <description>Студия, 27.83 кв.м, этаж 5 из 5. ЖК «ПЛЮС Пулковский, сити-квартал» от ГК «ПСК». Рядом метро Московская, 15 мин на машине.</description>
+          </flat>
+          <flat>
+            <flat_id>487797</flat_id>
+            <apartment>113</apartment>
+            <booking>0</booking>
+            <domrf_id>0</domrf_id>
+            <floor>5</floor>
+            <room>0</room>
+            <plans>
+              <plan>https://feedhub.realty/feed-evel/plans/plan-edecb1d5b67b1b93.jpg</plan>
+            </plans>
+            <price>7997359</price>
+            <discounts>
+              <discount>
+                <value>15.0</value>
+                <description>Скидка по акции</description>
+              </discount>
+            </discounts>
+            <area>27.83</area>
+            <housing_type>0</housing_type>
+            <description>Студия, 27.83 кв.м, этаж 5 из 5. ЖК «ПЛЮС Пулковский, сити-квартал» от ГК «ПСК». Рядом метро Московская, 15 мин на машине.</description>
+          </flat>
+          <flat>
+            <flat_id>487743</flat_id>
+            <apartment>59</apartment>
+            <booking>0</booking>
+            <domrf_id>0</domrf_id>
+            <floor>3</floor>
+            <room>1</room>
+            <plans>
+              <plan>https://feedhub.realty/feed-evel/plans/plan-a9b0d3c1de372a9c.jpg</plan>
+            </plans>
+            <price>9653477</price>
+            <discounts>
+              <discount>
+                <value>15.0</value>
+                <description>Скидка по акции</description>
+              </discount>
+            </discounts>
+            <area>32.72</area>
+            <housing_type>0</housing_type>
+            <description>1-комнатная квартира, 32.72 кв.м, этаж 3 из 5. ЖК «ПЛЮС Пулковский, сити-квартал» от ГК «ПСК». Рядом метро Московская, 15 мин на машине.</description>
+          </flat>
+          <flat>
+            <flat_id>487742</flat_id>
+            <apartment>58</apartment>
+            <booking>0</booking>
+            <domrf_id>0</domrf_id>
+            <floor>3</floor>
+            <room>1</room>
+            <plans>
+              <plan>https://feedhub.realty/feed-evel/plans/plan-042145826f42c14f.jpg</plan>
+            </plans>
+            <price>9671179</price>
+            <discounts>
+              <discount>
+                <value>15.0</value>
+                <description>Скидка по акции</description>
+              </discount>
+            </discounts>
+            <area>32.78</area>
+            <housing_type>0</housing_type>
+            <description>1-комнатная квартира, 32.78 кв.м, этаж 3 из 5. ЖК «ПЛЮС Пулковский, сити-квартал» от ГК «ПСК». Рядом метро Московская, 15 мин на машине.</description>
+          </flat>
+          <flat>
+            <flat_id>487747</flat_id>
+            <apartment>63</apartment>
+            <booking>0</booking>
+            <domrf_id>0</domrf_id>
+            <floor>4</floor>
+            <room>1</room>
+            <plans>
+              <plan>https://feedhub.realty/feed-evel/plans/plan-fb6cf4938402b4de.jpg</plan>
+            </plans>
+            <price>9691971</price>
+            <discounts>
+              <discount>
+                <value>15.0</value>
+                <description>Скидка по акции</description>
+              </discount>
+            </discounts>
+            <area>32.72</area>
+            <housing_type>0</housing_type>
+            <description>1-комнатная квартира, 32.72 кв.м, этаж 4 из 5. ЖК «ПЛЮС Пулковский, сити-квартал» от ГК «ПСК». Рядом метро Московская, 15 мин на машине.</description>
+          </flat>
+          <flat>
+            <flat_id>487746</flat_id>
+            <apartment>62</apartment>
+            <booking>0</booking>
+            <domrf_id>0</domrf_id>
+            <floor>4</floor>
+            <room>1</room>
+            <plans>
+              <plan>https://feedhub.realty/feed-evel/plans/plan-b013cc92cfb94df4.jpg</plan>
+            </plans>
+            <price>9709744</price>
+            <discounts>
+              <discount>
+                <value>15.0</value>
+                <description>Скидка по акции</description>
+              </discount>
+            </discounts>
+            <area>32.78</area>
+            <housing_type>0</housing_type>
+            <description>1-комнатная квартира, 32.78 кв.м, этаж 4 из 5. ЖК «ПЛЮС Пулковский, сити-квартал» от ГК «ПСК». Рядом метро Московская, 15 мин на машине.</description>
+          </flat>
+          <flat>
+            <flat_id>487738</flat_id>
+            <apartment>54</apartment>
+            <booking>0</booking>
+            <domrf_id>0</domrf_id>
+            <floor>2</floor>
+            <room>1</room>
+            <plans>
+              <plan>https://feedhub.realty/feed-evel/plans/plan-092e8cb0719806ae.jpg</plan>
+            </plans>
+            <price>9822915</price>
+            <discounts>
+              <discount>
+                <value>15.0</value>
+                <description>Скидка по акции</description>
+              </discount>
+            </discounts>
+            <area>33.7</area>
+            <housing_type>0</housing_type>
+            <description>1-комнатная квартира, 33.7 кв.м, этаж 2 из 5. ЖК «ПЛЮС Пулковский, сити-квартал» от ГК «ПСК». Рядом метро Московская, 15 мин на машине.</description>
+          </flat>
+          <flat>
+            <flat_id>487739</flat_id>
+            <apartment>55</apartment>
+            <booking>0</booking>
+            <domrf_id>0</domrf_id>
+            <floor>2</floor>
+            <room>1</room>
+            <plans>
+              <plan>https://feedhub.realty/feed-evel/plans/plan-8da715f6d0019abc.jpg</plan>
+            </plans>
+            <price>9822915</price>
+            <discounts>
+              <discount>
+                <value>15.0</value>
+                <description>Скидка по акции</description>
+              </discount>
+            </discounts>
+            <area>33.7</area>
+            <housing_type>0</housing_type>
+            <description>1-комнатная квартира, 33.7 кв.м, этаж 2 из 5. ЖК «ПЛЮС Пулковский, сити-квартал» от ГК «ПСК». Рядом метро Московская, 15 мин на машине.</description>
+          </flat>
+          <flat>
+            <flat_id>487768</flat_id>
+            <apartment>84</apartment>
+            <booking>0</booking>
+            <domrf_id>0</domrf_id>
+            <floor>3</floor>
+            <room>1</room>
+            <plans>
+              <plan>https://feedhub.realty/feed-evel/plans/plan-cac1737a52e48250.jpg</plan>
+            </plans>
+            <price>10122428</price>
+            <discounts>
+              <discount>
+                <value>15.0</value>
+                <description>Скидка по акции</description>
+              </discount>
+            </discounts>
+            <area>35.02</area>
+            <housing_type>0</housing_type>
+            <description>1-комнатная квартира, 35.02 кв.м, этаж 3 из 5. ЖК «ПЛЮС Пулковский, сити-квартал» от ГК «ПСК». Рядом метро Московская, 15 мин на машине.</description>
+          </flat>
+          <flat>
+            <flat_id>487708</flat_id>
+            <apartment>24</apartment>
+            <booking>0</booking>
+            <domrf_id>0</domrf_id>
+            <floor>3</floor>
+            <room>1</room>
+            <plans>
+              <plan>https://feedhub.realty/feed-evel/plans/plan-a64849c7740af9c2.jpg</plan>
+            </plans>
+            <price>10125318</price>
+            <discounts>
+              <discount>
+                <value>15.0</value>
+                <description>Скидка по акции</description>
+              </discount>
+            </discounts>
+            <area>35.03</area>
+            <housing_type>0</housing_type>
+            <description>1-комнатная квартира, 35.03 кв.м, этаж 3 из 5. ЖК «ПЛЮС Пулковский, сити-квартал» от ГК «ПСК». Рядом метро Московская, 15 мин на машине.</description>
+          </flat>
+          <flat>
+            <flat_id>487700</flat_id>
+            <apartment>16</apartment>
+            <booking>0</booking>
+            <domrf_id>0</domrf_id>
+            <floor>3</floor>
+            <room>1</room>
+            <plans>
+              <plan>https://feedhub.realty/feed-evel/plans/plan-8473dc8a15a7f5ff.jpg</plan>
+            </plans>
+            <price>10154223</price>
+            <discounts>
+              <discount>
+                <value>15.0</value>
+                <description>Скидка по акции</description>
+              </discount>
+            </discounts>
+            <area>35.13</area>
+            <housing_type>0</housing_type>
+            <description>1-комнатная квартира, 35.13 кв.м, этаж 3 из 5. ЖК «ПЛЮС Пулковский, сити-квартал» от ГК «ПСК». Рядом метро Московская, 15 мин на машине.</description>
+          </flat>
+          <flat>
+            <flat_id>487776</flat_id>
+            <apartment>92</apartment>
+            <booking>0</booking>
+            <domrf_id>0</domrf_id>
+            <floor>3</floor>
+            <room>1</room>
+            <plans>
+              <plan>https://feedhub.realty/feed-evel/plans/plan-3cd0d09ba4516acf.jpg</plan>
+            </plans>
+            <price>10154223</price>
+            <discounts>
+              <discount>
+                <value>15.0</value>
+                <description>Скидка по акции</description>
+              </discount>
+            </discounts>
+            <area>35.13</area>
+            <housing_type>0</housing_type>
+            <description>1-комнатная квартира, 35.13 кв.м, этаж 3 из 5. ЖК «ПЛЮС Пулковский, сити-квартал» от ГК «ПСК». Рядом метро Московская, 15 мин на машине.</description>
+          </flat>
+          <flat>
+            <flat_id>487781</flat_id>
+            <apartment>97</apartment>
+            <booking>0</booking>
+            <domrf_id>0</domrf_id>
+            <floor>4</floor>
+            <room>1</room>
+            <plans>
+              <plan>https://feedhub.realty/feed-evel/plans/plan-6f51b3e6f1b73a0e.jpg</plan>
+            </plans>
+            <price>10163628</price>
+            <discounts>
+              <discount>
+                <value>15.0</value>
+                <description>Скидка по акции</description>
+              </discount>
+            </discounts>
+            <area>35.02</area>
+            <housing_type>0</housing_type>
+            <description>1-комнатная квартира, 35.02 кв.м, этаж 4 из 5. ЖК «ПЛЮС Пулковский, сити-квартал» от ГК «ПСК». Рядом метро Московская, 15 мин на машине.</description>
+          </flat>
+          <flat>
+            <flat_id>487721</flat_id>
+            <apartment>37</apartment>
+            <booking>0</booking>
+            <domrf_id>0</domrf_id>
+            <floor>4</floor>
+            <room>1</room>
+            <plans>
+              <plan>https://feedhub.realty/feed-evel/plans/plan-83a0f833ed7ccbec.jpg</plan>
+            </plans>
+            <price>10166530</price>
+            <discounts>
+              <discount>
+                <value>15.0</value>
+                <description>Скидка по акции</description>
+              </discount>
+            </discounts>
+            <area>35.03</area>
+            <housing_type>0</housing_type>
+            <description>1-комнатная квартира, 35.03 кв.м, этаж 4 из 5. ЖК «ПЛЮС Пулковский, сити-квартал» от ГК «ПСК». Рядом метро Московская, 15 мин на машине.</description>
+          </flat>
+          <flat>
+            <flat_id>487703</flat_id>
+            <apartment>19</apartment>
+            <booking>0</booking>
+            <domrf_id>0</domrf_id>
+            <floor>3</floor>
+            <room>1</room>
+            <plans>
+              <plan>https://feedhub.realty/feed-evel/plans/plan-ec9d779f23833a6b.jpg</plan>
+            </plans>
+            <price>10186018</price>
+            <discounts>
+              <discount>
+                <value>15.0</value>
+                <description>Скидка по акции</description>
+              </discount>
+            </discounts>
+            <area>35.24</area>
+            <housing_type>0</housing_type>
+            <description>1-комнатная квартира, 35.24 кв.м, этаж 3 из 5. ЖК «ПЛЮС Пулковский, сити-квартал» от ГК «ПСК». Рядом метро Московская, 15 мин на машине.</description>
+          </flat>
+          <flat>
+            <flat_id>487773</flat_id>
+            <apartment>89</apartment>
+            <booking>0</booking>
+            <domrf_id>0</domrf_id>
+            <floor>3</floor>
+            <room>1</room>
+            <plans>
+              <plan>https://feedhub.realty/feed-evel/plans/plan-17aed46a82402a1c.jpg</plan>
+            </plans>
+            <price>10186018</price>
+            <discounts>
+              <discount>
+                <value>15.0</value>
+                <description>Скидка по акции</description>
+              </discount>
+            </discounts>
+            <area>35.24</area>
+            <housing_type>0</housing_type>
+            <description>1-комнатная квартира, 35.24 кв.м, этаж 3 из 5. ЖК «ПЛЮС Пулковский, сити-квартал» от ГК «ПСК». Рядом метро Московская, 15 мин на машине.</description>
+          </flat>
+          <flat>
+            <flat_id>487713</flat_id>
+            <apartment>29</apartment>
+            <booking>0</booking>
+            <domrf_id>0</domrf_id>
+            <floor>4</floor>
+            <room>1</room>
+            <plans>
+              <plan>https://feedhub.realty/feed-evel/plans/plan-46fd8309e5c55fe6.jpg</plan>
+            </plans>
+            <price>10195552</price>
+            <discounts>
+              <discount>
+                <value>15.0</value>
+                <description>Скидка по акции</description>
+              </discount>
+            </discounts>
+            <area>35.13</area>
+            <housing_type>0</housing_type>
+            <description>1-комнатная квартира, 35.13 кв.м, этаж 4 из 5. ЖК «ПЛЮС Пулковский, сити-квартал» от ГК «ПСК». Рядом метро Московская, 15 мин на машине.</description>
+          </flat>
+          <flat>
+            <flat_id>487789</flat_id>
+            <apartment>105</apartment>
+            <booking>0</booking>
+            <domrf_id>0</domrf_id>
+            <floor>4</floor>
+            <room>1</room>
+            <plans>
+              <plan>https://feedhub.realty/feed-evel/plans/plan-c931e1daa6479e2e.jpg</plan>
+            </plans>
+            <price>10195552</price>
+            <discounts>
+              <discount>
+                <value>15.0</value>
+                <description>Скидка по акции</description>
+              </discount>
+            </discounts>
+            <area>35.13</area>
+            <housing_type>0</housing_type>
+            <description>1-комнатная квартира, 35.13 кв.м, этаж 4 из 5. ЖК «ПЛЮС Пулковский, сити-квартал» от ГК «ПСК». Рядом метро Московская, 15 мин на машине.</description>
+          </flat>
+          <flat>
+            <flat_id>487794</flat_id>
+            <apartment>110</apartment>
+            <booking>0</booking>
+            <domrf_id>0</domrf_id>
+            <floor>5</floor>
+            <room>1</room>
+            <plans>
+              <plan>https://feedhub.realty/feed-evel/plans/plan-5a4f0c71d667a450.jpg</plan>
+            </plans>
+            <price>10204828</price>
+            <discounts>
+              <discount>
+                <value>15.0</value>
+                <description>Скидка по акции</description>
+              </discount>
+            </discounts>
+            <area>35.02</area>
+            <housing_type>0</housing_type>
+            <description>1-комнатная квартира, 35.02 кв.м, этаж 5 из 5. ЖК «ПЛЮС Пулковский, сити-квартал» от ГК «ПСК». Рядом метро Московская, 15 мин на машине.</description>
+          </flat>
+          <flat>
+            <flat_id>487734</flat_id>
+            <apartment>50</apartment>
+            <booking>0</booking>
+            <domrf_id>0</domrf_id>
+            <floor>5</floor>
+            <room>1</room>
+            <plans>
+              <plan>https://feedhub.realty/feed-evel/plans/plan-54188207272a9278.jpg</plan>
+            </plans>
+            <price>10207742</price>
+            <discounts>
+              <discount>
+                <value>15.0</value>
+                <description>Скидка по акции</description>
+              </discount>
+            </discounts>
+            <area>35.03</area>
+            <housing_type>0</housing_type>
+            <description>1-комнатная квартира, 35.03 кв.м, этаж 5 из 5. ЖК «ПЛЮС Пулковский, сити-квартал» от ГК «ПСК». Рядом метро Московская, 15 мин на машине.</description>
+          </flat>
+          <flat>
+            <flat_id>487687</flat_id>
+            <apartment>3</apartment>
+            <booking>0</booking>
+            <domrf_id>0</domrf_id>
+            <floor>2</floor>
+            <room>1</room>
+            <plans>
+              <plan>https://feedhub.realty/feed-evel/plans/plan-8c2eb7a10b3ce8de.jpg</plan>
+            </plans>
+            <price>10225163</price>
+            <discounts>
+              <discount>
+                <value>15.0</value>
+                <description>Скидка по акции</description>
+              </discount>
+            </discounts>
+            <area>35.52</area>
+            <housing_type>0</housing_type>
+            <description>1-комнатная квартира, 35.52 кв.м, этаж 2 из 5. ЖК «ПЛЮС Пулковский, сити-квартал» от ГК «ПСК». Рядом метро Московская, 15 мин на машине.</description>
+          </flat>
+          <flat>
+            <flat_id>487716</flat_id>
+            <apartment>32</apartment>
+            <booking>0</booking>
+            <domrf_id>0</domrf_id>
+            <floor>4</floor>
+            <room>1</room>
+            <plans>
+              <plan>https://feedhub.realty/feed-evel/plans/plan-4161fa1709898c2a.jpg</plan>
+            </plans>
+            <price>10227477</price>
+            <discounts>
+              <discount>
+                <value>15.0</value>
+                <description>Скидка по акции</description>
+              </discount>
+            </discounts>
+            <area>35.24</area>
+            <housing_type>0</housing_type>
+            <description>1-комнатная квартира, 35.24 кв.м, этаж 4 из 5. ЖК «ПЛЮС Пулковский, сити-квартал» от ГК «ПСК». Рядом метро Московская, 15 мин на машине.</description>
+          </flat>
+          <flat>
+            <flat_id>487786</flat_id>
+            <apartment>102</apartment>
+            <booking>0</booking>
+            <domrf_id>0</domrf_id>
+            <floor>4</floor>
+            <room>1</room>
+            <plans>
+              <plan>https://feedhub.realty/feed-evel/plans/plan-bb0dbf81f005972a.jpg</plan>
+            </plans>
+            <price>10227477</price>
+            <discounts>
+              <discount>
+                <value>15.0</value>
+                <description>Скидка по акции</description>
+              </discount>
+            </discounts>
+            <area>35.24</area>
+            <housing_type>0</housing_type>
+            <description>1-комнатная квартира, 35.24 кв.м, этаж 4 из 5. ЖК «ПЛЮС Пулковский, сити-квартал» от ГК «ПСК». Рядом метро Московская, 15 мин на машине.</description>
+          </flat>
+          <flat>
+            <flat_id>487726</flat_id>
+            <apartment>42</apartment>
+            <booking>0</booking>
+            <domrf_id>0</domrf_id>
+            <floor>5</floor>
+            <room>1</room>
+            <plans>
+              <plan>https://feedhub.realty/feed-evel/plans/plan-4b26490f742c4b32.jpg</plan>
+            </plans>
+            <price>10233968</price>
+            <discounts>
+              <discount>
+                <value>15.0</value>
+                <description>Скидка по акции</description>
+              </discount>
+            </discounts>
+            <area>35.12</area>
+            <housing_type>0</housing_type>
+            <description>1-комнатная квартира, 35.12 кв.м, этаж 5 из 5. ЖК «ПЛЮС Пулковский, сити-квартал» от ГК «ПСК». Рядом метро Московская, 15 мин на машине.</description>
+          </flat>
+          <flat>
+            <flat_id>487802</flat_id>
+            <apartment>118</apartment>
+            <booking>0</booking>
+            <domrf_id>0</domrf_id>
+            <floor>5</floor>
+            <room>1</room>
+            <plans>
+              <plan>https://feedhub.realty/feed-evel/plans/plan-daa765c8995759bf.jpg</plan>
+            </plans>
+            <price>10236882</price>
+            <discounts>
+              <discount>
+                <value>15.0</value>
+                <description>Скидка по акции</description>
+              </discount>
+            </discounts>
+            <area>35.13</area>
+            <housing_type>0</housing_type>
+            <description>1-комнатная квартира, 35.13 кв.м, этаж 5 из 5. ЖК «ПЛЮС Пулковский, сити-квартал» от ГК «ПСК». Рядом метро Московская, 15 мин на машине.</description>
+          </flat>
+          <flat>
+            <flat_id>487729</flat_id>
+            <apartment>45</apartment>
+            <booking>0</booking>
+            <domrf_id>0</domrf_id>
+            <floor>5</floor>
+            <room>1</room>
+            <plans>
+              <plan>https://feedhub.realty/feed-evel/plans/plan-825accc62e9708b2.jpg</plan>
+            </plans>
+            <price>10268936</price>
+            <discounts>
+              <discount>
+                <value>15.0</value>
+                <description>Скидка по акции</description>
+              </discount>
+            </discounts>
+            <area>35.24</area>
+            <housing_type>0</housing_type>
+            <description>1-комнатная квартира, 35.24 кв.м, этаж 5 из 5. ЖК «ПЛЮС Пулковский, сити-квартал» от ГК «ПСК». Рядом метро Московская, 15 мин на машине.</description>
+          </flat>
+          <flat>
+            <flat_id>487799</flat_id>
+            <apartment>115</apartment>
+            <booking>0</booking>
+            <domrf_id>0</domrf_id>
+            <floor>5</floor>
+            <room>1</room>
+            <plans>
+              <plan>https://feedhub.realty/feed-evel/plans/plan-c71c722329f17968.jpg</plan>
+            </plans>
+            <price>10268936</price>
+            <discounts>
+              <discount>
+                <value>15.0</value>
+                <description>Скидка по акции</description>
+              </discount>
+            </discounts>
+            <area>35.24</area>
+            <housing_type>0</housing_type>
+            <description>1-комнатная квартира, 35.24 кв.м, этаж 5 из 5. ЖК «ПЛЮС Пулковский, сити-квартал» от ГК «ПСК». Рядом метро Московская, 15 мин на машине.</description>
+          </flat>
+          <flat>
+            <flat_id>487695</flat_id>
+            <apartment>11</apartment>
+            <booking>0</booking>
+            <domrf_id>0</domrf_id>
+            <floor>2</floor>
+            <room>1</room>
+            <plans>
+              <plan>https://feedhub.realty/feed-evel/plans/plan-221450c7619577b0.jpg</plan>
+            </plans>
+            <price>10276980</price>
+            <discounts>
+              <discount>
+                <value>15.0</value>
+                <description>Скидка по акции</description>
+              </discount>
+            </discounts>
+            <area>35.7</area>
+            <housing_type>0</housing_type>
+            <description>1-комнатная квартира, 35.7 кв.м, этаж 2 из 5. ЖК «ПЛЮС Пулковский, сити-квартал» от ГК «ПСК». Рядом метро Московская, 15 мин на машине.</description>
+          </flat>
+          <flat>
+            <flat_id>487755</flat_id>
+            <apartment>71</apartment>
+            <booking>0</booking>
+            <domrf_id>0</domrf_id>
+            <floor>2</floor>
+            <room>1</room>
+            <plans>
+              <plan>https://feedhub.realty/feed-evel/plans/plan-3e2d07ef244775ba.jpg</plan>
+            </plans>
+            <price>10282737</price>
+            <discounts>
+              <discount>
+                <value>15.0</value>
+                <description>Скидка по акции</description>
+              </discount>
+            </discounts>
+            <area>35.72</area>
+            <housing_type>0</housing_type>
+            <description>1-комнатная квартира, 35.72 кв.м, этаж 2 из 5. ЖК «ПЛЮС Пулковский, сити-квартал» от ГК «ПСК». Рядом метро Московская, 15 мин на машине.</description>
+          </flat>
+          <flat>
+            <flat_id>487690</flat_id>
+            <apartment>6</apartment>
+            <booking>0</booking>
+            <domrf_id>0</domrf_id>
+            <floor>2</floor>
+            <room>1</room>
+            <plans>
+              <plan>https://feedhub.realty/feed-evel/plans/plan-dbe9805a51fa94bf.jpg</plan>
+            </plans>
+            <price>10291373</price>
+            <discounts>
+              <discount>
+                <value>15.0</value>
+                <description>Скидка по акции</description>
+              </discount>
+            </discounts>
+            <area>35.75</area>
+            <housing_type>0</housing_type>
+            <description>1-комнатная квартира, 35.75 кв.м, этаж 2 из 5. ЖК «ПЛЮС Пулковский, сити-квартал» от ГК «ПСК». Рядом метро Московская, 15 мин на машине.</description>
+          </flat>
+          <flat>
+            <flat_id>487763</flat_id>
+            <apartment>79</apartment>
+            <booking>0</booking>
+            <domrf_id>0</domrf_id>
+            <floor>2</floor>
+            <room>1</room>
+            <plans>
+              <plan>https://feedhub.realty/feed-evel/plans/plan-bc890f36b0221fc8.jpg</plan>
+            </plans>
+            <price>10334554</price>
+            <discounts>
+              <discount>
+                <value>15.0</value>
+                <description>Скидка по акции</description>
+              </discount>
+            </discounts>
+            <area>35.9</area>
+            <housing_type>0</housing_type>
+            <description>1-комнатная квартира, 35.9 кв.м, этаж 2 из 5. ЖК «ПЛЮС Пулковский, сити-квартал» от ГК «ПСК». Рядом метро Московская, 15 мин на машине.</description>
+          </flat>
+          <flat>
+            <flat_id>487760</flat_id>
+            <apartment>76</apartment>
+            <booking>0</booking>
+            <domrf_id>0</domrf_id>
+            <floor>2</floor>
+            <room>1</room>
+            <plans>
+              <plan>https://feedhub.realty/feed-evel/plans/plan-288f7096b8751303.jpg</plan>
+            </plans>
+            <price>10363341</price>
+            <discounts>
+              <discount>
+                <value>15.0</value>
+                <description>Скидка по акции</description>
+              </discount>
+            </discounts>
+            <area>36.0</area>
+            <housing_type>0</housing_type>
+            <description>1-комнатная квартира, 36.0 кв.м, этаж 2 из 5. ЖК «ПЛЮС Пулковский, сити-квартал» от ГК «ПСК». Рядом метро Московская, 15 мин на машине.</description>
+          </flat>
+          <flat>
+            <flat_id>487751</flat_id>
+            <apartment>67</apartment>
+            <booking>0</booking>
+            <domrf_id>0</domrf_id>
+            <floor>5</floor>
+            <room>1</room>
+            <plans>
+              <plan>https://feedhub.realty/feed-evel/plans/plan-bfd75ff938686b64.jpg</plan>
+            </plans>
+            <price>10420625</price>
+            <discounts>
+              <discount>
+                <value>15.0</value>
+                <description>Скидка по акции</description>
+              </discount>
+            </discounts>
+            <area>35.59</area>
+            <housing_type>0</housing_type>
+            <description>1-комнатная квартира, 35.59 кв.м, этаж 5 из 5. ЖК «ПЛЮС Пулковский, сити-квартал» от ГК «ПСК». Рядом метро Московская, 15 мин на машине.</description>
+          </flat>
+          <flat>
+            <flat_id>487750</flat_id>
+            <apartment>66</apartment>
+            <booking>0</booking>
+            <domrf_id>0</domrf_id>
+            <floor>5</floor>
+            <room>1</room>
+            <plans>
+              <plan>https://feedhub.realty/feed-evel/plans/plan-0aff2312244bfe85.jpg</plan>
+            </plans>
+            <price>10438190</price>
+            <discounts>
+              <discount>
+                <value>15.0</value>
+                <description>Скидка по акции</description>
+              </discount>
+            </discounts>
+            <area>35.65</area>
+            <housing_type>0</housing_type>
+            <description>1-комнатная квартира, 35.65 кв.м, этаж 5 из 5. ЖК «ПЛЮС Пулковский, сити-квартал» от ГК «ПСК». Рядом метро Московская, 15 мин на машине.</description>
+          </flat>
+          <flat>
+            <flat_id>487778</flat_id>
+            <apartment>94</apartment>
+            <booking>0</booking>
+            <domrf_id>0</domrf_id>
+            <floor>3</floor>
+            <room>1</room>
+            <plans>
+              <plan>https://feedhub.realty/feed-evel/plans/plan-f51d3ffbc36f9432.jpg</plan>
+            </plans>
+            <price>10597109</price>
+            <discounts>
+              <discount>
+                <value>15.0</value>
+                <description>Скидка по акции</description>
+              </discount>
+            </discounts>
+            <area>37.85</area>
+            <housing_type>0</housing_type>
+            <description>1-комнатная квартира, 37.85 кв.м, этаж 3 из 5. ЖК «ПЛЮС Пулковский, сити-квартал» от ГК «ПСК». Рядом метро Московская, 15 мин на машине.</description>
+          </flat>
+          <flat>
+            <flat_id>487698</flat_id>
+            <apartment>14</apartment>
+            <booking>0</booking>
+            <domrf_id>0</domrf_id>
+            <floor>3</floor>
+            <room>1</room>
+            <plans>
+              <plan>https://feedhub.realty/feed-evel/plans/plan-9ce19aefda51fcf3.jpg</plan>
+            </plans>
+            <price>10599909</price>
+            <discounts>
+              <discount>
+                <value>15.0</value>
+                <description>Скидка по акции</description>
+              </discount>
+            </discounts>
+            <area>37.86</area>
+            <housing_type>0</housing_type>
+            <description>1-комнатная квартира, 37.86 кв.м, этаж 3 из 5. ЖК «ПЛЮС Пулковский, сити-квартал» от ГК «ПСК». Рядом метро Московская, 15 мин на машине.</description>
+          </flat>
+          <flat>
+            <flat_id>487685</flat_id>
+            <apartment>1</apartment>
+            <booking>0</booking>
+            <domrf_id>0</domrf_id>
+            <floor>2</floor>
+            <room>1</room>
+            <plans>
+              <plan>https://feedhub.realty/feed-evel/plans/plan-8adf2466401633ab.jpg</plan>
+            </plans>
+            <price>10623472</price>
+            <discounts>
+              <discount>
+                <value>15.0</value>
+                <description>Скидка по акции</description>
+              </discount>
+            </discounts>
+            <area>38.18</area>
+            <housing_type>0</housing_type>
+            <description>1-комнатная квартира, 38.18 кв.м, этаж 2 из 5. ЖК «ПЛЮС Пулковский, сити-квартал» от ГК «ПСК». Рядом метро Московская, 15 мин на машине.</description>
+          </flat>
+          <flat>
+            <flat_id>487765</flat_id>
+            <apartment>81</apartment>
+            <booking>0</booking>
+            <domrf_id>0</domrf_id>
+            <floor>2</floor>
+            <room>1</room>
+            <plans>
+              <plan>https://feedhub.realty/feed-evel/plans/plan-69e27e5a6809b142.jpg</plan>
+            </plans>
+            <price>10623472</price>
+            <discounts>
+              <discount>
+                <value>15.0</value>
+                <description>Скидка по акции</description>
+              </discount>
+            </discounts>
+            <area>38.18</area>
+            <housing_type>0</housing_type>
+            <description>1-комнатная квартира, 38.18 кв.м, этаж 2 из 5. ЖК «ПЛЮС Пулковский, сити-квартал» от ГК «ПСК». Рядом метро Московская, 15 мин на машине.</description>
+          </flat>
+          <flat>
+            <flat_id>487791</flat_id>
+            <apartment>107</apartment>
+            <booking>0</booking>
+            <domrf_id>0</domrf_id>
+            <floor>4</floor>
+            <room>1</room>
+            <plans>
+              <plan>https://feedhub.realty/feed-evel/plans/plan-3c7cca275ad360fc.jpg</plan>
+            </plans>
+            <price>10641638</price>
+            <discounts>
+              <discount>
+                <value>15.0</value>
+                <description>Скидка по акции</description>
+              </discount>
+            </discounts>
+            <area>37.85</area>
+            <housing_type>0</housing_type>
+            <description>1-комнатная квартира, 37.85 кв.м, этаж 4 из 5. ЖК «ПЛЮС Пулковский, сити-квартал» от ГК «ПСК». Рядом метро Московская, 15 мин на машине.</description>
+          </flat>
+          <flat>
+            <flat_id>487711</flat_id>
+            <apartment>27</apartment>
+            <booking>0</booking>
+            <domrf_id>0</domrf_id>
+            <floor>4</floor>
+            <room>1</room>
+            <plans>
+              <plan>https://feedhub.realty/feed-evel/plans/plan-3de8c12b92b45e3d.jpg</plan>
+            </plans>
+            <price>10644450</price>
+            <discounts>
+              <discount>
+                <value>15.0</value>
+                <description>Скидка по акции</description>
+              </discount>
+            </discounts>
+            <area>37.86</area>
+            <housing_type>0</housing_type>
+            <description>1-комнатная квартира, 37.86 кв.м, этаж 4 из 5. ЖК «ПЛЮС Пулковский, сити-квартал» от ГК «ПСК». Рядом метро Московская, 15 мин на машине.</description>
+          </flat>
+          <flat>
+            <flat_id>487804</flat_id>
+            <apartment>120</apartment>
+            <booking>0</booking>
+            <domrf_id>0</domrf_id>
+            <floor>5</floor>
+            <room>1</room>
+            <plans>
+              <plan>https://feedhub.realty/feed-evel/plans/plan-50601d4c2e6c1f08.jpg</plan>
+            </plans>
+            <price>10902372</price>
+            <discounts>
+              <discount>
+                <value>15.0</value>
+                <description>Скидка по акции</description>
+              </discount>
+            </discounts>
+            <area>38.15</area>
+            <housing_type>0</housing_type>
+            <description>1-комнатная квартира, 38.15 кв.м, этаж 5 из 5. ЖК «ПЛЮС Пулковский, сити-квартал» от ГК «ПСК». Рядом метро Московская, 15 мин на машине.</description>
+          </flat>
+          <flat>
+            <flat_id>487724</flat_id>
+            <apartment>40</apartment>
+            <booking>0</booking>
+            <domrf_id>0</domrf_id>
+            <floor>5</floor>
+            <room>1</room>
+            <plans>
+              <plan>https://feedhub.realty/feed-evel/plans/plan-3d10a9e5e9abe9b3.jpg</plan>
+            </plans>
+            <price>10905230</price>
+            <discounts>
+              <discount>
+                <value>15.0</value>
+                <description>Скидка по акции</description>
+              </discount>
+            </discounts>
+            <area>38.16</area>
+            <housing_type>0</housing_type>
+            <description>1-комнатная квартира, 38.16 кв.м, этаж 5 из 5. ЖК «ПЛЮС Пулковский, сити-квартал» от ГК «ПСК». Рядом метро Московская, 15 мин на машине.</description>
+          </flat>
+          <flat>
+            <flat_id>487702</flat_id>
+            <apartment>18</apartment>
+            <booking>0</booking>
+            <domrf_id>0</domrf_id>
+            <floor>3</floor>
+            <room>1</room>
+            <plans>
+              <plan>https://feedhub.realty/feed-evel/plans/plan-e38aa3a10da5996a.jpg</plan>
+            </plans>
+            <price>11045347</price>
+            <discounts>
+              <discount>
+                <value>15.0</value>
+                <description>Скидка по акции</description>
+              </discount>
+            </discounts>
+            <area>37.64</area>
+            <housing_type>0</housing_type>
+            <description>1-комнатная квартира, 37.64 кв.м, этаж 3 из 5. ЖК «ПЛЮС Пулковский, сити-квартал» от ГК «ПСК». Рядом метро Московская, 15 мин на машине.</description>
+          </flat>
+          <flat>
+            <flat_id>487774</flat_id>
+            <apartment>90</apartment>
+            <booking>0</booking>
+            <domrf_id>0</domrf_id>
+            <floor>3</floor>
+            <room>1</room>
+            <plans>
+              <plan>https://feedhub.realty/feed-evel/plans/plan-2b106b8d1f8f9795.jpg</plan>
+            </plans>
+            <price>11045347</price>
+            <discounts>
+              <discount>
+                <value>15.0</value>
+                <description>Скидка по акции</description>
+              </discount>
+            </discounts>
+            <area>37.64</area>
+            <housing_type>0</housing_type>
+            <description>1-комнатная квартира, 37.64 кв.м, этаж 3 из 5. ЖК «ПЛЮС Пулковский, сити-квартал» от ГК «ПСК». Рядом метро Московская, 15 мин на машине.</description>
+          </flat>
+          <flat>
+            <flat_id>487715</flat_id>
+            <apartment>31</apartment>
+            <booking>0</booking>
+            <domrf_id>0</domrf_id>
+            <floor>4</floor>
+            <room>1</room>
+            <plans>
+              <plan>https://feedhub.realty/feed-evel/plans/plan-18529627fbb8a4b3.jpg</plan>
+            </plans>
+            <price>11089629</price>
+            <discounts>
+              <discount>
+                <value>15.0</value>
+                <description>Скидка по акции</description>
+              </discount>
+            </discounts>
+            <area>37.64</area>
+            <housing_type>0</housing_type>
+            <description>1-комнатная квартира, 37.64 кв.м, этаж 4 из 5. ЖК «ПЛЮС Пулковский, сити-квартал» от ГК «ПСК». Рядом метро Московская, 15 мин на машине.</description>
+          </flat>
+          <flat>
+            <flat_id>487787</flat_id>
+            <apartment>103</apartment>
+            <booking>0</booking>
+            <domrf_id>0</domrf_id>
+            <floor>4</floor>
+            <room>1</room>
+            <plans>
+              <plan>https://feedhub.realty/feed-evel/plans/plan-53cd85ef7f5a3fe5.jpg</plan>
+            </plans>
+            <price>11089629</price>
+            <discounts>
+              <discount>
+                <value>15.0</value>
+                <description>Скидка по акции</description>
+              </discount>
+            </discounts>
+            <area>37.64</area>
+            <housing_type>0</housing_type>
+            <description>1-комнатная квартира, 37.64 кв.м, этаж 4 из 5. ЖК «ПЛЮС Пулковский, сити-квартал» от ГК «ПСК». Рядом метро Московская, 15 мин на машине.</description>
+          </flat>
+          <flat>
+            <flat_id>487689</flat_id>
+            <apartment>5</apartment>
+            <booking>0</booking>
+            <domrf_id>0</domrf_id>
+            <floor>2</floor>
+            <room>1</room>
+            <plans>
+              <plan>https://feedhub.realty/feed-evel/plans/plan-53480b21e967e238.jpg</plan>
+            </plans>
+            <price>11128938</price>
+            <discounts>
+              <discount>
+                <value>15.0</value>
+                <description>Скидка по акции</description>
+              </discount>
+            </discounts>
+            <area>38.15</area>
+            <housing_type>0</housing_type>
+            <description>1-комнатная квартира, 38.15 кв.м, этаж 2 из 5. ЖК «ПЛЮС Пулковский, сити-квартал» от ГК «ПСК». Рядом метро Московская, 15 мин на машине.</description>
+          </flat>
+          <flat>
+            <flat_id>487761</flat_id>
+            <apartment>77</apartment>
+            <booking>0</booking>
+            <domrf_id>0</domrf_id>
+            <floor>2</floor>
+            <room>1</room>
+            <plans>
+              <plan>https://feedhub.realty/feed-evel/plans/plan-400e3b23532636ed.jpg</plan>
+            </plans>
+            <price>11128938</price>
+            <discounts>
+              <discount>
+                <value>15.0</value>
+                <description>Скидка по акции</description>
+              </discount>
+            </discounts>
+            <area>38.15</area>
+            <housing_type>0</housing_type>
+            <description>1-комнатная квартира, 38.15 кв.м, этаж 2 из 5. ЖК «ПЛЮС Пулковский, сити-квартал» от ГК «ПСК». Рядом метро Московская, 15 мин на машине.</description>
+          </flat>
+          <flat>
+            <flat_id>487728</flat_id>
+            <apartment>44</apartment>
+            <booking>0</booking>
+            <domrf_id>0</domrf_id>
+            <floor>5</floor>
+            <room>1</room>
+            <plans>
+              <plan>https://feedhub.realty/feed-evel/plans/plan-ae7c4e3d78df39e4.jpg</plan>
+            </plans>
+            <price>11325313</price>
+            <discounts>
+              <discount>
+                <value>15.0</value>
+                <description>Скидка по акции</description>
+              </discount>
+            </discounts>
+            <area>37.94</area>
+            <housing_type>0</housing_type>
+            <description>1-комнатная квартира, 37.94 кв.м, этаж 5 из 5. ЖК «ПЛЮС Пулковский, сити-квартал» от ГК «ПСК». Рядом метро Московская, 15 мин на машине.</description>
+          </flat>
+          <flat>
+            <flat_id>487800</flat_id>
+            <apartment>116</apartment>
+            <booking>0</booking>
+            <domrf_id>0</domrf_id>
+            <floor>5</floor>
+            <room>1</room>
+            <plans>
+              <plan>https://feedhub.realty/feed-evel/plans/plan-56a4c762fe37df06.jpg</plan>
+            </plans>
+            <price>11325313</price>
+            <discounts>
+              <discount>
+                <value>15.0</value>
+                <description>Скидка по акции</description>
+              </discount>
+            </discounts>
+            <area>37.94</area>
+            <housing_type>0</housing_type>
+            <description>1-комнатная квартира, 37.94 кв.м, этаж 5 из 5. ЖК «ПЛЮС Пулковский, сити-квартал» от ГК «ПСК». Рядом метро Московская, 15 мин на машине.</description>
+          </flat>
+          <flat>
+            <flat_id>487701</flat_id>
+            <apartment>17</apartment>
+            <booking>0</booking>
+            <domrf_id>0</domrf_id>
+            <floor>3</floor>
+            <room>1</room>
+            <plans>
+              <plan>https://feedhub.realty/feed-evel/plans/plan-61429750604e9cd8.jpg</plan>
+            </plans>
+            <price>11410763</price>
+            <discounts>
+              <discount>
+                <value>15.0</value>
+                <description>Скидка по акции</description>
+              </discount>
+            </discounts>
+            <area>39.6</area>
+            <housing_type>0</housing_type>
+            <description>1-комнатная квартира, 39.6 кв.м, этаж 3 из 5. ЖК «ПЛЮС Пулковский, сити-квартал» от ГК «ПСК». Рядом метро Московская, 15 мин на машине.</description>
+          </flat>
+          <flat>
+            <flat_id>487775</flat_id>
+            <apartment>91</apartment>
+            <booking>0</booking>
+            <domrf_id>0</domrf_id>
+            <floor>3</floor>
+            <room>1</room>
+            <plans>
+              <plan>https://feedhub.realty/feed-evel/plans/plan-c5eb88a7617fa3e6.jpg</plan>
+            </plans>
+            <price>11410763</price>
+            <discounts>
+              <discount>
+                <value>15.0</value>
+                <description>Скидка по акции</description>
+              </discount>
+            </discounts>
+            <area>39.6</area>
+            <housing_type>0</housing_type>
+            <description>1-комнатная квартира, 39.6 кв.м, этаж 3 из 5. ЖК «ПЛЮС Пулковский, сити-квартал» от ГК «ПСК». Рядом метро Московская, 15 мин на машине.</description>
+          </flat>
+          <flat>
+            <flat_id>487762</flat_id>
+            <apartment>78</apartment>
+            <booking>0</booking>
+            <domrf_id>0</domrf_id>
+            <floor>2</floor>
+            <room>1</room>
+            <plans>
+              <plan>https://feedhub.realty/feed-evel/plans/plan-ff6667cc935978c8.jpg</plan>
+            </plans>
+            <price>11450267</price>
+            <discounts>
+              <discount>
+                <value>15.0</value>
+                <description>Скидка по акции</description>
+              </discount>
+            </discounts>
+            <area>39.9</area>
+            <housing_type>0</housing_type>
+            <description>1-комнатная квартира, 39.9 кв.м, этаж 2 из 5. ЖК «ПЛЮС Пулковский, сити-квартал» от ГК «ПСК». Рядом метро Московская, 15 мин на машине.</description>
+          </flat>
+          <flat>
+            <flat_id>487688</flat_id>
+            <apartment>4</apartment>
+            <booking>0</booking>
+            <domrf_id>0</domrf_id>
+            <floor>2</floor>
+            <room>1</room>
+            <plans>
+              <plan>https://feedhub.realty/feed-evel/plans/plan-93b7f8822e27caec.jpg</plan>
+            </plans>
+            <price>11456006</price>
+            <discounts>
+              <discount>
+                <value>15.0</value>
+                <description>Скидка по акции</description>
+              </discount>
+            </discounts>
+            <area>39.92</area>
+            <housing_type>0</housing_type>
+            <description>1-комнатная квартира, 39.92 кв.м, этаж 2 из 5. ЖК «ПЛЮС Пулковский, сити-квартал» от ГК «ПСК». Рядом метро Московская, 15 мин на машине.</description>
+          </flat>
+          <flat>
+            <flat_id>487714</flat_id>
+            <apartment>30</apartment>
+            <booking>0</booking>
+            <domrf_id>0</domrf_id>
+            <floor>4</floor>
+            <room>1</room>
+            <plans>
+              <plan>https://feedhub.realty/feed-evel/plans/plan-3072a02c5e3dd121.jpg</plan>
+            </plans>
+            <price>11457351</price>
+            <discounts>
+              <discount>
+                <value>15.0</value>
+                <description>Скидка по акции</description>
+              </discount>
+            </discounts>
+            <area>39.6</area>
+            <housing_type>0</housing_type>
+            <description>1-комнатная квартира, 39.6 кв.м, этаж 4 из 5. ЖК «ПЛЮС Пулковский, сити-квартал» от ГК «ПСК». Рядом метро Московская, 15 мин на машине.</description>
+          </flat>
+          <flat>
+            <flat_id>487788</flat_id>
+            <apartment>104</apartment>
+            <booking>0</booking>
+            <domrf_id>0</domrf_id>
+            <floor>4</floor>
+            <room>1</room>
+            <plans>
+              <plan>https://feedhub.realty/feed-evel/plans/plan-88cfe16a8b019365.jpg</plan>
+            </plans>
+            <price>11457351</price>
+            <discounts>
+              <discount>
+                <value>15.0</value>
+                <description>Скидка по акции</description>
+              </discount>
+            </discounts>
+            <area>39.6</area>
+            <housing_type>0</housing_type>
+            <description>1-комнатная квартира, 39.6 кв.м, этаж 4 из 5. ЖК «ПЛЮС Пулковский, сити-квартал» от ГК «ПСК». Рядом метро Московская, 15 мин на машине.</description>
+          </flat>
+          <flat>
+            <flat_id>487727</flat_id>
+            <apartment>43</apartment>
+            <booking>0</booking>
+            <domrf_id>0</domrf_id>
+            <floor>5</floor>
+            <room>1</room>
+            <plans>
+              <plan>https://feedhub.realty/feed-evel/plans/plan-2c5b46ef28c13dc5.jpg</plan>
+            </plans>
+            <price>11699055</price>
+            <discounts>
+              <discount>
+                <value>15.0</value>
+                <description>Скидка по акции</description>
+              </discount>
+            </discounts>
+            <area>39.9</area>
+            <housing_type>0</housing_type>
+            <description>1-комнатная квартира, 39.9 кв.м, этаж 5 из 5. ЖК «ПЛЮС Пулковский, сити-квартал» от ГК «ПСК». Рядом метро Московская, 15 мин на машине.</description>
+          </flat>
+          <flat>
+            <flat_id>487801</flat_id>
+            <apartment>117</apartment>
+            <booking>0</booking>
+            <domrf_id>0</domrf_id>
+            <floor>5</floor>
+            <room>1</room>
+            <plans>
+              <plan>https://feedhub.realty/feed-evel/plans/plan-5ca2f552d4eb5e88.jpg</plan>
+            </plans>
+            <price>11699055</price>
+            <discounts>
+              <discount>
+                <value>15.0</value>
+                <description>Скидка по акции</description>
+              </discount>
+            </discounts>
+            <area>39.9</area>
+            <housing_type>0</housing_type>
+            <description>1-комнатная квартира, 39.9 кв.м, этаж 5 из 5. ЖК «ПЛЮС Пулковский, сити-квартал» от ГК «ПСК». Рядом метро Московская, 15 мин на машине.</description>
+          </flat>
+          <flat>
+            <flat_id>487767</flat_id>
+            <apartment>83</apartment>
+            <booking>0</booking>
+            <domrf_id>0</domrf_id>
+            <floor>3</floor>
+            <room>2</room>
+            <plans>
+              <plan>https://feedhub.realty/feed-evel/plans/plan-9619bf37d668e3c4.jpg</plan>
+            </plans>
+            <price>15992856</price>
+            <discounts>
+              <discount>
+                <value>15.0</value>
+                <description>Скидка по акции</description>
+              </discount>
+            </discounts>
+            <area>54.06</area>
+            <housing_type>0</housing_type>
+            <description>2-комнатная квартира, 54.06 кв.м, этаж 3 из 5. ЖК «ПЛЮС Пулковский, сити-квартал» от ГК «ПСК». Рядом метро Московская, 15 мин на машине.</description>
+          </flat>
+          <flat>
+            <flat_id>487709</flat_id>
+            <apartment>25</apartment>
+            <booking>0</booking>
+            <domrf_id>0</domrf_id>
+            <floor>3</floor>
+            <room>2</room>
+            <plans>
+              <plan>https://feedhub.realty/feed-evel/plans/plan-60c737001e77a10f.jpg</plan>
+            </plans>
+            <price>16013564</price>
+            <discounts>
+              <discount>
+                <value>15.0</value>
+                <description>Скидка по акции</description>
+              </discount>
+            </discounts>
+            <area>54.13</area>
+            <housing_type>0</housing_type>
+            <description>2-комнатная квартира, 54.13 кв.м, этаж 3 из 5. ЖК «ПЛЮС Пулковский, сити-квартал» от ГК «ПСК». Рядом метро Московская, 15 мин на машине.</description>
+          </flat>
+          <flat>
+            <flat_id>487780</flat_id>
+            <apartment>96</apartment>
+            <booking>0</booking>
+            <domrf_id>0</domrf_id>
+            <floor>4</floor>
+            <room>2</room>
+            <plans>
+              <plan>https://feedhub.realty/feed-evel/plans/plan-b02c0cfcb8d4ce77.jpg</plan>
+            </plans>
+            <price>16056456</price>
+            <discounts>
+              <discount>
+                <value>15.0</value>
+                <description>Скидка по акции</description>
+              </discount>
+            </discounts>
+            <area>54.06</area>
+            <housing_type>0</housing_type>
+            <description>2-комнатная квартира, 54.06 кв.м, этаж 4 из 5. ЖК «ПЛЮС Пулковский, сити-квартал» от ГК «ПСК». Рядом метро Московская, 15 мин на машине.</description>
+          </flat>
+          <flat>
+            <flat_id>487722</flat_id>
+            <apartment>38</apartment>
+            <booking>0</booking>
+            <domrf_id>0</domrf_id>
+            <floor>4</floor>
+            <room>2</room>
+            <plans>
+              <plan>https://feedhub.realty/feed-evel/plans/plan-be6d43e126b0d3ec.jpg</plan>
+            </plans>
+            <price>16077246</price>
+            <discounts>
+              <discount>
+                <value>15.0</value>
+                <description>Скидка по акции</description>
+              </discount>
+            </discounts>
+            <area>54.13</area>
+            <housing_type>0</housing_type>
+            <description>2-комнатная квартира, 54.13 кв.м, этаж 4 из 5. ЖК «ПЛЮС Пулковский, сити-квартал» от ГК «ПСК». Рядом метро Московская, 15 мин на машине.</description>
+          </flat>
+          <flat>
+            <flat_id>487754</flat_id>
+            <apartment>70</apartment>
+            <booking>0</booking>
+            <domrf_id>0</domrf_id>
+            <floor>2</floor>
+            <room>2</room>
+            <plans>
+              <plan>https://feedhub.realty/feed-evel/plans/plan-d13fe88fce7f133d.jpg</plan>
+            </plans>
+            <price>16112475</price>
+            <discounts>
+              <discount>
+                <value>15.0</value>
+                <description>Скидка по акции</description>
+              </discount>
+            </discounts>
+            <area>54.89</area>
+            <housing_type>0</housing_type>
+            <description>2-комнатная квартира, 54.89 кв.м, этаж 2 из 5. ЖК «ПЛЮС Пулковский, сити-квартал» от ГК «ПСК». Рядом метро Московская, 15 мин на машине.</description>
+          </flat>
+          <flat>
+            <flat_id>487696</flat_id>
+            <apartment>12</apartment>
+            <booking>0</booking>
+            <domrf_id>0</domrf_id>
+            <floor>2</floor>
+            <room>2</room>
+            <plans>
+              <plan>https://feedhub.realty/feed-evel/plans/plan-5aaa0823e660370e.jpg</plan>
+            </plans>
+            <price>16135958</price>
+            <discounts>
+              <discount>
+                <value>15.0</value>
+                <description>Скидка по акции</description>
+              </discount>
+            </discounts>
+            <area>54.97</area>
+            <housing_type>0</housing_type>
+            <description>2-комнатная квартира, 54.97 кв.м, этаж 2 из 5. ЖК «ПЛЮС Пулковский, сити-квартал» от ГК «ПСК». Рядом метро Московская, 15 мин на машине.</description>
+          </flat>
+          <flat>
+            <flat_id>487710</flat_id>
+            <apartment>26</apartment>
+            <booking>0</booking>
+            <domrf_id>0</domrf_id>
+            <floor>3</floor>
+            <room>2</room>
+            <plans>
+              <plan>https://feedhub.realty/feed-evel/plans/plan-e7cbd78beedcce4e.jpg</plan>
+            </plans>
+            <price>16342009</price>
+            <discounts>
+              <discount>
+                <value>15.0</value>
+                <description>Скидка по акции</description>
+              </discount>
+            </discounts>
+            <area>57.59</area>
+            <housing_type>0</housing_type>
+            <description>2-комнатная квартира, 57.59 кв.м, этаж 3 из 5. ЖК «ПЛЮС Пулковский, сити-квартал» от ГК «ПСК». Рядом метро Московская, 15 мин на машине.</description>
+          </flat>
+          <flat>
+            <flat_id>487766</flat_id>
+            <apartment>82</apartment>
+            <booking>0</booking>
+            <domrf_id>0</domrf_id>
+            <floor>3</floor>
+            <room>2</room>
+            <plans>
+              <plan>https://feedhub.realty/feed-evel/plans/plan-9e329861110ab137.jpg</plan>
+            </plans>
+            <price>16342009</price>
+            <discounts>
+              <discount>
+                <value>15.0</value>
+                <description>Скидка по акции</description>
+              </discount>
+            </discounts>
+            <area>57.59</area>
+            <housing_type>0</housing_type>
+            <description>2-комнатная квартира, 57.59 кв.м, этаж 3 из 5. ЖК «ПЛЮС Пулковский, сити-квартал» от ГК «ПСК». Рядом метро Московская, 15 мин на машине.</description>
+          </flat>
+          <flat>
+            <flat_id>487723</flat_id>
+            <apartment>39</apartment>
+            <booking>0</booking>
+            <domrf_id>0</domrf_id>
+            <floor>4</floor>
+            <room>2</room>
+            <plans>
+              <plan>https://feedhub.realty/feed-evel/plans/plan-0db25211387ed414.jpg</plan>
+            </plans>
+            <price>16409762</price>
+            <discounts>
+              <discount>
+                <value>15.0</value>
+                <description>Скидка по акции</description>
+              </discount>
+            </discounts>
+            <area>57.59</area>
+            <housing_type>0</housing_type>
+            <description>2-комнатная квартира, 57.59 кв.м, этаж 4 из 5. ЖК «ПЛЮС Пулковский, сити-квартал» от ГК «ПСК». Рядом метро Московская, 15 мин на машине.</description>
+          </flat>
+          <flat>
+            <flat_id>487779</flat_id>
+            <apartment>95</apartment>
+            <booking>0</booking>
+            <domrf_id>0</domrf_id>
+            <floor>4</floor>
+            <room>2</room>
+            <plans>
+              <plan>https://feedhub.realty/feed-evel/plans/plan-44740008552076a9.jpg</plan>
+            </plans>
+            <price>16409762</price>
+            <discounts>
+              <discount>
+                <value>15.0</value>
+                <description>Скидка по акции</description>
+              </discount>
+            </discounts>
+            <area>57.59</area>
+            <housing_type>0</housing_type>
+            <description>2-комнатная квартира, 57.59 кв.м, этаж 4 из 5. ЖК «ПЛЮС Пулковский, сити-квартал» от ГК «ПСК». Рядом метро Московская, 15 мин на машине.</description>
+          </flat>
+          <flat>
+            <flat_id>487697</flat_id>
+            <apartment>13</apartment>
+            <booking>0</booking>
+            <domrf_id>0</domrf_id>
+            <floor>2</floor>
+            <room>2</room>
+            <plans>
+              <plan>https://feedhub.realty/feed-evel/plans/plan-1eb116fcdefa3e74.jpg</plan>
+            </plans>
+            <price>16505978</price>
+            <discounts>
+              <discount>
+                <value>15.0</value>
+                <description>Скидка по акции</description>
+              </discount>
+            </discounts>
+            <area>58.41</area>
+            <housing_type>0</housing_type>
+            <description>2-комнатная квартира, 58.41 кв.м, этаж 2 из 5. ЖК «ПЛЮС Пулковский, сити-квартал» от ГК «ПСК». Рядом метро Московская, 15 мин на машине.</description>
+          </flat>
+          <flat>
+            <flat_id>487753</flat_id>
+            <apartment>69</apartment>
+            <booking>0</booking>
+            <domrf_id>0</domrf_id>
+            <floor>2</floor>
+            <room>2</room>
+            <plans>
+              <plan>https://feedhub.realty/feed-evel/plans/plan-6f756b8d6ffdf6a5.jpg</plan>
+            </plans>
+            <price>16508804</price>
+            <discounts>
+              <discount>
+                <value>15.0</value>
+                <description>Скидка по акции</description>
+              </discount>
+            </discounts>
+            <area>58.42</area>
+            <housing_type>0</housing_type>
+            <description>2-комнатная квартира, 58.42 кв.м, этаж 2 из 5. ЖК «ПЛЮС Пулковский, сити-квартал» от ГК «ПСК». Рядом метро Московская, 15 мин на машине.</description>
+          </flat>
+          <flat>
+            <flat_id>487741</flat_id>
+            <apartment>57</apartment>
+            <booking>0</booking>
+            <domrf_id>0</domrf_id>
+            <floor>3</floor>
+            <room>2</room>
+            <plans>
+              <plan>https://feedhub.realty/feed-evel/plans/plan-19d428ead6fd7552.jpg</plan>
+            </plans>
+            <price>16576894</price>
+            <discounts>
+              <discount>
+                <value>15.0</value>
+                <description>Скидка по акции</description>
+              </discount>
+            </discounts>
+            <area>58.05</area>
+            <housing_type>0</housing_type>
+            <description>2-комнатная квартира, 58.05 кв.м, этаж 3 из 5. ЖК «ПЛЮС Пулковский, сити-квартал» от ГК «ПСК». Рядом метро Московская, 15 мин на машине.</description>
+          </flat>
+          <flat>
+            <flat_id>487744</flat_id>
+            <apartment>60</apartment>
+            <booking>0</booking>
+            <domrf_id>0</domrf_id>
+            <floor>3</floor>
+            <room>2</room>
+            <plans>
+              <plan>https://feedhub.realty/feed-evel/plans/plan-42c4c963c7700aab.jpg</plan>
+            </plans>
+            <price>16582605</price>
+            <discounts>
+              <discount>
+                <value>15.0</value>
+                <description>Скидка по акции</description>
+              </discount>
+            </discounts>
+            <area>58.07</area>
+            <housing_type>0</housing_type>
+            <description>2-комнатная квартира, 58.07 кв.м, этаж 3 из 5. ЖК «ПЛЮС Пулковский, сити-квартал» от ГК «ПСК». Рядом метро Московская, 15 мин на машине.</description>
+          </flat>
+          <flat>
+            <flat_id>487745</flat_id>
+            <apartment>61</apartment>
+            <booking>0</booking>
+            <domrf_id>0</domrf_id>
+            <floor>4</floor>
+            <room>2</room>
+            <plans>
+              <plan>https://feedhub.realty/feed-evel/plans/plan-19871a79f720fe03.jpg</plan>
+            </plans>
+            <price>16645188</price>
+            <discounts>
+              <discount>
+                <value>15.0</value>
+                <description>Скидка по акции</description>
+              </discount>
+            </discounts>
+            <area>58.05</area>
+            <housing_type>0</housing_type>
+            <description>2-комнатная квартира, 58.05 кв.м, этаж 4 из 5. ЖК «ПЛЮС Пулковский, сити-квартал» от ГК «ПСК». Рядом метро Московская, 15 мин на машине.</description>
+          </flat>
+          <flat>
+            <flat_id>487748</flat_id>
+            <apartment>64</apartment>
+            <booking>1</booking>
+            <domrf_id>0</domrf_id>
+            <floor>4</floor>
+            <room>2</room>
+            <plans>
+              <plan>https://feedhub.realty/feed-evel/plans/plan-9524ff9c56c996ff.jpg</plan>
+            </plans>
+            <price>16650923</price>
+            <discounts>
+              <discount>
+                <value>15.0</value>
+                <description>Скидка по акции</description>
+              </discount>
+            </discounts>
+            <area>58.07</area>
+            <housing_type>0</housing_type>
+            <description>2-комнатная квартира, 58.07 кв.м, этаж 4 из 5. ЖК «ПЛЮС Пулковский, сити-квартал» от ГК «ПСК». Рядом метро Московская, 15 мин на машине.</description>
+          </flat>
+          <flat>
+            <flat_id>487737</flat_id>
+            <apartment>53</apartment>
+            <booking>0</booking>
+            <domrf_id>0</domrf_id>
+            <floor>2</floor>
+            <room>2</room>
+            <plans>
+              <plan>https://feedhub.realty/feed-evel/plans/plan-6f788222614da564.jpg</plan>
+            </plans>
+            <price>16790142</price>
+            <discounts>
+              <discount>
+                <value>15.0</value>
+                <description>Скидка по акции</description>
+              </discount>
+            </discounts>
+            <area>59.04</area>
+            <housing_type>0</housing_type>
+            <description>2-комнатная квартира, 59.04 кв.м, этаж 2 из 5. ЖК «ПЛЮС Пулковский, сити-квартал» от ГК «ПСК». Рядом метро Московская, 15 мин на машине.</description>
+          </flat>
+          <flat>
+            <flat_id>487740</flat_id>
+            <apartment>56</apartment>
+            <booking>0</booking>
+            <domrf_id>0</domrf_id>
+            <floor>2</floor>
+            <room>2</room>
+            <plans>
+              <plan>https://feedhub.realty/feed-evel/plans/plan-a1948430df0d144b.jpg</plan>
+            </plans>
+            <price>16804361</price>
+            <discounts>
+              <discount>
+                <value>15.0</value>
+                <description>Скидка по акции</description>
+              </discount>
+            </discounts>
+            <area>59.09</area>
+            <housing_type>0</housing_type>
+            <description>2-комнатная квартира, 59.09 кв.м, этаж 2 из 5. ЖК «ПЛЮС Пулковский, сити-квартал» от ГК «ПСК». Рядом метро Московская, 15 мин на машине.</description>
+          </flat>
+          <flat>
+            <flat_id>487736</flat_id>
+            <apartment>52</apartment>
+            <booking>0</booking>
+            <domrf_id>0</domrf_id>
+            <floor>5</floor>
+            <room>2</room>
+            <plans>
+              <plan>https://feedhub.realty/feed-evel/plans/plan-be6a81f598c52310.jpg</plan>
+            </plans>
+            <price>17008511</price>
+            <discounts>
+              <discount>
+                <value>15.0</value>
+                <description>Скидка по акции</description>
+              </discount>
+            </discounts>
+            <area>60.76</area>
+            <housing_type>0</housing_type>
+            <description>2-комнатная квартира, 60.76 кв.м, этаж 5 из 5. ЖК «ПЛЮС Пулковский, сити-квартал» от ГК «ПСК». Рядом метро Московская, 15 мин на машине.</description>
+          </flat>
+          <flat>
+            <flat_id>487792</flat_id>
+            <apartment>108</apartment>
+            <booking>0</booking>
+            <domrf_id>0</domrf_id>
+            <floor>5</floor>
+            <room>2</room>
+            <plans>
+              <plan>https://feedhub.realty/feed-evel/plans/plan-fb2397b7d9229513.jpg</plan>
+            </plans>
+            <price>17008511</price>
+            <discounts>
+              <discount>
+                <value>15.0</value>
+                <description>Скидка по акции</description>
+              </discount>
+            </discounts>
+            <area>60.76</area>
+            <housing_type>0</housing_type>
+            <description>2-комнатная квартира, 60.76 кв.м, этаж 5 из 5. ЖК «ПЛЮС Пулковский, сити-квартал» от ГК «ПСК». Рядом метро Московская, 15 мин на машине.</description>
+          </flat>
+          <flat>
+            <flat_id>487793</flat_id>
+            <apartment>109</apartment>
+            <booking>0</booking>
+            <domrf_id>0</domrf_id>
+            <floor>5</floor>
+            <room>2</room>
+            <plans>
+              <plan>https://feedhub.realty/feed-evel/plans/plan-1e58fe233ee4bc24.jpg</plan>
+            </plans>
+            <price>17266720</price>
+            <discounts>
+              <discount>
+                <value>15.0</value>
+                <description>Скидка по акции</description>
+              </discount>
+            </discounts>
+            <area>58.99</area>
+            <housing_type>0</housing_type>
+            <description>2-комнатная квартира, 58.99 кв.м, этаж 5 из 5. ЖК «ПЛЮС Пулковский, сити-квартал» от ГК «ПСК». Рядом метро Московская, 15 мин на машине.</description>
+          </flat>
+          <flat>
+            <flat_id>487735</flat_id>
+            <apartment>51</apartment>
+            <booking>0</booking>
+            <domrf_id>0</domrf_id>
+            <floor>5</floor>
+            <room>2</room>
+            <plans>
+              <plan>https://feedhub.realty/feed-evel/plans/plan-706b824ce2310421.jpg</plan>
+            </plans>
+            <price>17287209</price>
+            <discounts>
+              <discount>
+                <value>15.0</value>
+                <description>Скидка по акции</description>
+              </discount>
+            </discounts>
+            <area>59.06</area>
+            <housing_type>0</housing_type>
+            <description>2-комнатная квартира, 59.06 кв.м, этаж 5 из 5. ЖК «ПЛЮС Пулковский, сити-квартал» от ГК «ПСК». Рядом метро Московская, 15 мин на машине.</description>
+          </flat>
+          <flat>
+            <flat_id>487749</flat_id>
+            <apartment>65</apartment>
+            <booking>0</booking>
+            <domrf_id>0</domrf_id>
+            <floor>5</floor>
+            <room>2</room>
+            <plans>
+              <plan>https://feedhub.realty/feed-evel/plans/plan-ff78bfbe710cb454.jpg</plan>
+            </plans>
+            <price>17497301</price>
+            <discounts>
+              <discount>
+                <value>15.0</value>
+                <description>Скидка по акции</description>
+              </discount>
+            </discounts>
+            <area>61.52</area>
+            <housing_type>0</housing_type>
+            <description>2-комнатная квартира, 61.52 кв.м, этаж 5 из 5. ЖК «ПЛЮС Пулковский, сити-квартал» от ГК «ПСК». Рядом метро Московская, 15 мин на машине.</description>
+          </flat>
+          <flat>
+            <flat_id>487752</flat_id>
+            <apartment>68</apartment>
+            <booking>0</booking>
+            <domrf_id>0</domrf_id>
+            <floor>5</floor>
+            <room>2</room>
+            <plans>
+              <plan>https://feedhub.realty/feed-evel/plans/plan-0248267281f5768a.jpg</plan>
+            </plans>
+            <price>17502989</price>
+            <discounts>
+              <discount>
+                <value>15.0</value>
+                <description>Скидка по акции</description>
+              </discount>
+            </discounts>
+            <area>61.54</area>
+            <housing_type>0</housing_type>
+            <description>2-комнатная квартира, 61.54 кв.м, этаж 5 из 5. ЖК «ПЛЮС Пулковский, сити-квартал» от ГК «ПСК». Рядом метро Московская, 15 мин на машине.</description>
           </flat>
         </flats>
       </building>
@@ -36322,7 +39927,7 @@
           <flat>
             <flat_id>146548</flat_id>
             <apartment>467</apartment>
-            <booking>0</booking>
+            <booking>1</booking>
             <domrf_id>0</domrf_id>
             <floor>8</floor>
             <room>2</room>
@@ -36574,7 +40179,7 @@
           <flat>
             <flat_id>146513</flat_id>
             <apartment>432</apartment>
-            <booking>0</booking>
+            <booking>1</booking>
             <domrf_id>0</domrf_id>
             <floor>12</floor>
             <room>2</room>
@@ -36869,7 +40474,7 @@
           <flat>
             <flat_id>146480</flat_id>
             <apartment>399</apartment>
-            <booking>1</booking>
+            <booking>0</booking>
             <domrf_id>0</domrf_id>
             <floor>13</floor>
             <room>2</room>
@@ -36976,7 +40581,7 @@
           <flat>
             <flat_id>146867</flat_id>
             <apartment>786</apartment>
-            <booking>0</booking>
+            <booking>1</booking>
             <domrf_id>0</domrf_id>
             <floor>7</floor>
             <room>3</room>
@@ -38483,7 +42088,7 @@
           <flat>
             <flat_id>398116</flat_id>
             <apartment>316</apartment>
-            <booking>0</booking>
+            <booking>1</booking>
             <domrf_id>0</domrf_id>
             <floor>4</floor>
             <room>1</room>
@@ -38676,28 +42281,6 @@
             <area>37.94</area>
             <housing_type>0</housing_type>
             <description>1-комнатная квартира, 37.94 кв.м, этаж 3 из 13. ЖК «РЕСПЕКТ» от ГК «ПСК». Рядом метро Лесная, 10 мин пешком.</description>
-          </flat>
-          <flat>
-            <flat_id>397885</flat_id>
-            <apartment>85</apartment>
-            <booking>1</booking>
-            <domrf_id>0</domrf_id>
-            <floor>13</floor>
-            <room>1</room>
-            <plans>
-              <plan>https://feedhub.realty/feed-evel/plans/plan-dfa569355cf05266.jpg</plan>
-            </plans>
-            <renovation>предчистовая</renovation>
-            <price>21147363</price>
-            <discounts>
-              <discount>
-                <value>15.0</value>
-                <description>Скидка по акции</description>
-              </discount>
-            </discounts>
-            <area>41.84</area>
-            <housing_type>0</housing_type>
-            <description>1-комнатная квартира, 41.84 кв.м, этаж 13 из 13. ЖК «РЕСПЕКТ» от ГК «ПСК». Рядом метро Лесная, 10 мин пешком.</description>
           </flat>
           <flat>
             <flat_id>398371</flat_id>
@@ -39949,28 +43532,6 @@
             <area>57.38</area>
             <housing_type>0</housing_type>
             <description>2-комнатная квартира, 57.38 кв.м, этаж 7 из 13. ЖК «РЕСПЕКТ» от ГК «ПСК». Рядом метро Лесная, 10 мин пешком.</description>
-          </flat>
-          <flat>
-            <flat_id>397957</flat_id>
-            <apartment>157</apartment>
-            <booking>1</booking>
-            <domrf_id>0</domrf_id>
-            <floor>8</floor>
-            <room>2</room>
-            <plans>
-              <plan>https://feedhub.realty/feed-evel/plans/plan-e7e430f699ee6240.jpg</plan>
-            </plans>
-            <renovation>предчистовая</renovation>
-            <price>26897096</price>
-            <discounts>
-              <discount>
-                <value>15.0</value>
-                <description>Скидка по акции</description>
-              </discount>
-            </discounts>
-            <area>61.6</area>
-            <housing_type>0</housing_type>
-            <description>2-комнатная квартира, 61.6 кв.м, этаж 8 из 13. ЖК «РЕСПЕКТ» от ГК «ПСК». Рядом метро Лесная, 10 мин пешком.</description>
           </flat>
           <flat>
             <flat_id>398580</flat_id>
@@ -44933,7 +48494,7 @@
           <flat>
             <flat_id>339042</flat_id>
             <apartment>121</apartment>
-            <booking>0</booking>
+            <booking>1</booking>
             <domrf_id>0</domrf_id>
             <floor>5</floor>
             <room>2</room>
@@ -45042,7 +48603,7 @@
           <flat>
             <flat_id>338961</flat_id>
             <apartment>40</apartment>
-            <booking>0</booking>
+            <booking>1</booking>
             <domrf_id>0</domrf_id>
             <floor>6</floor>
             <room>3</room>
@@ -45384,7 +48945,7 @@
           <flat>
             <flat_id>336799</flat_id>
             <apartment>1222</apartment>
-            <booking>1</booking>
+            <booking>0</booking>
             <domrf_id>0</domrf_id>
             <floor>12</floor>
             <room>0</room>
@@ -45880,27 +49441,6 @@
             <description>Студия, 24.5 кв.м, этаж 7 из 13. ЖК «Industrial AVENIR» от ГК «ПСК». Рядом метро Кировский завод, 3 мин пешком.</description>
           </flat>
           <flat>
-            <flat_id>336339</flat_id>
-            <apartment>506</apartment>
-            <booking>1</booking>
-            <domrf_id>0</domrf_id>
-            <floor>5</floor>
-            <room>0</room>
-            <plans>
-              <plan>https://feedhub.realty/feed-evel/plans/plan-47ab016e361340ef.jpg</plan>
-            </plans>
-            <price>6540502</price>
-            <discounts>
-              <discount>
-                <value>10.0</value>
-                <description>Скидка по акции</description>
-              </discount>
-            </discounts>
-            <area>25.5</area>
-            <housing_type>1</housing_type>
-            <description>Студия, 25.5 кв.м, этаж 5 из 13. ЖК «Industrial AVENIR» от ГК «ПСК». Рядом метро Кировский завод, 3 мин пешком.</description>
-          </flat>
-          <flat>
             <flat_id>336559</flat_id>
             <apartment>834</apartment>
             <booking>0</booking>
@@ -46218,7 +49758,7 @@
           <flat>
             <flat_id>336340</flat_id>
             <apartment>507</apartment>
-            <booking>0</booking>
+            <booking>1</booking>
             <domrf_id>0</domrf_id>
             <floor>5</floor>
             <room>0</room>
@@ -47688,7 +51228,7 @@
           <flat>
             <flat_id>336600</flat_id>
             <apartment>911</apartment>
-            <booking>0</booking>
+            <booking>1</booking>
             <domrf_id>0</domrf_id>
             <floor>9</floor>
             <room>0</room>
@@ -47751,7 +51291,7 @@
           <flat>
             <flat_id>336391</flat_id>
             <apartment>558</apartment>
-            <booking>1</booking>
+            <booking>0</booking>
             <domrf_id>0</domrf_id>
             <floor>5</floor>
             <room>2</room>
@@ -48042,27 +51582,6 @@
             <description>Студия, 27.16 кв.м, этаж 3 из 14. ЖК «Ladozhsky AVENIR» от ГК «ПСК». Рядом метро Ладожская, 10 мин пешком.</description>
           </flat>
           <flat>
-            <flat_id>100261</flat_id>
-            <apartment>345</apartment>
-            <booking>1</booking>
-            <domrf_id>0</domrf_id>
-            <floor>3</floor>
-            <room>0</room>
-            <plans>
-              <plan>https://feedhub.realty/feed-evel/plans/plan-85f5e0756493be2c.jpg</plan>
-            </plans>
-            <price>8699921</price>
-            <discounts>
-              <discount>
-                <value>10.0</value>
-                <description>Скидка по акции</description>
-              </discount>
-            </discounts>
-            <area>27.16</area>
-            <housing_type>1</housing_type>
-            <description>Студия, 27.16 кв.м, этаж 3 из 14. ЖК «Ladozhsky AVENIR» от ГК «ПСК». Рядом метро Ладожская, 10 мин пешком.</description>
-          </flat>
-          <flat>
             <flat_id>100271</flat_id>
             <apartment>355</apartment>
             <booking>1</booking>
@@ -48170,7 +51689,7 @@
           <flat>
             <flat_id>100569</flat_id>
             <apartment>733</apartment>
-            <booking>0</booking>
+            <booking>1</booking>
             <domrf_id>0</domrf_id>
             <floor>7</floor>
             <room>0</room>
@@ -49110,7 +52629,7 @@
           <flat>
             <flat_id>86031</flat_id>
             <apartment>46</apartment>
-            <booking>0</booking>
+            <booking>1</booking>
             <domrf_id>0</domrf_id>
             <floor>9</floor>
             <room>1</room>
@@ -49142,7 +52661,7 @@
           <flat>
             <flat_id>85990</flat_id>
             <apartment>28</apartment>
-            <booking>0</booking>
+            <booking>1</booking>
             <domrf_id>0</domrf_id>
             <floor>6</floor>
             <room>2</room>
@@ -49238,7 +52757,7 @@
           <flat>
             <flat_id>86003</flat_id>
             <apartment>104</apartment>
-            <booking>1</booking>
+            <booking>0</booking>
             <domrf_id>0</domrf_id>
             <floor>6</floor>
             <room>2</room>
@@ -49610,7 +53129,7 @@
           <flat>
             <flat_id>87642</flat_id>
             <apartment>325</apartment>
-            <booking>0</booking>
+            <booking>1</booking>
             <domrf_id>0</domrf_id>
             <floor>2</floor>
             <room>3</room>
@@ -49671,7 +53190,7 @@
           <flat>
             <flat_id>87414</flat_id>
             <apartment>97</apartment>
-            <booking>0</booking>
+            <booking>1</booking>
             <domrf_id>0</domrf_id>
             <floor>6</floor>
             <room>3</room>
