@@ -582,7 +582,7 @@
           <flat>
             <flat_id>451137</flat_id>
             <apartment>157</apartment>
-            <booking>0</booking>
+            <booking>1</booking>
             <domrf_id>0</domrf_id>
             <floor>3</floor>
             <room>0</room>
@@ -1853,7 +1853,7 @@
           <flat>
             <flat_id>451354</flat_id>
             <apartment>374</apartment>
-            <booking>0</booking>
+            <booking>1</booking>
             <domrf_id>0</domrf_id>
             <floor>4</floor>
             <room>1</room>
@@ -2069,7 +2069,7 @@
           <flat>
             <flat_id>451145</flat_id>
             <apartment>165</apartment>
-            <booking>1</booking>
+            <booking>0</booking>
             <domrf_id>0</domrf_id>
             <floor>4</floor>
             <room>1</room>
@@ -2218,7 +2218,7 @@
           <flat>
             <flat_id>451138</flat_id>
             <apartment>158</apartment>
-            <booking>0</booking>
+            <booking>1</booking>
             <domrf_id>0</domrf_id>
             <floor>3</floor>
             <room>1</room>
@@ -3416,28 +3416,6 @@
             <description>2-комнатная квартира, 57.44 кв.м, этаж 7 из 12. ЖК «Оптимист» от ГК «ПСК». Рядом метро Бухарестская, 10 мин пешком.</description>
           </flat>
           <flat>
-            <flat_id>451482</flat_id>
-            <apartment>502</apartment>
-            <booking>1</booking>
-            <domrf_id>0</domrf_id>
-            <floor>12</floor>
-            <room>2</room>
-            <plans>
-              <plan>https://feedhub.realty/feed-evel/plans/plan-e74b716618d276a8.jpg</plan>
-            </plans>
-            <renovation>предчистовая</renovation>
-            <price>26061750</price>
-            <discounts>
-              <discount>
-                <value>15.0</value>
-                <description>Скидка по акции</description>
-              </discount>
-            </discounts>
-            <area>56.25</area>
-            <housing_type>0</housing_type>
-            <description>2-комнатная квартира, 56.25 кв.м, этаж 12 из 12. ЖК «Оптимист» от ГК «ПСК». Рядом метро Бухарестская, 10 мин пешком.</description>
-          </flat>
-          <flat>
             <flat_id>451139</flat_id>
             <apartment>159</apartment>
             <booking>0</booking>
@@ -4508,7 +4486,7 @@
           <flat>
             <flat_id>415260</flat_id>
             <apartment>132</apartment>
-            <booking>0</booking>
+            <booking>1</booking>
             <domrf_id>0</domrf_id>
             <floor>4</floor>
             <room>0</room>
@@ -4658,6 +4636,28 @@
             <area>26.02</area>
             <housing_type>0</housing_type>
             <description>Студия, 26.02 кв.м, этаж 5 из 7. ЖК «Сезоны» от ГК «ПСК». Рядом метро Проспект Просвещения, 15 мин на машине.</description>
+          </flat>
+          <flat>
+            <flat_id>415275</flat_id>
+            <apartment>147</apartment>
+            <booking>1</booking>
+            <domrf_id>0</domrf_id>
+            <floor>6</floor>
+            <room>0</room>
+            <plans>
+              <plan>https://feedhub.realty/feed-evel/plans/plan-099fe1c771bfba5e.jpg</plan>
+            </plans>
+            <renovation>предчистовая</renovation>
+            <price>8257791</price>
+            <discounts>
+              <discount>
+                <value>15.0</value>
+                <description>Скидка по акции</description>
+              </discount>
+            </discounts>
+            <area>25.65</area>
+            <housing_type>0</housing_type>
+            <description>Студия, 25.65 кв.м, этаж 6 из 7. ЖК «Сезоны» от ГК «ПСК». Рядом метро Проспект Просвещения, 15 мин на машине.</description>
           </flat>
           <flat>
             <flat_id>415154</flat_id>
@@ -4902,28 +4902,6 @@
             <description>1-комнатная квартира, 41.49 кв.м, этаж 2 из 7. ЖК «Сезоны» от ГК «ПСК». Рядом метро Проспект Просвещения, 15 мин на машине.</description>
           </flat>
           <flat>
-            <flat_id>415151</flat_id>
-            <apartment>23</apartment>
-            <booking>1</booking>
-            <domrf_id>0</domrf_id>
-            <floor>4</floor>
-            <room>1</room>
-            <plans>
-              <plan>https://feedhub.realty/feed-evel/plans/plan-619eb839bd860839.jpg</plan>
-            </plans>
-            <renovation>предчистовая</renovation>
-            <price>15381997</price>
-            <discounts>
-              <discount>
-                <value>15.0</value>
-                <description>Скидка по акции</description>
-              </discount>
-            </discounts>
-            <area>41.45</area>
-            <housing_type>0</housing_type>
-            <description>1-комнатная квартира, 41.45 кв.м, этаж 4 из 7. ЖК «Сезоны» от ГК «ПСК». Рядом метро Проспект Просвещения, 15 мин на машине.</description>
-          </flat>
-          <flat>
             <flat_id>415163</flat_id>
             <apartment>35</apartment>
             <booking>0</booking>
@@ -4966,6 +4944,28 @@
             <area>57.6</area>
             <housing_type>0</housing_type>
             <description>2-комнатная квартира, 57.6 кв.м, этаж 2 из 7. ЖК «Сезоны» от ГК «ПСК». Рядом метро Проспект Просвещения, 15 мин на машине.</description>
+          </flat>
+          <flat>
+            <flat_id>415229</flat_id>
+            <apartment>101</apartment>
+            <booking>1</booking>
+            <domrf_id>0</domrf_id>
+            <floor>6</floor>
+            <room>2</room>
+            <plans>
+              <plan>https://feedhub.realty/feed-evel/plans/plan-3fb4ed2346ca4f68.jpg</plan>
+            </plans>
+            <renovation>предчистовая</renovation>
+            <price>20220534</price>
+            <discounts>
+              <discount>
+                <value>15.0</value>
+                <description>Скидка по акции</description>
+              </discount>
+            </discounts>
+            <area>61.91</area>
+            <housing_type>0</housing_type>
+            <description>2-комнатная квартира, 61.91 кв.м, этаж 6 из 7. ЖК «Сезоны» от ГК «ПСК». Рядом метро Проспект Просвещения, 15 мин на машине.</description>
           </flat>
           <flat>
             <flat_id>415210</flat_id>
@@ -5322,7 +5322,7 @@
           <flat>
             <flat_id>415195</flat_id>
             <apartment>67</apartment>
-            <booking>0</booking>
+            <booking>1</booking>
             <domrf_id>0</domrf_id>
             <floor>5</floor>
             <room>3</room>
@@ -5617,28 +5617,6 @@
             <area>27.98</area>
             <housing_type>0</housing_type>
             <description>Студия, 27.98 кв.м, этаж 1 из 25. ЖК «Сезоны» от ГК «ПСК». Рядом метро Проспект Просвещения, 15 мин на машине.</description>
-          </flat>
-          <flat>
-            <flat_id>415420</flat_id>
-            <apartment>82</apartment>
-            <booking>1</booking>
-            <domrf_id>0</domrf_id>
-            <floor>9</floor>
-            <room>0</room>
-            <plans>
-              <plan>https://feedhub.realty/feed-evel/plans/plan-27c54a3853b5d1f0.jpg</plan>
-            </plans>
-            <renovation>предчистовая</renovation>
-            <price>8225850</price>
-            <discounts>
-              <discount>
-                <value>15.0</value>
-                <description>Скидка по акции</description>
-              </discount>
-            </discounts>
-            <area>26.35</area>
-            <housing_type>0</housing_type>
-            <description>Студия, 26.35 кв.м, этаж 9 из 25. ЖК «Сезоны» от ГК «ПСК». Рядом метро Проспект Просвещения, 15 мин на машине.</description>
           </flat>
           <flat>
             <flat_id>415460</flat_id>
@@ -5947,28 +5925,6 @@
             <area>28.13</area>
             <housing_type>0</housing_type>
             <description>Студия, 28.13 кв.м, этаж 24 из 25. ЖК «Сезоны» от ГК «ПСК». Рядом метро Проспект Просвещения, 15 мин на машине.</description>
-          </flat>
-          <flat>
-            <flat_id>415391</flat_id>
-            <apartment>53</apartment>
-            <booking>1</booking>
-            <domrf_id>0</domrf_id>
-            <floor>6</floor>
-            <room>1</room>
-            <plans>
-              <plan>https://feedhub.realty/feed-evel/plans/plan-abf59038c5e5257b.jpg</plan>
-            </plans>
-            <renovation>предчистовая</renovation>
-            <price>12794521</price>
-            <discounts>
-              <discount>
-                <value>15.0</value>
-                <description>Скидка по акции</description>
-              </discount>
-            </discounts>
-            <area>41.66</area>
-            <housing_type>0</housing_type>
-            <description>1-комнатная квартира, 41.66 кв.м, этаж 6 из 25. ЖК «Сезоны» от ГК «ПСК». Рядом метро Проспект Просвещения, 15 мин на машине.</description>
           </flat>
           <flat>
             <flat_id>415421</flat_id>
@@ -7831,27 +7787,6 @@
             <description>1-комнатная квартира, 41.66 кв.м, этаж 13 из 25. ЖК «Сезоны» от ГК «ПСК». Рядом метро Проспект Просвещения, 15 мин на машине.</description>
           </flat>
           <flat>
-            <flat_id>415722</flat_id>
-            <apartment>137</apartment>
-            <booking>0</booking>
-            <domrf_id>0</domrf_id>
-            <floor>14</floor>
-            <room>1</room>
-            <plans>
-              <plan>https://feedhub.realty/feed-evel/plans/plan-ffd0aab95cdcd1ef.jpg</plan>
-            </plans>
-            <price>14723014</price>
-            <discounts>
-              <discount>
-                <value>15.0</value>
-                <description>Скидка по акции</description>
-              </discount>
-            </discounts>
-            <area>41.75</area>
-            <housing_type>0</housing_type>
-            <description>1-комнатная квартира, 41.75 кв.м, этаж 14 из 25. ЖК «Сезоны» от ГК «ПСК». Рядом метро Проспект Просвещения, 15 мин на машине.</description>
-          </flat>
-          <flat>
             <flat_id>415728</flat_id>
             <apartment>143</apartment>
             <booking>0</booking>
@@ -9293,27 +9228,6 @@
             <description>Студия, 25.89 кв.м, этаж 5 из 7. ЖК «Сезоны» от ГК «ПСК». Рядом метро Проспект Просвещения, 15 мин на машине.</description>
           </flat>
           <flat>
-            <flat_id>415869</flat_id>
-            <apartment>37</apartment>
-            <booking>1</booking>
-            <domrf_id>0</domrf_id>
-            <floor>5</floor>
-            <room>0</room>
-            <plans>
-              <plan>https://feedhub.realty/feed-evel/plans/plan-2fe9324eb5e10d1c.jpg</plan>
-            </plans>
-            <price>9381129</price>
-            <discounts>
-              <discount>
-                <value>15.0</value>
-                <description>Скидка по акции</description>
-              </discount>
-            </discounts>
-            <area>26.08</area>
-            <housing_type>0</housing_type>
-            <description>Студия, 26.08 кв.м, этаж 5 из 7. ЖК «Сезоны» от ГК «ПСК». Рядом метро Проспект Просвещения, 15 мин на машине.</description>
-          </flat>
-          <flat>
             <flat_id>415974</flat_id>
             <apartment>142</apartment>
             <booking>0</booking>
@@ -9610,7 +9524,7 @@
           <flat>
             <flat_id>416040</flat_id>
             <apartment>208</apartment>
-            <booking>1</booking>
+            <booking>0</booking>
             <domrf_id>0</domrf_id>
             <floor>5</floor>
             <room>1</room>
@@ -10093,7 +10007,7 @@
           <flat>
             <flat_id>416027</flat_id>
             <apartment>195</apartment>
-            <booking>0</booking>
+            <booking>1</booking>
             <domrf_id>0</domrf_id>
             <floor>4</floor>
             <room>3</room>
@@ -10135,7 +10049,7 @@
           <flat>
             <flat_id>416035</flat_id>
             <apartment>203</apartment>
-            <booking>0</booking>
+            <booking>1</booking>
             <domrf_id>0</domrf_id>
             <floor>5</floor>
             <room>3</room>
@@ -10899,7 +10813,7 @@
           <flat>
             <flat_id>431820</flat_id>
             <apartment>13</apartment>
-            <booking>1</booking>
+            <booking>0</booking>
             <domrf_id>0</domrf_id>
             <floor>5</floor>
             <room>3</room>
@@ -10943,7 +10857,7 @@
           <flat>
             <flat_id>431828</flat_id>
             <apartment>21</apartment>
-            <booking>1</booking>
+            <booking>0</booking>
             <domrf_id>0</domrf_id>
             <floor>7</floor>
             <room>3</room>
@@ -13332,7 +13246,7 @@
           <flat>
             <flat_id>432152</flat_id>
             <apartment>339</apartment>
-            <booking>0</booking>
+            <booking>1</booking>
             <domrf_id>0</domrf_id>
             <floor>5</floor>
             <room>3</room>
@@ -13354,7 +13268,7 @@
           <flat>
             <flat_id>432080</flat_id>
             <apartment>273</apartment>
-            <booking>0</booking>
+            <booking>1</booking>
             <domrf_id>0</domrf_id>
             <floor>5</floor>
             <room>3</room>
@@ -13376,7 +13290,7 @@
           <flat>
             <flat_id>432081</flat_id>
             <apartment>274</apartment>
-            <booking>0</booking>
+            <booking>1</booking>
             <domrf_id>0</domrf_id>
             <floor>5</floor>
             <room>3</room>
@@ -13442,7 +13356,7 @@
           <flat>
             <flat_id>432004</flat_id>
             <apartment>197</apartment>
-            <booking>0</booking>
+            <booking>1</booking>
             <domrf_id>0</domrf_id>
             <floor>5</floor>
             <room>3</room>
@@ -13662,7 +13576,7 @@
           <flat>
             <flat_id>432013</flat_id>
             <apartment>206</apartment>
-            <booking>0</booking>
+            <booking>1</booking>
             <domrf_id>0</domrf_id>
             <floor>7</floor>
             <room>3</room>
@@ -13770,28 +13684,6 @@
             <description>3-комнатная квартира, 108.54 кв.м, этаж 7 из 9. ЖК «Акватория» от ГК «ПСК». Рядом метро Петроградская, 5 мин на машине.</description>
           </flat>
           <flat>
-            <flat_id>432158</flat_id>
-            <apartment>345</apartment>
-            <booking>1</booking>
-            <domrf_id>0</domrf_id>
-            <floor>6</floor>
-            <room>3</room>
-            <plans>
-              <plan>https://feedhub.realty/feed-evel/plans/plan-6e1f93e59452deb8.jpg</plan>
-            </plans>
-            <renovation>без отделки</renovation>
-            <price>95049210</price>
-            <discounts>
-              <discount>
-                <value>20.0</value>
-                <description>Скидка по акции</description>
-              </discount>
-            </discounts>
-            <area>109.63</area>
-            <housing_type>0</housing_type>
-            <description>3-комнатная квартира, 109.63 кв.м, этаж 6 из 9. ЖК «Акватория» от ГК «ПСК». Рядом метро Петроградская, 5 мин на машине.</description>
-          </flat>
-          <flat>
             <flat_id>432113</flat_id>
             <apartment>303</apartment>
             <booking>0</booking>
@@ -13816,7 +13708,7 @@
           <flat>
             <flat_id>432018</flat_id>
             <apartment>211</apartment>
-            <booking>1</booking>
+            <booking>0</booking>
             <domrf_id>0</domrf_id>
             <floor>8</floor>
             <room>3</room>
@@ -14363,7 +14255,7 @@
           <flat>
             <flat_id>373786</flat_id>
             <apartment>37</apartment>
-            <booking>1</booking>
+            <booking>0</booking>
             <domrf_id>0</domrf_id>
             <floor>5</floor>
             <room>2</room>
@@ -14451,7 +14343,7 @@
           <flat>
             <flat_id>373761</flat_id>
             <apartment>12</apartment>
-            <booking>0</booking>
+            <booking>1</booking>
             <domrf_id>0</domrf_id>
             <floor>5</floor>
             <room>2</room>
@@ -14537,6 +14429,28 @@
             <description>2-комнатная квартира, 76.88 кв.м, этаж 3 из 7. ЖК «Ассамблея» от ГК «ПСК». Рядом метро Горный институт, 11 мин пешком.</description>
           </flat>
           <flat>
+            <flat_id>373768</flat_id>
+            <apartment>19</apartment>
+            <booking>1</booking>
+            <domrf_id>0</domrf_id>
+            <floor>6</floor>
+            <room>2</room>
+            <plans>
+              <plan>https://feedhub.realty/feed-evel/plans/plan-e51b06901f7fd2ea.jpg</plan>
+            </plans>
+            <renovation>без отделки</renovation>
+            <price>42930805</price>
+            <discounts>
+              <discount>
+                <value>20.0</value>
+                <description>Скидка по акции</description>
+              </discount>
+            </discounts>
+            <area>81.66</area>
+            <housing_type>0</housing_type>
+            <description>2-комнатная квартира, 81.66 кв.м, этаж 6 из 7. ЖК «Ассамблея» от ГК «ПСК». Рядом метро Горный институт, 11 мин пешком.</description>
+          </flat>
+          <flat>
             <flat_id>373792</flat_id>
             <apartment>43</apartment>
             <booking>0</booking>
@@ -14561,7 +14475,7 @@
           <flat>
             <flat_id>373772</flat_id>
             <apartment>23</apartment>
-            <booking>1</booking>
+            <booking>0</booking>
             <domrf_id>0</domrf_id>
             <floor>7</floor>
             <room>2</room>
@@ -15212,7 +15126,7 @@
           <flat>
             <flat_id>373824</flat_id>
             <apartment>75</apartment>
-            <booking>0</booking>
+            <booking>1</booking>
             <domrf_id>0</domrf_id>
             <floor>6</floor>
             <room>3</room>
@@ -17658,7 +17572,7 @@
           <flat>
             <flat_id>374545</flat_id>
             <apartment>461</apartment>
-            <booking>0</booking>
+            <booking>1</booking>
             <domrf_id>0</domrf_id>
             <floor>4</floor>
             <room>1</room>
@@ -18780,7 +18694,7 @@
           <flat>
             <flat_id>374560</flat_id>
             <apartment>476</apartment>
-            <booking>0</booking>
+            <booking>1</booking>
             <domrf_id>0</domrf_id>
             <floor>6</floor>
             <room>1</room>
@@ -22113,28 +22027,6 @@
             <description>1-комнатная квартира, 42.61 кв.м, этаж 7 из 12. ЖК «Ассамблея» от ГК «ПСК». Рядом метро Горный институт, 11 мин пешком.</description>
           </flat>
           <flat>
-            <flat_id>374661</flat_id>
-            <apartment>577</apartment>
-            <booking>1</booking>
-            <domrf_id>0</domrf_id>
-            <floor>7</floor>
-            <room>1</room>
-            <plans>
-              <plan>https://feedhub.realty/feed-evel/plans/plan-287ae88165479d15.jpg</plan>
-            </plans>
-            <renovation>без отделки</renovation>
-            <price>22277149</price>
-            <discounts>
-              <discount>
-                <value>20.0</value>
-                <description>Скидка по акции</description>
-              </discount>
-            </discounts>
-            <area>42.48</area>
-            <housing_type>0</housing_type>
-            <description>1-комнатная квартира, 42.48 кв.м, этаж 7 из 12. ЖК «Ассамблея» от ГК «ПСК». Рядом метро Горный институт, 11 мин пешком.</description>
-          </flat>
-          <flat>
             <flat_id>374931</flat_id>
             <apartment>847</apartment>
             <booking>0</booking>
@@ -22401,7 +22293,7 @@
           <flat>
             <flat_id>374659</flat_id>
             <apartment>575</apartment>
-            <booking>0</booking>
+            <booking>1</booking>
             <domrf_id>0</domrf_id>
             <floor>7</floor>
             <room>1</room>
@@ -22551,28 +22443,6 @@
             <area>42.61</area>
             <housing_type>0</housing_type>
             <description>1-комнатная квартира, 42.61 кв.м, этаж 9 из 12. ЖК «Ассамблея» от ГК «ПСК». Рядом метро Горный институт, 11 мин пешком.</description>
-          </flat>
-          <flat>
-            <flat_id>374773</flat_id>
-            <apartment>689</apartment>
-            <booking>1</booking>
-            <domrf_id>0</domrf_id>
-            <floor>11</floor>
-            <room>1</room>
-            <plans>
-              <plan>https://feedhub.realty/feed-evel/plans/plan-967b7c925f598456.jpg</plan>
-            </plans>
-            <renovation>без отделки</renovation>
-            <price>22465163</price>
-            <discounts>
-              <discount>
-                <value>20.0</value>
-                <description>Скидка по акции</description>
-              </discount>
-            </discounts>
-            <area>42.61</area>
-            <housing_type>0</housing_type>
-            <description>1-комнатная квартира, 42.61 кв.м, этаж 11 из 12. ЖК «Ассамблея» от ГК «ПСК». Рядом метро Горный институт, 11 мин пешком.</description>
           </flat>
           <flat>
             <flat_id>374673</flat_id>
@@ -23325,7 +23195,7 @@
           <flat>
             <flat_id>374746</flat_id>
             <apartment>662</apartment>
-            <booking>0</booking>
+            <booking>1</booking>
             <domrf_id>0</domrf_id>
             <floor>8</floor>
             <room>2</room>
@@ -23589,7 +23459,7 @@
           <flat>
             <flat_id>374744</flat_id>
             <apartment>660</apartment>
-            <booking>1</booking>
+            <booking>0</booking>
             <domrf_id>0</domrf_id>
             <floor>8</floor>
             <room>2</room>
@@ -24689,7 +24559,7 @@
           <flat>
             <flat_id>374681</flat_id>
             <apartment>597</apartment>
-            <booking>0</booking>
+            <booking>1</booking>
             <domrf_id>0</domrf_id>
             <floor>11</floor>
             <room>3</room>
@@ -25263,7 +25133,7 @@
           <flat>
             <flat_id>401902</flat_id>
             <apartment>340</apartment>
-            <booking>0</booking>
+            <booking>1</booking>
             <domrf_id>0</domrf_id>
             <floor>10</floor>
             <room>1</room>
@@ -25703,7 +25573,7 @@
           <flat>
             <flat_id>401868</flat_id>
             <apartment>306</apartment>
-            <booking>0</booking>
+            <booking>1</booking>
             <domrf_id>0</domrf_id>
             <floor>5</floor>
             <room>2</room>
@@ -25725,7 +25595,7 @@
           <flat>
             <flat_id>401891</flat_id>
             <apartment>329</apartment>
-            <booking>0</booking>
+            <booking>1</booking>
             <domrf_id>0</domrf_id>
             <floor>8</floor>
             <room>2</room>
@@ -26011,7 +25881,7 @@
           <flat>
             <flat_id>401798</flat_id>
             <apartment>236</apartment>
-            <booking>1</booking>
+            <booking>0</booking>
             <domrf_id>0</domrf_id>
             <floor>3</floor>
             <room>3</room>
@@ -26055,7 +25925,7 @@
           <flat>
             <flat_id>401808</flat_id>
             <apartment>246</apartment>
-            <booking>0</booking>
+            <booking>1</booking>
             <domrf_id>0</domrf_id>
             <floor>5</floor>
             <room>3</room>
@@ -26185,6 +26055,28 @@
             <description>3-комнатная квартира, 81.52 кв.м, этаж 7 из 12. ЖК «Галерная гавань» от ГК «ПСК». Рядом метро Приморская, 20 мин пешком.</description>
           </flat>
           <flat>
+            <flat_id>401903</flat_id>
+            <apartment>341</apartment>
+            <booking>1</booking>
+            <domrf_id>0</domrf_id>
+            <floor>10</floor>
+            <room>2</room>
+            <plans>
+              <plan>https://feedhub.realty/feed-evel/plans/plan-0616d65526bdace8.jpg</plan>
+            </plans>
+            <renovation>без отделки</renovation>
+            <price>38387700</price>
+            <discounts>
+              <discount>
+                <value>20.0</value>
+                <description>Скидка по акции</description>
+              </discount>
+            </discounts>
+            <area>62.4</area>
+            <housing_type>0</housing_type>
+            <description>2-комнатная квартира, 62.4 кв.м, этаж 10 из 12. ЖК «Галерная гавань» от ГК «ПСК». Рядом метро Приморская, 20 мин пешком.</description>
+          </flat>
+          <flat>
             <flat_id>401948</flat_id>
             <apartment>386</apartment>
             <booking>0</booking>
@@ -26253,7 +26145,7 @@
           <flat>
             <flat_id>401828</flat_id>
             <apartment>266</apartment>
-            <booking>1</booking>
+            <booking>0</booking>
             <domrf_id>0</domrf_id>
             <floor>9</floor>
             <room>3</room>
@@ -26297,7 +26189,7 @@
           <flat>
             <flat_id>401963</flat_id>
             <apartment>401</apartment>
-            <booking>1</booking>
+            <booking>0</booking>
             <domrf_id>0</domrf_id>
             <floor>11</floor>
             <room>2</room>
@@ -27404,7 +27296,7 @@
           <flat>
             <flat_id>401758</flat_id>
             <apartment>196</apartment>
-            <booking>0</booking>
+            <booking>1</booking>
             <domrf_id>0</domrf_id>
             <floor>11</floor>
             <room>1</room>
@@ -27680,28 +27572,6 @@
             <area>47.79</area>
             <housing_type>0</housing_type>
             <description>1-комнатная квартира, 47.79 кв.м, этаж 9 из 12. ЖК «Галерная гавань» от ГК «ПСК». Рядом метро Приморская, 20 мин пешком.</description>
-          </flat>
-          <flat>
-            <flat_id>401764</flat_id>
-            <apartment>202</apartment>
-            <booking>1</booking>
-            <domrf_id>0</domrf_id>
-            <floor>11</floor>
-            <room>1</room>
-            <plans>
-              <plan>https://feedhub.realty/feed-evel/plans/plan-0692b03318cec604.jpg</plan>
-            </plans>
-            <renovation>без отделки</renovation>
-            <price>24435624</price>
-            <discounts>
-              <discount>
-                <value>20.0</value>
-                <description>Скидка по акции</description>
-              </discount>
-            </discounts>
-            <area>47.79</area>
-            <housing_type>0</housing_type>
-            <description>1-комнатная квартира, 47.79 кв.м, этаж 11 из 12. ЖК «Галерная гавань» от ГК «ПСК». Рядом метро Приморская, 20 мин пешком.</description>
           </flat>
           <flat>
             <flat_id>401657</flat_id>
@@ -28144,6 +28014,28 @@
             <description>2-комнатная квартира, 62.9 кв.м, этаж 5 из 12. ЖК «Галерная гавань» от ГК «ПСК». Рядом метро Приморская, 20 мин пешком.</description>
           </flat>
           <flat>
+            <flat_id>401636</flat_id>
+            <apartment>74</apartment>
+            <booking>1</booking>
+            <domrf_id>0</domrf_id>
+            <floor>12</floor>
+            <room>2</room>
+            <plans>
+              <plan>https://feedhub.realty/feed-evel/plans/plan-fa835c8b74d8d6a4.jpg</plan>
+            </plans>
+            <renovation>без отделки</renovation>
+            <price>31175813</price>
+            <discounts>
+              <discount>
+                <value>20.0</value>
+                <description>Скидка по акции</description>
+              </discount>
+            </discounts>
+            <area>45.53</area>
+            <housing_type>0</housing_type>
+            <description>2-комнатная квартира, 45.53 кв.м, этаж 12 из 12. ЖК «Галерная гавань» от ГК «ПСК». Рядом метро Приморская, 20 мин пешком.</description>
+          </flat>
+          <flat>
             <flat_id>401676</flat_id>
             <apartment>114</apartment>
             <booking>0</booking>
@@ -28562,6 +28454,28 @@
             <description>3-комнатная квартира, 73.88 кв.м, этаж 2 из 12. ЖК «Галерная гавань» от ГК «ПСК». Рядом метро Приморская, 20 мин пешком.</description>
           </flat>
           <flat>
+            <flat_id>401637</flat_id>
+            <apartment>75</apartment>
+            <booking>1</booking>
+            <domrf_id>0</domrf_id>
+            <floor>12</floor>
+            <room>2</room>
+            <plans>
+              <plan>https://feedhub.realty/feed-evel/plans/plan-7c7a35198b8169c9.jpg</plan>
+            </plans>
+            <renovation>без отделки</renovation>
+            <price>33408204</price>
+            <discounts>
+              <discount>
+                <value>20.0</value>
+                <description>Скидка по акции</description>
+              </discount>
+            </discounts>
+            <area>62.79</area>
+            <housing_type>0</housing_type>
+            <description>2-комнатная квартира, 62.79 кв.м, этаж 12 из 12. ЖК «Галерная гавань» от ГК «ПСК». Рядом метро Приморская, 20 мин пешком.</description>
+          </flat>
+          <flat>
             <flat_id>401707</flat_id>
             <apartment>145</apartment>
             <booking>0</booking>
@@ -28718,7 +28632,7 @@
           <flat>
             <flat_id>401706</flat_id>
             <apartment>144</apartment>
-            <booking>0</booking>
+            <booking>1</booking>
             <domrf_id>0</domrf_id>
             <floor>3</floor>
             <room>3</room>
@@ -28740,7 +28654,7 @@
           <flat>
             <flat_id>401763</flat_id>
             <apartment>201</apartment>
-            <booking>1</booking>
+            <booking>0</booking>
             <domrf_id>0</domrf_id>
             <floor>11</floor>
             <room>3</room>
@@ -28762,7 +28676,7 @@
           <flat>
             <flat_id>401720</flat_id>
             <apartment>158</apartment>
-            <booking>0</booking>
+            <booking>1</booking>
             <domrf_id>0</domrf_id>
             <floor>5</floor>
             <room>3</room>
@@ -29026,7 +28940,7 @@
           <flat>
             <flat_id>401738</flat_id>
             <apartment>176</apartment>
-            <booking>1</booking>
+            <booking>0</booking>
             <domrf_id>0</domrf_id>
             <floor>8</floor>
             <room>3</room>
@@ -29225,7 +29139,7 @@
           <flat>
             <flat_id>401782</flat_id>
             <apartment>220</apartment>
-            <booking>0</booking>
+            <booking>1</booking>
             <domrf_id>0</domrf_id>
             <floor>4</floor>
             <room>2</room>
@@ -29732,6 +29646,27 @@
         <ready_quarter>4</ready_quarter>
         <flats>
           <flat>
+            <flat_id>139492</flat_id>
+            <apartment>42</apartment>
+            <booking>0</booking>
+            <domrf_id>0</domrf_id>
+            <floor>1</floor>
+            <room>0</room>
+            <plans>
+              <plan>https://feedhub.realty/feed-evel/plans/plan-7200dbcba934907a.jpg</plan>
+            </plans>
+            <price>8215000</price>
+            <discounts>
+              <discount>
+                <value>10.0</value>
+                <description>Скидка по акции</description>
+              </discount>
+            </discounts>
+            <area>26.5</area>
+            <housing_type>0</housing_type>
+            <description>Студия, 26.5 кв.м, этаж 1 из 5. ЖК «ПЛЮС Пулковский, сити-квартал» от ГК «ПСК». Рядом метро Московская, 15 мин на машине.</description>
+          </flat>
+          <flat>
             <flat_id>139548</flat_id>
             <apartment>98</apartment>
             <booking>1</booking>
@@ -29755,7 +29690,7 @@
           <flat>
             <flat_id>139582</flat_id>
             <apartment>132</apartment>
-            <booking>0</booking>
+            <booking>1</booking>
             <domrf_id>0</domrf_id>
             <floor>3</floor>
             <room>1</room>
@@ -29850,6 +29785,27 @@
         <ready_quarter>4</ready_quarter>
         <flats>
           <flat>
+            <flat_id>201469</flat_id>
+            <apartment>61</apartment>
+            <booking>0</booking>
+            <domrf_id>0</domrf_id>
+            <floor>1</floor>
+            <room>0</room>
+            <plans>
+              <plan>https://feedhub.realty/feed-evel/plans/plan-d77598edf3a927e2.jpg</plan>
+            </plans>
+            <price>7471111</price>
+            <discounts>
+              <discount>
+                <value>10.0</value>
+                <description>Скидка по акции</description>
+              </discount>
+            </discounts>
+            <area>20.5</area>
+            <housing_type>0</housing_type>
+            <description>Студия, 20.5 кв.м, этаж 1 из 5. ЖК «ПЛЮС Пулковский, сити-квартал» от ГК «ПСК». Рядом метро Московская, 15 мин на машине.</description>
+          </flat>
+          <flat>
             <flat_id>201438</flat_id>
             <apartment>30</apartment>
             <booking>0</booking>
@@ -29869,6 +29825,40 @@
             <area>43.3</area>
             <housing_type>0</housing_type>
             <description>1-комнатная квартира, 43.3 кв.м, этаж 1 из 5. ЖК «ПЛЮС Пулковский, сити-квартал» от ГК «ПСК». Рядом метро Московская, 15 мин на машине.</description>
+          </flat>
+        </flats>
+      </building>
+      <building>
+        <id>184726</id>
+        <name>корпус 5</name>
+        <latitude>59.747475</latitude>
+        <longitude>30.310545</longitude>
+        <address>г. Санкт-Петербург, Пулковское шоссе, 24</address>
+        <floors>5</floors>
+        <building_state>unfinished</building_state>
+        <built_year>2025</built_year>
+        <ready_quarter>4</ready_quarter>
+        <flats>
+          <flat>
+            <flat_id>201499</flat_id>
+            <apartment>4</apartment>
+            <booking>0</booking>
+            <domrf_id>0</domrf_id>
+            <floor>1</floor>
+            <room>0</room>
+            <plans>
+              <plan>https://feedhub.realty/feed-evel/plans/plan-f02b4c6031b427a9.jpg</plan>
+            </plans>
+            <price>7593667</price>
+            <discounts>
+              <discount>
+                <value>10.0</value>
+                <description>Скидка по акции</description>
+              </discount>
+            </discounts>
+            <area>20.9</area>
+            <housing_type>0</housing_type>
+            <description>Студия, 20.9 кв.м, этаж 1 из 5. ЖК «ПЛЮС Пулковский, сити-квартал» от ГК «ПСК». Рядом метро Московская, 15 мин на машине.</description>
           </flat>
         </flats>
       </building>
@@ -29903,27 +29893,6 @@
             <area>27.65</area>
             <housing_type>0</housing_type>
             <description>Студия, 27.65 кв.м, этаж 5 из 5. ЖК «ПЛЮС Пулковский, сити-квартал» от ГК «ПСК». Рядом метро Московская, 15 мин на машине.</description>
-          </flat>
-          <flat>
-            <flat_id>335018</flat_id>
-            <apartment>34</apartment>
-            <booking>1</booking>
-            <domrf_id>0</domrf_id>
-            <floor>1</floor>
-            <room>1</room>
-            <plans>
-              <plan>https://feedhub.realty/feed-evel/plans/plan-7a11d9b0674006c8.jpg</plan>
-            </plans>
-            <price>10906311</price>
-            <discounts>
-              <discount>
-                <value>10.0</value>
-                <description>Скидка по акции</description>
-              </discount>
-            </discounts>
-            <area>39.2</area>
-            <housing_type>0</housing_type>
-            <description>1-комнатная квартира, 39.2 кв.м, этаж 1 из 5. ЖК «ПЛЮС Пулковский, сити-квартал» от ГК «ПСК». Рядом метро Московская, 15 мин на машине.</description>
           </flat>
           <flat>
             <flat_id>335017</flat_id>
@@ -30613,7 +30582,7 @@
           <flat>
             <flat_id>394912</flat_id>
             <apartment>23</apartment>
-            <booking>1</booking>
+            <booking>0</booking>
             <domrf_id>0</domrf_id>
             <floor>4</floor>
             <room>3</room>
@@ -31025,7 +30994,7 @@
           <flat>
             <flat_id>394991</flat_id>
             <apartment>6</apartment>
-            <booking>1</booking>
+            <booking>0</booking>
             <domrf_id>0</domrf_id>
             <floor>2</floor>
             <room>2</room>
@@ -31332,7 +31301,7 @@
           <flat>
             <flat_id>395123</flat_id>
             <apartment>53</apartment>
-            <booking>1</booking>
+            <booking>0</booking>
             <domrf_id>0</domrf_id>
             <floor>2</floor>
             <room>0</room>
@@ -31752,7 +31721,7 @@
           <flat>
             <flat_id>395184</flat_id>
             <apartment>114</apartment>
-            <booking>0</booking>
+            <booking>1</booking>
             <domrf_id>0</domrf_id>
             <floor>3</floor>
             <room>0</room>
@@ -31773,7 +31742,7 @@
           <flat>
             <flat_id>395193</flat_id>
             <apartment>123</apartment>
-            <booking>0</booking>
+            <booking>1</booking>
             <domrf_id>0</domrf_id>
             <floor>4</floor>
             <room>0</room>
@@ -32763,27 +32732,6 @@
             <description>Студия, 28.49 кв.м, этаж 5 из 5. ЖК «ПЛЮС Пулковский, сити-квартал» от ГК «ПСК». Рядом метро Московская, 15 мин на машине.</description>
           </flat>
           <flat>
-            <flat_id>395316</flat_id>
-            <apartment>56</apartment>
-            <booking>1</booking>
-            <domrf_id>0</domrf_id>
-            <floor>5</floor>
-            <room>0</room>
-            <plans>
-              <plan>https://feedhub.realty/feed-evel/plans/plan-49a7dce5b1988fb6.jpg</plan>
-            </plans>
-            <price>8606230</price>
-            <discounts>
-              <discount>
-                <value>15.0</value>
-                <description>Скидка по акции</description>
-              </discount>
-            </discounts>
-            <area>28.96</area>
-            <housing_type>0</housing_type>
-            <description>Студия, 28.96 кв.м, этаж 5 из 5. ЖК «ПЛЮС Пулковский, сити-квартал» от ГК «ПСК». Рядом метро Московская, 15 мин на машине.</description>
-          </flat>
-          <flat>
             <flat_id>395343</flat_id>
             <apartment>83</apartment>
             <booking>0</booking>
@@ -33038,7 +32986,7 @@
           <flat>
             <flat_id>395276</flat_id>
             <apartment>16</apartment>
-            <booking>1</booking>
+            <booking>0</booking>
             <domrf_id>0</domrf_id>
             <floor>4</floor>
             <room>2</room>
@@ -33139,27 +33087,6 @@
             <area>56.9</area>
             <housing_type>0</housing_type>
             <description>2-комнатная квартира, 56.9 кв.м, этаж 2 из 5. ЖК «ПЛЮС Пулковский, сити-квартал» от ГК «ПСК». Рядом метро Московская, 15 мин на машине.</description>
-          </flat>
-          <flat>
-            <flat_id>395318</flat_id>
-            <apartment>58</apartment>
-            <booking>0</booking>
-            <domrf_id>0</domrf_id>
-            <floor>5</floor>
-            <room>2</room>
-            <plans>
-              <plan>https://feedhub.realty/feed-evel/plans/plan-c552ad0736d4137a.jpg</plan>
-            </plans>
-            <price>17491729</price>
-            <discounts>
-              <discount>
-                <value>15.0</value>
-                <description>Скидка по акции</description>
-              </discount>
-            </discounts>
-            <area>56.9</area>
-            <housing_type>0</housing_type>
-            <description>2-комнатная квартира, 56.9 кв.м, этаж 5 из 5. ЖК «ПЛЮС Пулковский, сити-квартал» от ГК «ПСК». Рядом метро Московская, 15 мин на машине.</description>
           </flat>
           <flat>
             <flat_id>395336</flat_id>
@@ -33471,7 +33398,7 @@
           <flat>
             <flat_id>395407</flat_id>
             <apartment>60</apartment>
-            <booking>0</booking>
+            <booking>1</booking>
             <domrf_id>0</domrf_id>
             <floor>1</floor>
             <room>0</room>
@@ -33996,7 +33923,7 @@
           <flat>
             <flat_id>395402</flat_id>
             <apartment>55</apartment>
-            <booking>1</booking>
+            <booking>0</booking>
             <domrf_id>0</domrf_id>
             <floor>5</floor>
             <room>1</room>
@@ -35765,7 +35692,7 @@
           <flat>
             <flat_id>487769</flat_id>
             <apartment>85</apartment>
-            <booking>1</booking>
+            <booking>0</booking>
             <domrf_id>0</domrf_id>
             <floor>3</floor>
             <room>0</room>
@@ -36395,7 +36322,7 @@
           <flat>
             <flat_id>487796</flat_id>
             <apartment>112</apartment>
-            <booking>0</booking>
+            <booking>1</booking>
             <domrf_id>0</domrf_id>
             <floor>5</floor>
             <room>0</room>
@@ -36668,7 +36595,7 @@
           <flat>
             <flat_id>487738</flat_id>
             <apartment>54</apartment>
-            <booking>0</booking>
+            <booking>1</booking>
             <domrf_id>0</domrf_id>
             <floor>2</floor>
             <room>1</room>
@@ -39754,7 +39681,7 @@
           <flat>
             <flat_id>146748</flat_id>
             <apartment>667</apartment>
-            <booking>0</booking>
+            <booking>1</booking>
             <domrf_id>0</domrf_id>
             <floor>3</floor>
             <room>2</room>
@@ -39903,7 +39830,7 @@
           <flat>
             <flat_id>146196</flat_id>
             <apartment>115</apartment>
-            <booking>0</booking>
+            <booking>1</booking>
             <domrf_id>0</domrf_id>
             <floor>3</floor>
             <room>2</room>
@@ -39945,7 +39872,7 @@
           <flat>
             <flat_id>146489</flat_id>
             <apartment>408</apartment>
-            <booking>0</booking>
+            <booking>1</booking>
             <domrf_id>0</domrf_id>
             <floor>4</floor>
             <room>2</room>
@@ -40092,7 +40019,7 @@
           <flat>
             <flat_id>146513</flat_id>
             <apartment>432</apartment>
-            <booking>1</booking>
+            <booking>0</booking>
             <domrf_id>0</domrf_id>
             <floor>12</floor>
             <room>2</room>
@@ -40113,7 +40040,7 @@
           <flat>
             <flat_id>146310</flat_id>
             <apartment>229</apartment>
-            <booking>0</booking>
+            <booking>1</booking>
             <domrf_id>0</domrf_id>
             <floor>3</floor>
             <room>2</room>
@@ -41539,7 +41466,7 @@
           <flat>
             <flat_id>398247</flat_id>
             <apartment>447</apartment>
-            <booking>0</booking>
+            <booking>1</booking>
             <domrf_id>0</domrf_id>
             <floor>5</floor>
             <room>1</room>
@@ -41997,28 +41924,6 @@
             <area>42.62</area>
             <housing_type>0</housing_type>
             <description>1-комнатная квартира, 42.62 кв.м, этаж 3 из 13. ЖК «РЕСПЕКТ» от ГК «ПСК». Рядом метро Лесная, 10 мин пешком.</description>
-          </flat>
-          <flat>
-            <flat_id>398116</flat_id>
-            <apartment>316</apartment>
-            <booking>1</booking>
-            <domrf_id>0</domrf_id>
-            <floor>4</floor>
-            <room>1</room>
-            <plans>
-              <plan>https://feedhub.realty/feed-evel/plans/plan-64dc6906af576891.jpg</plan>
-            </plans>
-            <renovation>предчистовая</renovation>
-            <price>20810593</price>
-            <discounts>
-              <discount>
-                <value>15.0</value>
-                <description>Скидка по акции</description>
-              </discount>
-            </discounts>
-            <area>42.62</area>
-            <housing_type>0</housing_type>
-            <description>1-комнатная квартира, 42.62 кв.м, этаж 4 из 13. ЖК «РЕСПЕКТ» от ГК «ПСК». Рядом метро Лесная, 10 мин пешком.</description>
           </flat>
           <flat>
             <flat_id>397875</flat_id>
@@ -42788,7 +42693,7 @@
           <flat>
             <flat_id>397817</flat_id>
             <apartment>17</apartment>
-            <booking>0</booking>
+            <booking>1</booking>
             <domrf_id>0</domrf_id>
             <floor>5</floor>
             <room>1</room>
@@ -43622,7 +43527,7 @@
           <flat>
             <flat_id>398150</flat_id>
             <apartment>350</apartment>
-            <booking>0</booking>
+            <booking>1</booking>
             <domrf_id>0</domrf_id>
             <floor>11</floor>
             <room>2</room>
@@ -43775,7 +43680,7 @@
           <flat>
             <flat_id>398624</flat_id>
             <apartment>824</apartment>
-            <booking>0</booking>
+            <booking>1</booking>
             <domrf_id>0</domrf_id>
             <floor>12</floor>
             <room>2</room>
@@ -44722,7 +44627,7 @@
           <flat>
             <flat_id>398535</flat_id>
             <apartment>735</apartment>
-            <booking>0</booking>
+            <booking>1</booking>
             <domrf_id>0</domrf_id>
             <floor>7</floor>
             <room>2</room>
@@ -45633,7 +45538,7 @@
           <flat>
             <flat_id>425480</flat_id>
             <apartment>11</apartment>
-            <booking>0</booking>
+            <booking>1</booking>
             <domrf_id>0</domrf_id>
             <floor>4</floor>
             <room>1</room>
@@ -45654,7 +45559,7 @@
           <flat>
             <flat_id>425487</flat_id>
             <apartment>18</apartment>
-            <booking>0</booking>
+            <booking>1</booking>
             <domrf_id>0</domrf_id>
             <floor>5</floor>
             <room>1</room>
@@ -48083,7 +47988,7 @@
           <flat>
             <flat_id>338923</flat_id>
             <apartment>2</apartment>
-            <booking>0</booking>
+            <booking>1</booking>
             <domrf_id>0</domrf_id>
             <floor>2</floor>
             <room>2</room>
@@ -48171,7 +48076,7 @@
           <flat>
             <flat_id>339015</flat_id>
             <apartment>94</apartment>
-            <booking>0</booking>
+            <booking>1</booking>
             <domrf_id>0</domrf_id>
             <floor>13</floor>
             <room>2</room>
@@ -48722,7 +48627,7 @@
           <flat>
             <flat_id>336638</flat_id>
             <apartment>949</apartment>
-            <booking>1</booking>
+            <booking>0</booking>
             <domrf_id>0</domrf_id>
             <floor>9</floor>
             <room>0</room>
@@ -48737,7 +48642,7 @@
           <flat>
             <flat_id>336764</flat_id>
             <apartment>1149</apartment>
-            <booking>1</booking>
+            <booking>0</booking>
             <domrf_id>0</domrf_id>
             <floor>11</floor>
             <room>0</room>
@@ -49038,30 +48943,9 @@
             <description>Студия, 24.5 кв.м, этаж 4 из 13. ЖК «Industrial AVENIR» от ГК «ПСК». Рядом метро Кировский завод, 3 мин пешком.</description>
           </flat>
           <flat>
-            <flat_id>336306</flat_id>
-            <apartment>437</apartment>
-            <booking>1</booking>
-            <domrf_id>0</domrf_id>
-            <floor>4</floor>
-            <room>0</room>
-            <plans>
-              <plan>https://feedhub.realty/feed-evel/plans/plan-453c90637f4e70da.jpg</plan>
-            </plans>
-            <price>6487358</price>
-            <discounts>
-              <discount>
-                <value>10.0</value>
-                <description>Скидка по акции</description>
-              </discount>
-            </discounts>
-            <area>24.5</area>
-            <housing_type>1</housing_type>
-            <description>Студия, 24.5 кв.м, этаж 4 из 13. ЖК «Industrial AVENIR» от ГК «ПСК». Рядом метро Кировский завод, 3 мин пешком.</description>
-          </flat>
-          <flat>
             <flat_id>336274</flat_id>
             <apartment>405</apartment>
-            <booking>1</booking>
+            <booking>0</booking>
             <domrf_id>0</domrf_id>
             <floor>4</floor>
             <room>0</room>
@@ -49460,7 +49344,7 @@
           <flat>
             <flat_id>336403</flat_id>
             <apartment>606</apartment>
-            <booking>0</booking>
+            <booking>1</booking>
             <domrf_id>0</domrf_id>
             <floor>6</floor>
             <room>0</room>
@@ -49592,27 +49476,6 @@
             <room>0</room>
             <plans>
               <plan>https://feedhub.realty/feed-evel/plans/plan-b7086bda7e674660.jpg</plan>
-            </plans>
-            <price>6562497</price>
-            <discounts>
-              <discount>
-                <value>10.0</value>
-                <description>Скидка по акции</description>
-              </discount>
-            </discounts>
-            <area>24.5</area>
-            <housing_type>1</housing_type>
-            <description>Студия, 24.5 кв.м, этаж 9 из 13. ЖК «Industrial AVENIR» от ГК «ПСК». Рядом метро Кировский завод, 3 мин пешком.</description>
-          </flat>
-          <flat>
-            <flat_id>336630</flat_id>
-            <apartment>941</apartment>
-            <booking>1</booking>
-            <domrf_id>0</domrf_id>
-            <floor>9</floor>
-            <room>0</room>
-            <plans>
-              <plan>https://feedhub.realty/feed-evel/plans/plan-6c6cf48ed5ae692d.jpg</plan>
             </plans>
             <price>6562497</price>
             <discounts>
@@ -50760,30 +50623,9 @@
             <description>Студия, 23.5 кв.м, этаж 4 из 13. ЖК «Industrial AVENIR» от ГК «ПСК». Рядом метро Кировский завод, 3 мин пешком.</description>
           </flat>
           <flat>
-            <flat_id>336296</flat_id>
-            <apartment>427</apartment>
-            <booking>1</booking>
-            <domrf_id>0</domrf_id>
-            <floor>4</floor>
-            <room>0</room>
-            <plans>
-              <plan>https://feedhub.realty/feed-evel/plans/plan-5616f28d69adf6e1.jpg</plan>
-            </plans>
-            <price>6784258</price>
-            <discounts>
-              <discount>
-                <value>10.0</value>
-                <description>Скидка по акции</description>
-              </discount>
-            </discounts>
-            <area>24.4</area>
-            <housing_type>1</housing_type>
-            <description>Студия, 24.4 кв.м, этаж 4 из 13. ЖК «Industrial AVENIR» от ГК «ПСК». Рядом метро Кировский завод, 3 мин пешком.</description>
-          </flat>
-          <flat>
             <flat_id>336297</flat_id>
             <apartment>428</apartment>
-            <booking>0</booking>
+            <booking>1</booking>
             <domrf_id>0</domrf_id>
             <floor>4</floor>
             <room>0</room>
@@ -50949,27 +50791,6 @@
             <description>Студия, 25.7 кв.м, этаж 6 из 13. ЖК «Industrial AVENIR» от ГК «ПСК». Рядом метро Кировский завод, 3 мин пешком.</description>
           </flat>
           <flat>
-            <flat_id>336864</flat_id>
-            <apartment>1329</apartment>
-            <booking>1</booking>
-            <domrf_id>0</domrf_id>
-            <floor>13</floor>
-            <room>0</room>
-            <plans>
-              <plan>https://feedhub.realty/feed-evel/plans/plan-24e626e743365062.jpg</plan>
-            </plans>
-            <price>6923001</price>
-            <discounts>
-              <discount>
-                <value>10.0</value>
-                <description>Скидка по акции</description>
-              </discount>
-            </discounts>
-            <area>24.4</area>
-            <housing_type>1</housing_type>
-            <description>Студия, 24.4 кв.м, этаж 13 из 13. ЖК «Industrial AVENIR» от ГК «ПСК». Рядом метро Кировский завод, 3 мин пешком.</description>
-          </flat>
-          <flat>
             <flat_id>336279</flat_id>
             <apartment>410</apartment>
             <booking>0</booking>
@@ -51094,27 +50915,6 @@
             <area>37.1</area>
             <housing_type>1</housing_type>
             <description>Студия, 37.1 кв.м, этаж 8 из 13. ЖК «Industrial AVENIR» от ГК «ПСК». Рядом метро Кировский завод, 3 мин пешком.</description>
-          </flat>
-          <flat>
-            <flat_id>336600</flat_id>
-            <apartment>911</apartment>
-            <booking>1</booking>
-            <domrf_id>0</domrf_id>
-            <floor>9</floor>
-            <room>0</room>
-            <plans>
-              <plan>https://feedhub.realty/feed-evel/plans/plan-e294ad175afbd1e0.jpg</plan>
-            </plans>
-            <price>9207880</price>
-            <discounts>
-              <discount>
-                <value>10.0</value>
-                <description>Скидка по акции</description>
-              </discount>
-            </discounts>
-            <area>37.1</area>
-            <housing_type>1</housing_type>
-            <description>Студия, 37.1 кв.м, этаж 9 из 13. ЖК «Industrial AVENIR» от ГК «ПСК». Рядом метро Кировский завод, 3 мин пешком.</description>
           </flat>
           <flat>
             <flat_id>336663</flat_id>
@@ -51391,7 +51191,7 @@
           <flat>
             <flat_id>100420</flat_id>
             <apartment>544</apartment>
-            <booking>1</booking>
+            <booking>0</booking>
             <domrf_id>0</domrf_id>
             <floor>5</floor>
             <room>0</room>
@@ -51412,7 +51212,7 @@
           <flat>
             <flat_id>100259</flat_id>
             <apartment>343</apartment>
-            <booking>0</booking>
+            <booking>1</booking>
             <domrf_id>0</domrf_id>
             <floor>3</floor>
             <room>0</room>
@@ -51433,7 +51233,7 @@
           <flat>
             <flat_id>100271</flat_id>
             <apartment>355</apartment>
-            <booking>1</booking>
+            <booking>0</booking>
             <domrf_id>0</domrf_id>
             <floor>3</floor>
             <room>0</room>
@@ -51517,7 +51317,7 @@
           <flat>
             <flat_id>100409</flat_id>
             <apartment>533</apartment>
-            <booking>0</booking>
+            <booking>1</booking>
             <domrf_id>0</domrf_id>
             <floor>5</floor>
             <room>0</room>
@@ -51555,27 +51355,6 @@
             <area>39.23</area>
             <housing_type>1</housing_type>
             <description>Студия, 39.23 кв.м, этаж 7 из 14. ЖК «Ladozhsky AVENIR» от ГК «ПСК». Рядом метро Ладожская, 10 мин пешком.</description>
-          </flat>
-          <flat>
-            <flat_id>100484</flat_id>
-            <apartment>625</apartment>
-            <booking>1</booking>
-            <domrf_id>0</domrf_id>
-            <floor>6</floor>
-            <room>0</room>
-            <plans>
-              <plan>https://feedhub.realty/feed-evel/plans/plan-9b58f72c7d19c7b4.jpg</plan>
-            </plans>
-            <price>9997785</price>
-            <discounts>
-              <discount>
-                <value>10.0</value>
-                <description>Скидка по акции</description>
-              </discount>
-            </discounts>
-            <area>39.35</area>
-            <housing_type>1</housing_type>
-            <description>Студия, 39.35 кв.м, этаж 6 из 14. ЖК «Ladozhsky AVENIR» от ГК «ПСК». Рядом метро Ладожская, 10 мин пешком.</description>
           </flat>
           <flat>
             <flat_id>100606</flat_id>
@@ -52494,7 +52273,7 @@
           <flat>
             <flat_id>85975</flat_id>
             <apartment>21</apartment>
-            <booking>1</booking>
+            <booking>0</booking>
             <domrf_id>0</domrf_id>
             <floor>5</floor>
             <room>2</room>
@@ -52908,35 +52687,6 @@
     <buildings>
       <building>
         <id>0</id>
-        <name>корпус 1</name>
-        <latitude>59.970213</latitude>
-        <longitude>30.306256</longitude>
-        <address>г. Санкт-Петербург, набережная реки Карповки, д. 31, лит.А</address>
-        <floors>3</floors>
-        <building_state>unfinished</building_state>
-        <built_year>2023</built_year>
-        <ready_quarter>4</ready_quarter>
-        <flats>
-          <flat>
-            <flat_id>87321</flat_id>
-            <apartment>4</apartment>
-            <booking>1</booking>
-            <domrf_id>0</domrf_id>
-            <floor>3</floor>
-            <room>2</room>
-            <plans>
-              <plan>https://feedhub.realty/feed-evel/plans/plan-a7a58b55c7bc17be.jpg</plan>
-            </plans>
-            <renovation>без отделки</renovation>
-            <price>66220000</price>
-            <area>94.6</area>
-            <housing_type>0</housing_type>
-            <description>2-комнатная квартира, 94.6 кв.м, этаж 3 из 3. ЖК «Северная корона» от ГК «ПСК». Рядом метро Петроградская, 7 мин пешком.</description>
-          </flat>
-        </flats>
-      </building>
-      <building>
-        <id>0</id>
         <name>корпус 2</name>
         <latitude>59.970213</latitude>
         <longitude>30.306256</longitude>
@@ -52991,6 +52741,22 @@
             <housing_type>0</housing_type>
             <description>3-комнатная квартира, 77.2 кв.м, этаж 2 из 8. ЖК «Северная корона» от ГК «ПСК». Рядом метро Петроградская, 7 мин пешком.</description>
           </flat>
+          <flat>
+            <flat_id>87660</flat_id>
+            <apartment>343</apartment>
+            <booking>0</booking>
+            <domrf_id>0</domrf_id>
+            <floor>5</floor>
+            <room>3</room>
+            <plans>
+              <plan>https://feedhub.realty/feed-evel/plans/plan-4a454668f8d48e20.jpg</plan>
+            </plans>
+            <renovation>без отделки</renovation>
+            <price>52095000</price>
+            <area>75.5</area>
+            <housing_type>0</housing_type>
+            <description>3-комнатная квартира, 75.5 кв.м, этаж 5 из 8. ЖК «Северная корона» от ГК «ПСК». Рядом метро Петроградская, 7 мин пешком.</description>
+          </flat>
         </flats>
       </building>
       <building>
@@ -53039,7 +52805,7 @@
           <flat>
             <flat_id>87414</flat_id>
             <apartment>97</apartment>
-            <booking>0</booking>
+            <booking>1</booking>
             <domrf_id>0</domrf_id>
             <floor>6</floor>
             <room>3</room>
@@ -53066,20 +52832,20 @@
         <ready_quarter>4</ready_quarter>
         <flats>
           <flat>
-            <flat_id>87632</flat_id>
-            <apartment>315</apartment>
-            <booking>1</booking>
+            <flat_id>87623</flat_id>
+            <apartment>306</apartment>
+            <booking>0</booking>
             <domrf_id>0</domrf_id>
-            <floor>6</floor>
+            <floor>3</floor>
             <room>2</room>
             <plans>
-              <plan>https://feedhub.realty/feed-evel/plans/plan-7f62b21e62652d42.jpg</plan>
+              <plan>https://feedhub.realty/feed-evel/plans/plan-dfcf39bc460f86da.jpg</plan>
             </plans>
             <renovation>без отделки</renovation>
-            <price>69204000</price>
-            <area>94.8</area>
+            <price>67270000</price>
+            <area>96.1</area>
             <housing_type>0</housing_type>
-            <description>2-комнатная квартира, 94.8 кв.м, этаж 6 из 8. ЖК «Северная корона» от ГК «ПСК». Рядом метро Петроградская, 7 мин пешком.</description>
+            <description>2-комнатная квартира, 96.1 кв.м, этаж 3 из 8. ЖК «Северная корона» от ГК «ПСК». Рядом метро Петроградская, 7 мин пешком.</description>
           </flat>
           <flat>
             <flat_id>87636</flat_id>
@@ -53113,7 +52879,7 @@
           <flat>
             <flat_id>87543</flat_id>
             <apartment>226</apartment>
-            <booking>0</booking>
+            <booking>1</booking>
             <domrf_id>0</domrf_id>
             <floor>8</floor>
             <room>1</room>
@@ -53129,7 +52895,7 @@
           <flat>
             <flat_id>87542</flat_id>
             <apartment>225</apartment>
-            <booking>1</booking>
+            <booking>0</booking>
             <domrf_id>0</domrf_id>
             <floor>8</floor>
             <room>3</room>
